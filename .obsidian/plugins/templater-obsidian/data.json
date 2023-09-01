@@ -1,0 +1,42 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "Thiết lập/Templates",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": true,
+  "enable_system_commands": true,
+  "shell_path": "",
+  "user_scripts_folder": "Thiết lập/Templates",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "⚔️ Lớp học",
+      "template": "Thiết lập/Templates/Bài học.md"
+    },
+    {
+      "folder": "📐 Dự án hỗ trợ người mới học Obsidian/2 Thành quả mong muốn",
+      "template": "Thiết lập/Templates/Thành quả.md"
+    },
+    {
+      "folder": "📐 Dự án hỗ trợ người mới học Obsidian/3 Thành phẩm",
+      "template": "Thiết lập/Templates/Thành phẩm.md"
+    },
+    {
+      "folder": "/",
+      "template": "Thiết lập/Templates/Ý tưởng.md"
+    }
+  ],
+  "syntax_highlighting": true,
+  "enabled_templates_hotkeys": [
+    ""
+  ],
+  "startup_templates": [
+    ""
+  ],
+  "enable_ribbon_icon": true
+}

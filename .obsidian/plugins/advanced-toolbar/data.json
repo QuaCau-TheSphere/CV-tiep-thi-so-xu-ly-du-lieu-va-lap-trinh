@@ -7,10 +7,6 @@
   "alwaysShowToolbar": true,
   "mappedIcons": [
     {
-      "commandID": "obsidian-editor-shortcuts:deleteLine",
-      "iconID": "minus"
-    },
-    {
       "commandID": "obsidian-editor-shortcuts:duplicateLine",
       "iconID": "plus"
     },

@@ -105,6 +105,7 @@
       "addCmd": false
     },
     "noticeError": true,
-    "displayModalRepoEditing": true
+    "displayModalRepoEditing": true,
+    "migrated": true
   }
 }

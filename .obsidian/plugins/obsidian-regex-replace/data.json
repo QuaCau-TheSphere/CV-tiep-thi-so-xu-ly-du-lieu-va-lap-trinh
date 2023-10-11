@@ -1,6 +1,6 @@
 {
-  "findText": "^\\d\\. _.*\\n",
-  "replaceText": "",
+  "findText": " ([i|j]) ",
+  "replaceText": " $$1$ ",
   "useRegEx": true,
   "selOnly": false,
   "caseInsensitive": false,

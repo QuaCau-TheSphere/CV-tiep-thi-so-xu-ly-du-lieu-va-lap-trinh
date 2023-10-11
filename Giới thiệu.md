@@ -1,5 +1,7 @@
 ---
-share: True
+share: true
+created: 2023-08-25T15:39
+updated: 2023-09-26T16:22
 ---
 Những thứ được ghi lại:
 - Cái nào mò mẫm khi làm dự án mà ko hiểu trong vài lần đầu. Những khái niệm này là thiết yếu trong việc xây dựng mental model
@@ -7,6 +9,7 @@ Những thứ được ghi lại:
 - Phép so sánh, ẩn dụ
 - Sự tương phản giữa các định nghĩa
 - Giải pháp cho bug thường gặp mà tốn nhiều thời gian tìm hiểu
+- Ý đồ thiết kế (design choice) 
 
 Không có:
 - Giới thiệu chi tiết. Cái đó thì sẽ dẫn link qua họ

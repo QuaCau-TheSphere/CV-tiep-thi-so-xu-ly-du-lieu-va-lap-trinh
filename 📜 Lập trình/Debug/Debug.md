@@ -1,3 +1,11 @@
+---
+share: true
+filename: index
+title: Debug
+created: 2023-08-25T14:20
+updated: 2023-10-17T15:40
+---
+
 # Debug trực tiếp ngay trên script
 1. Dùng console.log
 3. Dùng try...catch

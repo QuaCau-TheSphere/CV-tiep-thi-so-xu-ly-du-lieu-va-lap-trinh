@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "f2cb0299f9068e33",
+        "id": "b50a946b3f7764ef",
         "type": "tabs",
         "children": [
           {
-            "id": "3b563e8d5bdc7dc1",
+            "id": "6014e3a4733f90c2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "👏Trấn Kỳ/Trấn Kỳ — Phân loại thu chi bằng tiếng Việt tự nhiên.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "024cc2e77294fa34",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "⚡Hiểu biết sâu/Khoa học máy tính/Khoa học máy tính.md",
-                "mode": "source",
+                "file": "👏Trấn Kỳ/Hướng dẫn sử dụng Trấn Kỳ/2. Thiết lập chương trình/2. Thiết lập chương trình.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "⚡Hiểu biết sâu/Khoa học máy tính/Khoa học máy tính.md",
+                "file": "👏Trấn Kỳ/Hướng dẫn sử dụng Trấn Kỳ/2. Thiết lập chương trình/2. Thiết lập chương trình.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "⚡Hiểu biết sâu/Khoa học máy tính/Khoa học máy tính.md",
+                "file": "👏Trấn Kỳ/Hướng dẫn sử dụng Trấn Kỳ/2. Thiết lập chương trình/2. Thiết lập chương trình.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "⚡Hiểu biết sâu/Khoa học máy tính/Khoa học máy tính.md"
+                "file": "👏Trấn Kỳ/Hướng dẫn sử dụng Trấn Kỳ/2. Thiết lập chương trình/2. Thiết lập chương trình.md"
               }
             }
           },
@@ -186,61 +172,60 @@
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
       "obsidian42-brat:BRAT": false,
+      "dbfolder:Create a new database table": false,
       "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "homepage:Open homepage": false,
-      "notion-like-tables:Create new loom": false,
-      "dbfolder:Create a new database table": false
+      "notion-like-tables:Create loom": false,
+      "homepage:Open homepage": false
     }
   },
-  "active": "024cc2e77294fa34",
+  "active": "6014e3a4733f90c2",
   "lastOpenFiles": [
-    "⚡Hiểu biết sâu/Khoa học máy tính/Cơ sở dữ liệu/Các chương trình ứng dụng không giao tiếp trực tiếp với CSDL mà qua một trung gian gọi là hệ quản trị cơ sở dữ liệu.md",
-    "📜 Lập trình/Git/Vật thể git.md",
-    "📜 Lập trình/Hệ điều hành (Windows)/Terminal, shell, console/PowerShell/PowerShell là một ngôn ngữ shell.md",
-    "👏Trấn Kỳ/Mô hình xử lý dữ liệu.md",
-    "📜 Lập trình/Git/GitHub/Template và fork.md",
-    "📜 Lập trình/Git/GitHub",
+    "Thiết lập/Tình trạng web.md",
+    "👏Trấn Kỳ/Hướng dẫn sử dụng Trấn Kỳ/2. Thiết lập chương trình/2. Thiết lập chương trình.md",
+    "Thiết lập/Untitled.md",
+    "👏Trấn Kỳ/Hướng dẫn sử dụng Trấn Kỳ/2. Thiết lập chương trình/Hiểu về YAML.md",
+    "Nơi này là nơi nào.md",
+    "📜 Lập trình/📜 Lập trình.md",
     "👏Trấn Kỳ/Trấn Kỳ — Phân loại thu chi bằng tiếng Việt tự nhiên.md",
-    "⚔️Dự án/3 Thành phẩm/Bản đánh giá nhu cầu thị trường.md",
-    "⚔️Dự án/3 Thành phẩm/Hướng dẫn đọc code cho người thấy việc biết lập trình là quan trọng nhưng không thể biến nó trở thành ưu tiên cao nhất.md",
-    "⚔️Dự án/3 Thành phẩm/Các buổi đáp ứng nhu cầu học cách sử dụng công cụ và hiểu tư duy lập trình cho nhu cầu cá nhân hoặc nghiên cứu/Khảo sát người muốn tham gia nhóm học lập trình.md",
-    "⚔️Dự án/3 Thành phẩm/Các buổi đáp ứng nhu cầu học cách sử dụng công cụ và hiểu tư duy lập trình cho nhu cầu cá nhân hoặc nghiên cứu/Các buổi đáp ứng nhu cầu học cách sử dụng công cụ và hiểu tư duy lập trình cho nhu cầu cá nhân hoặc nghiên cứu.md",
-    "⚔️Dự án/2 Thành quả mong muốn/Trấn Kỳ/Mỗi tuần có 300 người bấm vào Trấn Kỳ.md",
-    "⚔️Dự án/2 Thành quả mong muốn/Trấn Kỳ/Mỗi tuần có 30 người bấm vào trang lấy code.md",
-    "⚔️Dự án/2 Thành quả mong muốn/Trấn Kỳ/Mỗi tuần có 2 người mua hàng.md",
-    "⚔️Dự án/1 Nhu cầu/Kendy giải quyết được vấn đề trả lãi.md",
-    "⚔️Dự án/1 Nhu cầu/Mỗi tháng thu được 40tr.md",
-    "👏Trấn Kỳ/Lý do viết Trấn Kỳ.md",
-    "👏Trấn Kỳ/Quản lý công việc và quản lý kiến thức không thể tách rời nhau.md",
-    "👏Trấn Kỳ/Hướng dẫn sử dụng/2. Thiết lập chương trình/2.1 Thiết lập cấu hình.md",
-    "📜 Lập trình/IDE (VS Code)/Giao diện VS Code.md",
-    "📜 Lập trình/IDE (VS Code)/Phím tắt trong VS Code.md",
-    "👏Trấn Kỳ/Hướng dẫn sử dụng/2. Thiết lập chương trình/Chạy chương trình định kỳ.md",
-    "👏Trấn Kỳ/Hướng dẫn sử dụng/2. Thiết lập chương trình/Hiểu về YAML.md",
-    "👏Trấn Kỳ/Hướng dẫn sử dụng/2. Thiết lập chương trình/Sử dụng Docker.md",
-    "👏Trấn Kỳ/Hướng dẫn sử dụng/2. Thiết lập chương trình/Sử dụng VS Code.md",
-    "👏Trấn Kỳ/Hướng dẫn sử dụng/Hướng dẫn sử dụng.md",
-    "⚡Hiểu biết sâu/Ξ Nguồn/Viblo.md",
+    "👏Trấn Kỳ/Hướng dẫn sử dụng Trấn Kỳ/2. Thiết lập chương trình/Chạy chương trình định kỳ.md",
+    "👏Trấn Kỳ/nháp.md",
+    "📜 Lập trình/Web/Web tĩnh/MkDocs/main.html mở rộng base.html.md",
+    "👏Trấn Kỳ/Hướng dẫn sử dụng Trấn Kỳ/Hướng dẫn sử dụng Trấn Kỳ.md",
+    "📜 Lập trình/Web/Web tĩnh/MkDocs/Obsidian Mkdocs Publisher/Cẩn thận với plugin ezlinks.md",
+    "📜 Lập trình/Web/Web tĩnh/MkDocs/Obsidian Mkdocs Publisher/Untitled.md",
+    "📜 Lập trình/Web/Web động/WordPress.org là phần mềm mã nguồn mở. WordPress.com là dịch vụ hosting.md",
+    "📜 Lập trình/Web/Web tĩnh/MkDocs/Obsidian Mkdocs Publisher",
+    "📜 Lập trình/Web/Web tĩnh/Mkdocs giúp dựng một web tĩnh từ các file markdown.md",
+    "📜 Lập trình/Web/Web tĩnh/MkDocs/Obsidian Mkdocs Publisher/py-obsidianmd gặp lỗi khi chuyển từ ALL sang FRONTMATTER.md",
+    "📜 Lập trình/Web/Web động/WordPress viết trên nền PHP.md",
+    "👏Trấn Kỳ/Hướng dẫn sử dụng Trấn Kỳ/1. Cài đặt và sử dụng nhanh/1.1 Cài đặt PowerShell, Deno, Python, Git, VS Code.md",
+    "📜 Lập trình/Web/Web tĩnh/MkDocs/Bất cứ một tệp nào trong overrides sẽ thay thế tệp ở theme gốc.md",
+    "📜 Lập trình/Web/Web tĩnh/MkDocs/main.html là template.md",
+    "📜 Lập trình/Web/Web tĩnh/MkDocs/frontmatter là để cho theme xử lý.md",
+    "📜 Lập trình/Web/Web tĩnh/Muốn cái nào làm trang chủ thì để tên là index.html.md",
+    "📜 Lập trình/Web/Web tĩnh/MkDocs",
+    "📜 Lập trình/Web/Web tĩnh/Github Page, Netlifier, Verxel là những.md",
+    "📜 Lập trình/Regex, Unicode, tiếng Việt, emoji/Regex/Tiếng Việt có 2 cách đặt dấu thanh.md",
+    "👏Trấn Kỳ/Hướng dẫn sử dụng Trấn Kỳ/1. Cài đặt và sử dụng nhanh/1.2 Lấy code.md",
+    "📜 Lập trình/Cấu trúc dữ liệu.md",
+    "Thiết lập/Ảnh/Trấn Kỳ/Keep to FIbery.png",
+    "👏Trấn Kỳ/Hướng dẫn sử dụng Trấn Kỳ/2. Thiết lập chương trình",
+    "Untitled",
+    "2. Thiết lập chương trình",
+    "👏Trấn Kỳ/Hướng dẫn sử dụng Trấn Kỳ/New folder",
+    "👏Trấn Kỳ/Hướng dẫn sử dụng Trấn Kỳ/3. Hiểu code nói gì",
+    "👏Trấn Kỳ/Hướng dẫn sử dụng Trấn Kỳ/Thiết lập chương trình",
+    "⚡Hiểu biết sâu/Truyền thông/Google Analytics",
+    "📜 Lập trình/Git/GitHub",
     "Thiết lập/Ảnh/ERP/Tự xây dựng ERP.png",
     "Thiết lập/Ảnh/ERP/Thuê lập trình viên.png",
     "Thiết lập/Ảnh/ERP/Nhu cầu của người làm kinh doanh cá nhân.svg",
     "Thiết lập/Ảnh/ERP/Dùng ERP dựng sẵn.png",
-    "Thiết lập/Ảnh/ERP",
-    "👏Trấn Kỳ/Mô hình xử lý dữ liệu - Copy.txt",
-    "👏Trấn Kỳ/Lý do viết Trấn Kỳ - Copy.txt",
-    "👏Trấn Kỳ/Hướng dẫn sử dụng - Copy.txt",
-    "👏Trấn Kỳ/Trấn Kỳ — Phân loại thu chi bằng tiếng Việt tự nhiên - Copy.txt",
-    "⚔️Dự án/2 Thành quả mong muốn/Trấn Kỳ",
-    "⚔️Dự án/2 Thành quả mong muốn/New folder",
-    "⚔️Dự án/3 Thành phẩm/Trấn Kỳ",
-    "⚔️Dự án/3 Thành phẩm/New folder",
     "Thiết lập/Ảnh/Phân loại câu nhập bằng tiếng Việt tự nhiên.png",
     "Thiết lập/Ảnh/Ảnh procrastination/Procrastinators-Matrix1-539x600.png",
     "Thiết lập/Ảnh/Ảnh procrastination/Eisenhower-Matrix-Actions-539x600.png",
     "Thiết lập/Ảnh/Ảnh procrastination/Eisenhower-Matrix-920x1024.png",
     "Thiết lập/Ảnh/Philanthropy/Từ thiện.png",
-    "Thiết lập/Ảnh/Philanthropy/Từ thiện + X.png",
     "Untitled.canvas",
     "Trang chủ.canvas"
   ]

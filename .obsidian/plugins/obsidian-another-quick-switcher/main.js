@@ -2266,6 +2266,9 @@ function matchQuery(item, query, options) {
   if (!includeDir) {
     return [{ type: "not found", query }];
   }
+  if (file.length === 0) {
+    return [{ type: "directory", meta: [item.file.path], query }];
+  }
   let results = [];
   if (item.tokens.some((t) => smartEquals(t, file, isNormalizeAccentsDiacritics))) {
     results.push({ type: "word-perfect", meta: [item.file.name], query });
@@ -2754,9 +2757,19 @@ var AnotherQuickSwitcherModal = class extends import_obsidian4.SuggestModal {
       true
     );
   }
+  close() {
+    if (import_obsidian4.Platform.isMobile) {
+      this.onClose();
+    }
+    super.close();
+  }
   safeClose() {
     this.close();
     return this.isClosed;
+  }
+  silentClose() {
+    this.willSilentClose = true;
+    this.close();
   }
   onOpen() {
     super.onOpen();
@@ -2783,10 +2796,6 @@ var AnotherQuickSwitcherModal = class extends import_obsidian4.SuggestModal {
       this.navigate(() => this.stateToRestore.restore());
     }
     this.navigate(this.markClosed);
-  }
-  silentClose() {
-    this.willSilentClose = true;
-    this.close();
   }
   enableFloating() {
     this.floating = true;
@@ -2926,6 +2935,10 @@ var AnotherQuickSwitcherModal = class extends import_obsidian4.SuggestModal {
       this.showDebugLog(() => `afterCommand: ${this.command.name}`);
     }
     this.searchQuery = query.startsWith(this.command.commandPrefix) ? query.replace(this.command.commandPrefix, "") : query;
+    this.searchQuery = this.searchQuery.replace(
+      /<cd>/g,
+      this.appHelper.getCurrentDirPath()
+    );
     if (this.command.defaultInput) {
       this.searchQuery = `${this.command.defaultInput}${this.searchQuery}`;
     }

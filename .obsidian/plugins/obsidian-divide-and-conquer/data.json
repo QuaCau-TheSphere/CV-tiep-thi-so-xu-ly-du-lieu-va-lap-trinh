@@ -10,6 +10,6 @@
   "filterUsingDescription": false,
   "initializeAfterPluginChanges": true,
   "reloadAfterPluginChanges": false,
-  "disabledStates": "{\"plugins\":[[\"obsidian-leaflet-plugin\",\"obsidian-mind-map\",\"obsidian-icon-folder\",\"obsidian-banners\"]]}",
-  "snapshots": "{\"plugins\":[\"obsidian-leaflet-plugin\",\"obsidian-mind-map\",\"obsidian-icon-folder\",\"obsidian-banners\"]}"
+  "disabledStates": "{\"plugins\":[[\"obsidian-leaflet-plugin\",\"obsidian-git\",\"obsidian-mind-map\",\"obsidian-icon-folder\",\"advanced-toolbar\"]]}",
+  "snapshots": "{\"plugins\":[\"obsidian-leaflet-plugin\",\"obsidian-git\",\"obsidian-mind-map\",\"obsidian-icon-folder\",\"advanced-toolbar\"]}"
 }

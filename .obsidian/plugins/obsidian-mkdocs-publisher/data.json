@@ -31,8 +31,9 @@
       "name": "",
       "commitMessage": "[skip netlify] PUBLISHER"
     },
-    "repo": "CW-obsidian-quan-ly-du-an-va-cong-cu-nghi",
-    "user": "QuaCau-TheSphere"
+    "repo": "ObsidianPulisherTest",
+    "user": "ooker777",
+    "verifiedRepo": true
   },
   "upload": {
     "behavior": "obsidian",
@@ -65,13 +66,7 @@
   "conversion": {
     "hardbreak": false,
     "dataview": true,
-    "censorText": [
-      {
-        "entry": "10. PROJECT/ETERNITY/Wiki/Personnages",
-        "replace": "",
-        "after": true
-      }
-    ],
+    "censorText": [],
     "tags": {
       "inline": true,
       "exclude": [],
@@ -80,7 +75,8 @@
     "links": {
       "internal": true,
       "unshared": false,
-      "wiki": false
+      "wiki": true,
+      "slugify": true
     }
   },
   "embed": {
@@ -96,7 +92,7 @@
     "fileMenu": false,
     "editorMenu": false,
     "excludedFolder": [
-      "Thiết lập"
+      "./Thiết lập"
     ],
     "copyLink": {
       "enable": false,
@@ -106,6 +102,8 @@
     },
     "noticeError": true,
     "displayModalRepoEditing": true,
-    "migrated": true
-  }
+    "migrated": true,
+    "dev": true
+  },
+  "tabsID": "github-configuration"
 }

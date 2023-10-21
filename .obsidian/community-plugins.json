@@ -1,5 +1,4 @@
 [
-  "obsidian-divide-and-conquer",
   "obsidian-chartsview-plugin",
   "obsidian-full-calendar",
   "graph-analysis",
@@ -27,9 +26,7 @@
   "obsidian-discord-share",
   "ava",
   "obsidian-html-tags-autocomplete",
-  "obsidian-chat-view",
   "dbfolder",
-  "obsidian-party",
   "obsidian-plugin-groups",
   "quick-explorer",
   "obsidian-regex-replace",
@@ -37,10 +34,8 @@
   "simple-time-tracker",
   "obsidian-tasks-plugin",
   "templater-obsidian",
-  "various-complements",
   "obsidian-version-history-diff",
   "obsidian-mkdocs-publisher",
-  "advanced-toolbar",
   "table-editor-obsidian",
   "obsidian-another-quick-switcher",
   "obsidian-auto-link-title",
@@ -48,7 +43,6 @@
   "buttons",
   "obsidian-editor-shortcuts",
   "dataview",
-  "obsidian-excalidraw-plugin",
   "folder-note-plugin",
   "global-search-and-replace",
   "homepage",
@@ -60,7 +54,9 @@
   "nldates-obsidian",
   "note-refactor-obsidian",
   "notion-like-tables",
-  "obsidian-git",
   "obsidian42-brat",
-  "update-time-on-edit"
+  "update-time-on-edit",
+  "obsidian-front-matter-title-plugin",
+  "various-complements",
+  "obsidian-divide-and-conquer"
 ]

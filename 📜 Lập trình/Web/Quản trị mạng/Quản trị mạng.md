@@ -1,3 +1,11 @@
+---
+share: true
+filename: index
+title: Quản trị mạng
+created: 2023-08-25T14:38
+updated: 2023-10-17T15:41
+---
+
 ```dataview
 LIST
 FROM "Quản trị mạng" 

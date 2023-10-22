@@ -31,9 +31,10 @@
       "name": "",
       "commitMessage": "[skip netlify] PUBLISHER"
     },
-    "repo": "ObsidianPulisherTest",
-    "user": "ooker777",
-    "verifiedRepo": true
+    "repo": "cw-xu-ly-du-lieu-va-lap-trinh",
+    "user": "QuaCau-TheSphere",
+    "verifiedRepo": true,
+    "rateLimit": 3820
   },
   "upload": {
     "behavior": "obsidian",
@@ -57,7 +58,7 @@
       ]
     },
     "folderNote": {
-      "enable": false,
+      "enable": true,
       "rename": "index.md"
     },
     "metadataExtractorPath": "",
@@ -92,7 +93,7 @@
     "fileMenu": false,
     "editorMenu": false,
     "excludedFolder": [
-      "./Thiết lập"
+      "Ξ Thiết lập"
     ],
     "copyLink": {
       "enable": false,
@@ -105,5 +106,5 @@
     "migrated": true,
     "dev": true
   },
-  "tabsID": "github-configuration"
+  "tabsID": "plugin-settings"
 }

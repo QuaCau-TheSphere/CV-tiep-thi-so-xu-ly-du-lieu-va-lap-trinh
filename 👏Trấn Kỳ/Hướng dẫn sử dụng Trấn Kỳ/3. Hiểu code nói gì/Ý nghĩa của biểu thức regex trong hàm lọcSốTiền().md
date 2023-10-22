@@ -1,14 +1,14 @@
 ---
 share: true
 created: 2023-09-19T23:23
-updated: 2023-10-15T00:39
+updated: 2023-10-21T23:47
 ---
 
-```
+```js
 const regexSốTiền = new RegExp('=? *(\\d|,|\\.)+ ?(k|tr|d|đ)(?!' + ANY_CHAR + ')', 'giu');
 ```
 Ý nghĩa của biểu thức regex số tiền
-- `=? ` nghĩa là có thể có một dấu bằng (=) trước số tiền tổng. Dấu bằng đó có thể cách hoặc không cách con số đó
+- `＝? ` nghĩa là có thể có một dấu bằng (`＝`) trước số tiền tổng. Dấu bằng đó có thể cách hoặc không cách con số đó
 - `(\d|,|\.)+` khớp với một hoặc nhiều chữ số, dấu phẩy hoặc dấu chấm
 - ` ?(k|tr|d|đ)` dùng để đảm bảo rằng con số vừa tìm được là số tiền chứ không phải là một con số bất kỳ. Nó biết được điều này bằng việc tìm một trong các ký tự k, tr, d hoặc đ. Các ký tự này có thể có hoặc không có một dấu cách với con số đứng trước nó
 - `(?!kýTựChữHoặcSốBấtKỳ)` đảm bảo rằng đứng ngay sau đơn vị tiền không có chữ cái nào hết, phòng trường hợp những ký tự này nằm trong một từ nào đó

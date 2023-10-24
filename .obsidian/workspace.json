@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "👏Trấn Kỳ/Trấn Kỳ — Phân loại thu chi bằng tiếng Việt tự nhiên.md",
+                "file": "👏Trấn Kỳ/Hướng dẫn sử dụng Trấn Kỳ/Hướng dẫn sử dụng Trấn Kỳ.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "3777bd2a06db71ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📜 Lập trình/Regex, Unicode, tiếng Việt, emoji/Regex/Lazy quantifier chỉ lười về bên phải, chứ không về bên trái.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "👏Trấn Kỳ/Trấn Kỳ — Phân loại thu chi bằng tiếng Việt tự nhiên.md",
+                "file": "📜 Lập trình/Regex, Unicode, tiếng Việt, emoji/Regex/Lazy quantifier chỉ lười về bên phải, chứ không về bên trái.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "👏Trấn Kỳ/Trấn Kỳ — Phân loại thu chi bằng tiếng Việt tự nhiên.md",
+                "file": "📜 Lập trình/Regex, Unicode, tiếng Việt, emoji/Regex/Lazy quantifier chỉ lười về bên phải, chứ không về bên trái.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "👏Trấn Kỳ/Trấn Kỳ — Phân loại thu chi bằng tiếng Việt tự nhiên.md"
+                "file": "📜 Lập trình/Regex, Unicode, tiếng Việt, emoji/Regex/Lazy quantifier chỉ lười về bên phải, chứ không về bên trái.md"
               }
             }
           },
@@ -178,8 +192,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6014e3a4733f90c2",
+  "active": "3777bd2a06db71ba",
   "lastOpenFiles": [
+    "👏Trấn Kỳ/Hướng dẫn sử dụng Trấn Kỳ/Hướng dẫn sử dụng Trấn Kỳ.md",
+    "📜 Lập trình/Regex, Unicode, tiếng Việt, emoji/Regex/Lazy quantifier chỉ lười về bên phải, chứ không về bên trái.md",
+    "📜 Lập trình/Ngôn ngữ lập trình/Hiểu về YAML.md",
+    "👏Trấn Kỳ/Trấn Kỳ — Phân loại thu chi bằng tiếng Việt tự nhiên.md",
+    "👏Trấn Kỳ/Hướng dẫn sử dụng Trấn Kỳ/1. Cài đặt và sử dụng nhanh/1.2 Lấy code.md",
+    "Nơi này là nơi nào.md",
+    "📜 Lập trình/📜 Lập trình.md",
+    "📜 Lập trình/Cloud, webhook, API/Google API/Client gửi access token đến authorization server để được truy cập.md",
+    "📜 Lập trình/Cloud, webhook, API/Google API/Client ID là để authorization server biết client nào là client nào, còn client secret là để nó đảm bảo rằng client này chính là client đó.md",
+    "📜 Lập trình/Cloud, webhook, API/Google API/Client là ứng dụng muốn truy cập vào dữ liệu của user.md",
+    "📜 Lập trình/Cloud, webhook, API/Google API/Khi access token hết hạn truy cập, client gửi refresh token đến authorization server để được cấp access token mới.md",
+    "📜 Lập trình/Cloud, webhook, API/Google API/Authorization sinh ra access token để client sử dụng.md",
+    "📜 Lập trình/Cloud, webhook, API/Google API/Auth không phải là xác thực xem một người có phải đúng là người đó hay không, mà là cấp phép để họ làm một điều gì đó.md",
+    "⚡Hiểu biết sâu/Khoa học máy tính/Khoa học máy tính.md",
+    "⚡Hiểu biết sâu/Khoa học dữ liệu/Khoa học dữ liệu.md",
+    "⚡Hiểu biết sâu/Khoa học máy tính/Người không học về lập trình thấy việc lập trình như làm phép thuật.md",
+    "📜 Lập trình/Web/Web tĩnh/MkDocs/Obsidian Mkdocs Publisher/Plugin ezlinks vừa nhiều lỗi vừa không cần thiết.md",
+    "📜 Lập trình/Web/Web tĩnh/Mkdocs giúp dựng một web tĩnh từ các file markdown.md",
     "👏Trấn Kỳ/Lý do viết Trấn Kỳ.md",
     "👏Trấn Kỳ/Hướng dẫn sử dụng Trấn Kỳ/3. Hiểu code nói gì/Ý nghĩa của biểu thức regex trong hàm lọcSốTiền().md",
     "👏Trấn Kỳ/Hướng dẫn sử dụng Trấn Kỳ/3. Hiểu code nói gì/Ý nghĩa của biểu thức regex trong hàm lọcDữLiệuCầnTựĐộngNhậnDạng().md",
@@ -188,24 +220,6 @@
     "👏Trấn Kỳ/Hướng dẫn sử dụng Trấn Kỳ/3. Hiểu code nói gì/3.1 Mô hình xử lý dữ liệu.md",
     "👏Trấn Kỳ/Hướng dẫn sử dụng Trấn Kỳ/2. Thiết lập chương trình/2. Thiết lập chương trình.md",
     "👏Trấn Kỳ/Hướng dẫn sử dụng Trấn Kỳ/2. Thiết lập chương trình/Chạy chương trình định kỳ.md",
-    "👏Trấn Kỳ/Hướng dẫn sử dụng Trấn Kỳ/2. Thiết lập chương trình/Sử dụng Docker.md",
-    "👏Trấn Kỳ/Hướng dẫn sử dụng Trấn Kỳ/2. Thiết lập chương trình/Sử dụng main.ts.md",
-    "👏Trấn Kỳ/Hướng dẫn sử dụng Trấn Kỳ/2. Thiết lập chương trình/Sử dụng tranky.py.md",
-    "📜 Lập trình/Ngôn ngữ lập trình/Hiểu về YAML.md",
-    "📜 Lập trình/Ngôn ngữ lập trình/YAML thì để con người dễ đọc, còn JSON là để máy dễ đọc.md",
-    "👏Trấn Kỳ/Trấn Kỳ — Phân loại thu chi bằng tiếng Việt tự nhiên.md",
-    "👏Trấn Kỳ/Hướng dẫn sử dụng Trấn Kỳ/2. Thiết lập chương trình/Thiết lập trên Fibery.md",
-    "a.md",
-    "📜 Lập trình/Web/Web tĩnh/MkDocs/Obsidian Mkdocs Publisher/py-obsidianmd gặp lỗi khi chuyển từ ALL sang FRONTMATTER.md",
-    "📜 Lập trình/Web/Web tĩnh/MkDocs/Obsidian Mkdocs Publisher/Cẩn thận với plugin ezlinks.md",
-    "📜 Lập trình/Ngôn ngữ lập trình/Lập trình hướng vật thể/Khái niệm cơ bản/Lớp/Lớp là một cái khuôn để tạo các vật thể cho nhanh.md",
-    "📜 Lập trình/Ngôn ngữ lập trình/Python/Path, env, version/Conda/Với những người chỉ cần dùng Python để làm dữ liệu chứ không lập trình, chỉ cần cài Anaconda là đủ. Không cần và không nên cài Python riêng.md",
-    "📜 Lập trình/Ngôn ngữ lập trình/Python/Path, env, version/Conda/venv chỉ tạo môi trường ảo cho phiên bản hiện tại. Miniconda tạo môi trường ảo cho nhiều phiên bản.md",
-    "📜 Lập trình/Ngôn ngữ lập trình/Python/Path, env, version/Conda/Conda là trình quản lý thư viện, không chỉ của Python mà còn của các ngôn ngữ khác.md",
-    "📜 Lập trình/Ngôn ngữ lập trình/Python/Path, env, version/Conda/Anaconda giống như một fork Python có bổ sung thêm nhiều công cụ cho khoa học dữ liệu.md",
-    "📜 Lập trình/Ngôn ngữ lập trình/Lập trình hướng vật thể/Khái niệm cơ bản/Vật thể/Vật thể được tạo nên bởi những thuộc tính.md",
-    "📜 Lập trình/Ngôn ngữ lập trình/Lập trình hướng vật thể/Khái niệm cơ bản/Vật thể/Vật thể ngoài tự nhiên không chứa hướng dẫn để sử dụng nó. Vật thể trong máy tính có hướng dẫn sử dụng nó.md",
-    "📜 Lập trình/Ngôn ngữ lập trình/Lập trình hướng vật thể/Khái niệm cơ bản/Vật thể/Việc đóng gói (encapsulation) giúp ta không cần quan tâm vật thể lưu dữ liệu thế nào, mà chỉ cần quan tâm tới thuộc tính và phương thức của nó.md",
     "📜 Lập trình/Web/Web tĩnh/MkDocs/Obsidian Mkdocs Publisher",
     "📜 Lập trình/Ngôn ngữ lập trình/Lập trình hướng vật thể/Khái niệm cơ bản/Lớp",
     "📜 Lập trình/Ngôn ngữ lập trình/Python/Path, env, version/Conda",

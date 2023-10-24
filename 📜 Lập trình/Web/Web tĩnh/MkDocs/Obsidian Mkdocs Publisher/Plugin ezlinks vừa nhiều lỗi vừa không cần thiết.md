@@ -1,12 +1,9 @@
 ---
 share: true
-title: Plugin ezlinks khi gặp [[./a/index]] sẽ ra kết quả sai
 created: 2023-10-19T23:29
-updated: 2023-10-20T00:11
+updated: 2023-10-24T14:12
 ---
-Ezlink là plugin mà Obsidian Publisher sử dụng.
-
-Với `mkdocs.yml`:
+Ezlink là plugin cho Mkdocs để chuyển từ dạng `[[ưikilink]]` sang dạng `[MDlink]()`. Nó được để mặc định trong GitHub Publisher. Nó có nhiều lỗi. Ví dụ, với `mkdocs.yml`:
 ```yaml
 site_name: test
 plugins:
@@ -21,6 +18,7 @@ docs/
 └── a/ 
 	└── index.md
 ```
+
 Sau khi dựng ta sẽ có:
 ```
 site/ 
@@ -38,14 +36,13 @@ Nếu trong `docs/index.md` bạn có nội dung sau:
 ```
 Thì ở `site/index.html` sẽ ra kết quả html như sau:
 ```html
-```
-
 | docs/index.md    | site/index.html                                    | Trỏ đúng |
 | ---------------- | -------------------------------------------------- | -------- |
 | [[a/index]]      | <a href="a/" title="a/index">a/index</a>           | ✔        |
 | [[a/index.md]]   | <a href="a/" title="a/index.md">a/index.md</a>     | ✔        |
 | [[./a/index]]    | <a href="a/index" title="./a/index">./a/index</a>  | ❌        |
 | [[./a/index.md]] | <a href="a/" title="./a/index.md">./a/index.md</a> | ✔       |
+```
 
 Đồng thời Mkdocs sẽ báo như sau:
 ```
@@ -55,4 +52,10 @@ INFO    -  Doc file 'index.md' contains an
            you mean 'a/index.md'?
 ```
 
-[Expecting `\[\[./a/index\]\]` to returns `<a href="a/"`, get `<a href="a/index"` · Issue #53 · orbikm/mkdocs-ezlinks-plugin](https://github.com/orbikm/mkdocs-ezlinks-plugin/issues/53 "Expecting `[[./a/index]]` to returns `&lt;a href=&quot;a/&quot;`, get `&lt;a href=&quot;a/index&quot;` · Issue #53 · orbikm/mkdocs-ezlinks-plugin")
+Đây là các bug khác:
+
+- [Incorrect path doesn't stay incorrectly, but automatically is replaced with a different path](https://github.com/Lisandra-dev/mkdocs-ezlinked-plugin/issues/3 "Incorrect path doesn't stay incorrectly, but automatically is replaced with a different path · Issue #3 · Lisandra-dev/mkdocs-ezlinked-plugin")
+- [Expecting `[[./a/index]]` to return `<a href="a/"`, get `<a href="a/index"`](https://github.com/Lisandra-dev/mkdocs-ezlinked-plugin/issues/2 "Expecting `[[./a/index]]` to return `&lt;a href=&quot;a/&quot;`, get `&lt;a href=&quot;a/index&quot;` · Issue #2 · Lisandra-dev/mkdocs-ezlinked-plugin")
+- [Correct MD path with unicode characters doesn't render correct HTML path](https://github.com/Lisandra-dev/mkdocs-ezlinked-plugin/issues/4 "Correct MD path with unicode characters doesn't render correct HTML path · Issue #4 · Lisandra-dev/mkdocs-ezlinked-plugin")
+
+Tốt nhất là nên đổi wikilink sang  mdlink rồi xoá ezlinks trong `mkdocs.yml`.

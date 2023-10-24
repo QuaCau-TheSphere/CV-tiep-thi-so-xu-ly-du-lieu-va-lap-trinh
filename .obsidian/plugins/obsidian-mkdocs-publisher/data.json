@@ -31,10 +31,10 @@
       "name": "",
       "commitMessage": "[skip netlify] PUBLISHER"
     },
-    "repo": "cw-xu-ly-du-lieu-va-lap-trinh",
+    "repo": "ObsidianPulisherTest",
     "user": "QuaCau-TheSphere",
     "verifiedRepo": true,
-    "rateLimit": 3820
+    "rateLimit": 4995
   },
   "upload": {
     "behavior": "obsidian",
@@ -106,5 +106,5 @@
     "migrated": true,
     "dev": true
   },
-  "tabsID": "plugin-settings"
+  "tabsID": "github-configuration"
 }

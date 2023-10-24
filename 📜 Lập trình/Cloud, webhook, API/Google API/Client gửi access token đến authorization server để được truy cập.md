@@ -1,5 +1,7 @@
 ---
-share: True
+share: true
+created: 2023-10-21T20:49
+updated: 2023-10-24T15:42
 ---
 Là một đoạn mã dùng để xác thực quyền truy cập, cho phép ứng dụng bên thứ 3 có thể truy cập vào những dữ liệu của người dùng trong một phạm vi nhất định mà nó cho phép. Token này được gửi bởi **Client** như một tham số được truyền vào _hreader_ trong mỗi request khi cần truy cập đến tài nguyên trong **Resource server**.
 

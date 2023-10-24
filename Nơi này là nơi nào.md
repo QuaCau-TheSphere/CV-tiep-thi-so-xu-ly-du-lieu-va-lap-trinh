@@ -2,7 +2,7 @@
 share: true
 filename: index
 created: 2023-08-25T15:39
-updated: 2023-10-21T16:19
+updated: 2023-10-24T15:50
 ---
 Đây là vault bổ sung cho [Obsidian, quản lý dự án và công cụ nghĩ](https://obsidian.quảcầu.cc/?utm_source=CW+%C2%BB+X%E1%BB%AD+l%C3%BD+d%E1%BB%AF+li%E1%BB%87u+v%C3%A0+l%E1%BA%ADp+tr%C3%ACnh&utm_medium=Gi%E1%BB%9Bi+thi%E1%BB%87u&utm_campaign=C+H%E1%BB%97+tr%E1%BB%A3+ng%C6%B0%E1%BB%9Di+t%E1%BB%B1+h%E1%BB%8Dc+qu%E1%BA%A3n+l%C3%BD+d%E1%BB%B1+%C3%A1n+ho%E1%BA%B7c+ki%E1%BA%BFn+th%E1%BB%A9c&utm_term=%C4%90%E1%BB%8Dc+b%C3%A0i+vi%E1%BA%BFt+tr%C3%AAn+web), tập trung vào việc xử lý dữ liệu và lập trình. 
 

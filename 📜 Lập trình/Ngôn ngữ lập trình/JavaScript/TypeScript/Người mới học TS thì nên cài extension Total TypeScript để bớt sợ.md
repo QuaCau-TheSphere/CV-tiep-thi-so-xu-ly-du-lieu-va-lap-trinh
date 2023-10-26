@@ -1,5 +1,7 @@
 ---
-share: True
+share: true
+created: 2023-10-24T18:26
+updated: 2023-10-24T18:26
 ---
 
 Get helpful hints on syntax you've never seen before, with direct links to the docs. Once you feel you've got it covered, mark it as learned to hide the hints. Goes all the way from beginner to hyper-advanced. (Bấm <kbd>Ctrl+K Ctrl+I</kbd>) 

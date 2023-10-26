@@ -1,5 +1,7 @@
 ---
-share: True
+share: true
+created: 2023-10-24T18:26
+updated: 2023-10-24T18:26
 ---
 I want to call a another script from a Python script, and the shell running it is either PowerShell on Windows, or Bash on Ubuntu. How should I construct such a code?
 

@@ -1,5 +1,7 @@
 ---
-share: True
+share: true
+created: 2023-10-24T18:26
+updated: 2023-10-24T18:26
 ---
 Trong trường hợp của Docker Desktop, CLI client nằm ở máy host, còn daemon nằm ở máy ảo
 

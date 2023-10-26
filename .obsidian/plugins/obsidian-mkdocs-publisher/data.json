@@ -31,10 +31,10 @@
       "name": "",
       "commitMessage": "[skip netlify] PUBLISHER"
     },
-    "repo": "ObsidianPulisherTest",
+    "repo": "cw-xu-ly-du-lieu-va-lap-trinh",
     "user": "QuaCau-TheSphere",
     "verifiedRepo": true,
-    "rateLimit": 4995
+    "rateLimit": 4515
   },
   "upload": {
     "behavior": "obsidian",

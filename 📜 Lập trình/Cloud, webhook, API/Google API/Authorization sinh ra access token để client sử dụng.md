@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-21T20:49
-updated: 2023-10-24T15:41
+updated: 2023-10-24T18:26
 ---
 **Authorization server:** làm nhiệm vụ xác thực, kiểm tra thông tin mà user gửi đến từ đó cấp quyền truy cập cho ứng dụng bằng việc sinh ra các đoạn mã **access token**. Đôi khi _authorization server_ cũng chính là _resource server_.
 

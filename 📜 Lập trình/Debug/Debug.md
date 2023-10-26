@@ -3,7 +3,7 @@ share: true
 filename: index
 title: Debug
 created: 2023-08-25T14:20
-updated: 2023-10-17T15:40
+updated: 2023-10-24T18:26
 ---
 
 # Debug trực tiếp ngay trên script

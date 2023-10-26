@@ -1,5 +1,7 @@
 ---
-share: True
+share: true
+created: 2023-10-24T18:26
+updated: 2023-10-26T13:56
 ---
 As you can see below, even though the array is logged before the mutating method is applied, the debugger still shows it as already being applied. However, its elements and properties when called specifically still return correctly:
 
@@ -22,4 +24,4 @@ debugger
 ```
 
 
-Nguồn:: [[⚡Hiểu biết sâu/Ξ Nguồn/Stack Overflow]], [console.log() async or sync?](https://stackoverflow.com/q/23392111/3416774), [console.log() shows the changed value of a variable before the value actually changes](https://stackoverflow.com/q/11284663/3416774)
+Nguồn:: [[Nguồn và tài nguyên hỗ trợ/Ξ Nguồn/Stack Overflow]], [console.log() async or sync?](https://stackoverflow.com/q/23392111/3416774), [console.log() shows the changed value of a variable before the value actually changes](https://stackoverflow.com/q/11284663/3416774)

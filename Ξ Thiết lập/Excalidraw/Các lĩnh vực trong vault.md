@@ -1,7 +1,9 @@
 ---
 excalidraw-plugin: parsed
 tags: excalidraw
-share: True
+share: true
+created: 2023-10-24T18:26
+updated: 2023-10-24T18:26
 ---
 ==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
 

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2023-10-24T14:15
+updated: 2023-10-25T22:35
 title: Trấn Kỳ — Phân loại thu chi bằng tiếng Việt tự nhiên
 alias: Trấn Kỳ
 description: Phân loại câu nhập bằng tiếng Việt tự nhiên
@@ -22,6 +22,9 @@ Nếu bạn là người cần phân loại tất cả các chi tiêu của mìn
 
 Thì chương trình này dành cho bạn.
 ![[Hemi Head_med.png]]
+
+[[1.2 Lấy code|Tải Trấn Kỳ]]{ .md-button .md-button--primary } 
+
 # Tính năng
 ## Phân loại thông tin
 Ví dụ, với câu nhập đầu vào là:
@@ -134,4 +137,4 @@ Thật ra, chương trình này không hẳn nên được đặt tên là "Phâ
 
 Bạn muốn đọc gì tiếp theo?
 
-[[1.2 Lấy code|Tải Trấn Kỳ]]{ .md-button .md-button--primary } [Lý do viết Trấn Kỳ](https://obsidian.quảcầu.cc/%F0%9F%93%90%20d%E1%BB%B1%20%C3%A1n/3%20th%C3%A0nh%20ph%E1%BA%A9m/h%E1%BB%97%20tr%E1%BB%A3%20kendy/9%20blog/l%C3%BD%20do%20vi%E1%BA%BFt%20tr%E1%BA%A5n%20k%E1%BB%B3/?utm_source=CW+X%E1%BB%AD+l%C3%BD+d%E1%BB%AF+li%E1%BB%87u+v%C3%A0+l%E1%BA%ADp+tr%C3%ACnh+%C2%BB+Gi%E1%BB%9Bi+thi%E1%BB%87u+Tr%E1%BA%A5n+K%E1%BB%B3&utm_medium=Gi%E1%BB%9Bi+thi%E1%BB%87u&utm_campaign=Tr%E1%BA%A5n+K%E1%BB%B3){ .md-button .md-button--primary } [[Hướng dẫn sử dụng Trấn Kỳ|Hướng dẫn sử dụng Trấn Kỳ]]{ .md-button .md-button--primary }
+[[1.2 Lấy code|Tải Trấn Kỳ]]{ .md-button .md-button--primary } [[Hướng dẫn sử dụng Trấn Kỳ|Hướng dẫn sử dụng Trấn Kỳ]]{ .md-button .md-button--primary } [Lý do viết Trấn Kỳ](https://obsidian.quảcầu.cc/%F0%9F%93%90%20d%E1%BB%B1%20%C3%A1n/3%20th%C3%A0nh%20ph%E1%BA%A9m/h%E1%BB%97%20tr%E1%BB%A3%20kendy/9%20blog/l%C3%BD%20do%20vi%E1%BA%BFt%20tr%E1%BA%A5n%20k%E1%BB%B3/?utm_source=CW+X%E1%BB%AD+l%C3%BD+d%E1%BB%AF+li%E1%BB%87u+v%C3%A0+l%E1%BA%ADp+tr%C3%ACnh+%C2%BB+Gi%E1%BB%9Bi+thi%E1%BB%87u+Tr%E1%BA%A5n+K%E1%BB%B3&utm_medium=Gi%E1%BB%9Bi+thi%E1%BB%87u&utm_campaign=Tr%E1%BA%A5n+K%E1%BB%B3){ .md-button .md-button--primary }

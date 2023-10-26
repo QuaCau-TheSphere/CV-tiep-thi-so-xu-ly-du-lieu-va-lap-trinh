@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-24T16:28
-updated: 2023-10-24T16:32
+updated: 2023-10-26T13:56
 ---
 Nếu bạn có chuỗi sau:
 ```
@@ -26,4 +26,4 @@ START word word word END END
 
 Thì nó sẽ ra đúng kết quả.
 
-Nguồn:: [[Stack Overflow]], [Why is the lazy quantifier indeed lazy to the right, but not to the left?](https://stackoverflow.com/q/77134671/3416774)
+Nguồn:: [[Nguồn và tài nguyên hỗ trợ/Ξ Nguồn/Stack Overflow]], [Why is the lazy quantifier indeed lazy to the right, but not to the left?](https://stackoverflow.com/q/77134671/3416774)

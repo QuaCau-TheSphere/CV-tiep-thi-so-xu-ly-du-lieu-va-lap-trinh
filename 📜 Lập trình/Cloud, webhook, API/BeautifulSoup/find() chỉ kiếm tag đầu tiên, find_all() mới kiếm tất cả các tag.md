@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-19T12:15
-updated: 2023-09-19T12:16
+updated: 2023-10-24T18:26
 ---
 ```python
 # return the first meta tag

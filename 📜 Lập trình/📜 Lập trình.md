@@ -1,9 +1,8 @@
 ---
 share: true
-filename: index
 title: 📜 Lập trình
 created: 2023-08-25T14:20
-updated: 2023-10-24T15:41
+updated: 2023-10-25T22:47
 ---
 
 ```dataview

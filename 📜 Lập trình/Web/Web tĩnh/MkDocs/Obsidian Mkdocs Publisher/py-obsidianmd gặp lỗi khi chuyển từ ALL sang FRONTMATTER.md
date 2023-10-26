@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-20T00:18
-updated: 2023-10-20T00:22
+updated: 2023-10-24T18:26
 ---
 Chuyển từ frontmatter sang dạng inline thì được:
 ```python

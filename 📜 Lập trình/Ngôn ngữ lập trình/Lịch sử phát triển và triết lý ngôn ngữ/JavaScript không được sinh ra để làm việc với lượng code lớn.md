@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-08-25T14:20
-updated: 2023-09-27T21:20
+updated: 2023-10-24T18:26
 ---
 Nguồn:: [So sánh nhỏ: TypeScript vs JavaScript | manhhomienbienthuy](https://manhhomienbienthuy.github.io/2022/03/01/so-sanh-nho-typescript-vs-javascript.html)
 

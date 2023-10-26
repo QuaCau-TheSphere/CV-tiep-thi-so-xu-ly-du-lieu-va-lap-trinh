@@ -1,5 +1,7 @@
 ---
-share: True
+share: true
+created: 2023-10-24T18:26
+updated: 2023-10-24T18:26
 ---
 [[generic là cách để giữ được tính chung chung mà vẫn không bị mất thông tin]]
 Biến (variable) thì để trong `( )`, còn biến kiểu (type variable) thì để trong `< >`

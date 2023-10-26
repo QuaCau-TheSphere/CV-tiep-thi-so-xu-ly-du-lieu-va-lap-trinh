@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-19T15:55
-updated: 2023-09-19T16:03
+updated: 2023-10-24T18:26
 ---
 
 > Docker Desktop has its own distributions When you stop Docker Desktop you stop those distributions and maybe some Windows services.

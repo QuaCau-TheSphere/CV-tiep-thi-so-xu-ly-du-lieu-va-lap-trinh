@@ -11,7 +11,7 @@
   "auto_jump_to_cursor": true,
   "enable_system_commands": true,
   "shell_path": "",
-  "user_scripts_folder": "Thiết lập/Templates",
+  "user_scripts_folder": "",
   "enable_folder_templates": true,
   "folder_templates": [
     {
@@ -20,7 +20,6 @@
     }
   ],
   "syntax_highlighting": true,
-  "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [
     ""
   ],

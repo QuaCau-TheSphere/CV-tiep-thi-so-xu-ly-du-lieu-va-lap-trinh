@@ -9,12 +9,13 @@
   "maxNumberOfSuggestions": 255,
   "maxNumberOfWordsAsPhrase": 1,
   "minNumberOfCharactersTriggered": 2,
-  "minNumberOfWordsTriggeredPhrase": 1,
+  "minNumberOfWordsTriggeredPhrase": 2,
   "complementAutomatically": true,
   "delayMilliSeconds": 0,
   "disableSuggestionsDuringImeOn": false,
   "insertAfterCompletion": false,
   "firstCharactersDisableSuggestions": ":/^",
+  "useCommonPrefixCompletionOfSuggestion": false,
   "patternsToSuppressTrigger": [
     "^~~~.*",
     "^```.*"
@@ -24,38 +25,10 @@
   "showComplementAutomatically": false,
   "showIndexingStatus": false,
   "descriptionOnSuggestion": "Short",
-  "hotkeys": {
-    "select": [
-      {
-        "modifiers": [],
-        "key": "Enter"
-      }
-    ],
-    "up": [
-      {
-        "modifiers": [],
-        "key": "ArrowUp"
-      }
-    ],
-    "down": [
-      {
-        "modifiers": [],
-        "key": "ArrowDown"
-      }
-    ],
-    "select 1st": [],
-    "select 2nd": [],
-    "select 3rd": [],
-    "select 4th": [],
-    "select 5th": [],
-    "select 6th": [],
-    "select 7th": [],
-    "select 8th": [],
-    "select 9th": [],
-    "open": [],
-    "completion": [],
-    "insert as text": []
-  },
+  "selectSuggestionKeys": "Enter",
+  "additionalCycleThroughSuggestionsKeys": "Tab, Shift+Tab",
+  "disableUpDownKeysForCycleThroughSuggestionsKeys": false,
+  "openSourceFileKey": "None",
   "propagateEsc": false,
   "enableCurrentFileComplement": false,
   "currentFileMinNumberOfCharacters": 0,
@@ -87,17 +60,11 @@
   "frontMatterComplementMatchStrategy": "inherit",
   "insertCommaAfterFrontMatterCompletion": true,
   "intelligentSuggestionPrioritization": {
-    "enabled": true,
     "historyFilePath": "",
     "maxDaysToKeepHistory": 30,
     "maxNumberOfHistoryToKeep": 0
   },
   "disableOnMobile": false,
-  "showLogAboutPerformanceInConsole": false,
-  "selectionHistoryTree": {},
-  "useCommonPrefixCompletionOfSuggestion": false,
-  "selectSuggestionKeys": "Enter",
-  "additionalCycleThroughSuggestionsKeys": "Tab, Shift+Tab",
-  "disableUpDownKeysForCycleThroughSuggestionsKeys": false,
-  "openSourceFileKey": "None"
+  "showLogAboutPerformanceInConsole": true,
+  "selectionHistoryTree": {}
 }

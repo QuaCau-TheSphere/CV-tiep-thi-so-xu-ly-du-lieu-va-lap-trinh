@@ -1,11 +1,13 @@
 ---
-share: True
+share: true
+created: 2023-10-30T14:29
+updated: 2023-10-30T18:19
 ---
 %%
 #file/thành-quả
 %%
-Trạng thái:: <% (await tp.system.suggester((item) => item, Object.keys(app.metadataCache.getTags()).filter((key) => key.includes('tt')).filter((key) => key.includes('/')))) %>
-Độ cấp thiết:: <% (await tp.system.suggester((item) => item, Object.keys(app.metadataCache.getTags()).filter((key) => key.includes('đct')))) %>
+Trạng thái:: null
+Độ cấp thiết:: null
 
 Phục vụ cho thành quả:
 ```dataview

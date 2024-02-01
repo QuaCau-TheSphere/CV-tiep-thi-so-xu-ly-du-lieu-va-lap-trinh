@@ -34,20 +34,59 @@
             }
           },
           {
-            "id": "2a4569716b43c9e8",
+            "id": "05c0bc5b469e1d3e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "✍️Lập trình/Khái niệm cơ bản và nguyên lý lập trình/Khái niệm cơ bản và nguyên lý lập trình.md",
+                "file": "✍️Lập trình/Khái niệm cơ bản và nguyên lý lập trình/Nguyên lý/Viết comment/Comment cũng có bug, nhưng không giống như code, không có chương trình nào hỗ trợ debug được nó.md",
                 "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "676f3f7d6f2f2bc7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "✍️Lập trình/Khái niệm cơ bản và nguyên lý lập trình/Nguyên lý/Viết comment/Thay vì comment, hãy document. Thay vì giải thích cách code hoạt động, hãy hướng dẫn cách sử dụng nó.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "0cb04014ca6d5cbf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "✍️Lập trình/Khái niệm cơ bản và nguyên lý lập trình/Nguyên lý/Viết comment/Giải thích về thuật toán, các đánh đổi trong việc ra quyết định hoặc dẫn nguồn là các lý do tốt để comment.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "6bf36a2d8dd16aa5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "✍️Lập trình/Khái niệm cơ bản và nguyên lý lập trình/Nguyên lý/Cái trừu tượng không nên phụ thuộc vào những cái cụ thể mà những cái cụ thể nên phụ thuộc vào cái trừu tượng.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -113,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✍️Lập trình/Khái niệm cơ bản và nguyên lý lập trình/Khái niệm cơ bản và nguyên lý lập trình.md",
+                "file": "✍️Lập trình/Khái niệm cơ bản và nguyên lý lập trình/Nguyên lý/Cái trừu tượng không nên phụ thuộc vào những cái cụ thể mà những cái cụ thể nên phụ thuộc vào cái trừu tượng.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "✍️Lập trình/Khái niệm cơ bản và nguyên lý lập trình/Khái niệm cơ bản và nguyên lý lập trình.md",
+                "file": "✍️Lập trình/Khái niệm cơ bản và nguyên lý lập trình/Nguyên lý/Cái trừu tượng không nên phụ thuộc vào những cái cụ thể mà những cái cụ thể nên phụ thuộc vào cái trừu tượng.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "✍️Lập trình/Khái niệm cơ bản và nguyên lý lập trình/Khái niệm cơ bản và nguyên lý lập trình.md"
+                "file": "✍️Lập trình/Khái niệm cơ bản và nguyên lý lập trình/Nguyên lý/Cái trừu tượng không nên phụ thuộc vào những cái cụ thể mà những cái cụ thể nên phụ thuộc vào cái trừu tượng.md"
               }
             }
           },
@@ -205,44 +244,44 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "b61fdbd6be7ed6ac",
+  "active": "6bf36a2d8dd16aa5",
   "lastOpenFiles": [
-    "👏Trấn Kỳ/Trấn Kỳ — Phân loại thu chi bằng tiếng Việt tự nhiên.md",
-    "Nơi này là nơi nào.md",
-    "✍️Lập trình/Khái niệm cơ bản và nguyên lý lập trình/Khái niệm cơ bản và nguyên lý lập trình.md",
-    "📊Tổ chức dữ liệu. Phân tích dữ liệu/Tổ chức dữ liệu/Git/Git.md",
-    "📊Tổ chức dữ liệu. Phân tích dữ liệu/Tổ chức dữ liệu/Git/GitHub/Bấm dấu . để mở VS Code web ngay trên GitHub.md",
-    "📊Tổ chức dữ liệu. Phân tích dữ liệu/📊Tổ chức dữ liệu. Phân tích dữ liệu.md",
-    "✍️Lập trình/Khái niệm cơ bản và nguyên lý lập trình/Nguyên lý/Mỗi lớp, hàm, mô đun chỉ đảm nhiệm một nhiệm vụ xác định.md",
-    "✍️Lập trình/Khái niệm cơ bản và nguyên lý lập trình/Nguyên lý/Việc chia các lệnh trong kịch bản thành các hàm nhỏ hơn sẽ giúp dễ bắt lỗi hơn.md",
-    "✍️Lập trình/Khái niệm cơ bản và nguyên lý lập trình/Nguyên lý/Tránh dùng hàm lồng để làm giảm sự couple.md",
-    "✍️Lập trình/Khái niệm cơ bản và nguyên lý lập trình/Khái niệm cơ bản về lập trình hướng vật thể/Hoạt động trung tâm của lập trình hướng vật thể là phân loại.md",
-    "✍️Lập trình/Khái niệm cơ bản và nguyên lý lập trình/Khái niệm cơ bản về lập trình hướng vật thể/Biểu thức (expression) là những thứ trả lại một giá trị nào đó.md",
-    "✍️Lập trình/Khái niệm cơ bản và nguyên lý lập trình/Khái niệm cơ bản về lập trình hướng vật thể/Hàm/Phương thức phải gắn lên một vật thể cụ thể nào đó để có tác dụng.md",
-    "✍️Lập trình/Khái niệm cơ bản và nguyên lý lập trình/Khái niệm cơ bản về lập trình hướng vật thể/Hàm/Phương thức cho ta biết mình có thể làm gì với vật thể đó.md",
-    "✍️Lập trình/Khái niệm cơ bản và nguyên lý lập trình/Khái niệm cơ bản về lập trình hướng vật thể/Hàm/Hàm cần gọi phải ở trong then.md",
-    "✍️Lập trình/Khái niệm cơ bản và nguyên lý lập trình/Khái niệm cơ bản về lập trình hướng vật thể/Hàm/Giao diện là cái khuôn của phương thức.md",
-    "✍️Lập trình/Khái niệm cơ bản và nguyên lý lập trình/Khái niệm cơ bản về lập trình hướng vật thể/Hàm/callback là một hàm được truyền vào một hàm khác giống như một tham số bình thường.md",
-    "✍️Lập trình/Khái niệm cơ bản và nguyên lý lập trình/Khái niệm cơ bản về lập trình hướng vật thể/Hàm/Để tránh phụ thuộc lòng vòng (circular dependency) có thể dùng hàm.md",
-    "✍️Lập trình/Khái niệm cơ bản và nguyên lý lập trình/Khái niệm cơ bản về lập trình hướng vật thể/Hàm/this, self là cách để nói rằng hành động mà phương thức sẽ làm sẽ phải gắn lên một vật thể cụ thể của lớp, thứ mà bây giờ chưa được tạo ra.md",
-    "✍️Lập trình/Khái niệm cơ bản và nguyên lý lập trình/Khái niệm cơ bản về lập trình hướng vật thể/Hàm/Phương thức là một thuộc tính của vật thể.md",
-    "✍️Lập trình/Khái niệm cơ bản và nguyên lý lập trình/Nguyên lý/Model không biết đến View, View không biết đến Controller.md",
     "✍️Lập trình/Khái niệm cơ bản và nguyên lý lập trình/Nguyên lý/Mẫu thiết kế (design pattern) là những giải pháp cho những vấn đề thường gặp trong lập trình mà nhiều thế hệ lập trình viên đã đúc kết và chứng minh tính hiệu quả của nó.md",
-    "✍️Lập trình/Khái niệm cơ bản và nguyên lý lập trình/Nguyên lý/Mặc dù mảng lưu giữ thứ tự, nhưng nhiều khi ta không quan tâm đến thứ tự đó cho lắm.md",
-    "✍️Lập trình/Khái niệm cơ bản và nguyên lý lập trình/Nguyên lý/Giao diện người dùng, logic, dữ liệu là 3 thành phần cơ bản cho một chương trình. Chúng có mục tiêu khác nhau, kỹ thuật xử lý khác nhau. Không thể trộn lẫn lộn với nhau được..md",
-    "✍️Lập trình/Khái niệm cơ bản và nguyên lý lập trình/Nguyên lý/Cái trừu tượng không nên phụ thuộc vào những cái cụ thể mà những cái cụ thể nên phụ thuộc vào cái trừu tượng.md",
-    "✍️Lập trình/Khái niệm cơ bản và nguyên lý lập trình/4 đặc điểm của lập trình hướng vật thể.md",
-    "✍️Lập trình/Khái niệm cơ bản và nguyên lý lập trình/Cấu trúc dữ liệu.md",
+    "✍️Lập trình/Khái niệm cơ bản và nguyên lý lập trình/Nguyên lý/Nguyên lý.md",
+    "✍️Lập trình/Khái niệm cơ bản và nguyên lý lập trình/Nguyên lý/Viết comment/Viết comment.md",
+    "✍️Lập trình/Khái niệm cơ bản và nguyên lý lập trình/Nguyên lý/Viết comment/Đừng viết về việc nó hoạt động thế nào, mà hãy viết về những thứ.md",
+    "✍️Lập trình/Khái niệm cơ bản và nguyên lý lập trình/Nguyên lý/Thành phần chương trình/Model không biết đến View, View không biết đến Controller.md",
+    "✍️Lập trình/Khái niệm cơ bản và nguyên lý lập trình/Nguyên lý/Thành phần chương trình/Giao diện người dùng, logic, dữ liệu là 3 thành phần cơ bản cho một chương trình. Chúng có mục tiêu khác nhau, kỹ thuật xử lý khác nhau. Không thể trộn lẫn lộn với nhau được..md",
+    "✍️Lập trình/Khái niệm cơ bản và nguyên lý lập trình/Nguyên lý/Viết comment/Bản thân việc lập trình bằng ngôn ngữ bậc cao đã là một dạng comment.md",
+    "✍️Lập trình/Khái niệm cơ bản và nguyên lý lập trình/Khái niệm cơ bản và nguyên lý lập trình.md",
+    "📊Tổ chức dữ liệu. Phân tích dữ liệu/📊Tổ chức dữ liệu. Phân tích dữ liệu.md",
+    "📊Tổ chức dữ liệu. Phân tích dữ liệu/Tổ chức dữ liệu/Dữ liệu dưới dạng văn bản phù hợp cho việc quản lý kiến thức.md",
+    "📊Tổ chức dữ liệu. Phân tích dữ liệu/Tổ chức dữ liệu/Việc lưu dữ liệu ở các công cụ khác nhau tạo thành các đảo thông tin.md",
+    "✍️Lập trình/Web/Web.md",
+    "✍️Lập trình/Web/Framework/Framework.md",
+    "✍️Lập trình/Công cụ/IDE (VS Code)/VS Code nhiều khi không tìm hết được do tên file dài quá.md",
+    "✍️Lập trình/Công cụ/IDE (VS Code)/Video hướng dẫn.md",
+    "✍️Lập trình/Công cụ/IDE (VS Code)/Plugin hay cho người mới.md",
+    "✍️Lập trình/Công cụ/IDE (VS Code)/Phím tắt trong VS Code.md",
+    "✍️Lập trình/Công cụ/IDE (VS Code)/Nhiều người có thể cùng chỉnh sửa cùng lúc như Google Docs.md",
+    "✍️Lập trình/Công cụ/IDE (VS Code)/launch.json dùng để thiết lập debugger.md",
+    "✍️Lập trình/Công cụ/IDE (VS Code)/Language server là thứ khiến cho IDE hỗ trợ tốt hơn việc lập trình.md",
+    "✍️Lập trình/Công cụ/IDE (VS Code)/Giao diện VS Code.md",
+    "✍️Lập trình/Công cụ/IDE (VS Code)/Dùng snippet để viết tắt code.md",
+    "✍️Lập trình/Công cụ/IDE (VS Code)/Các biểu tượng dùng trong VS Code.md",
+    "✍️Lập trình/Công cụ/IDE (VS Code)/Bấm F12 để biết thêm thông tin về biến.md",
+    "✍️Lập trình/Khái niệm cơ bản và nguyên lý lập trình/Quy ước đặt tên biến, comment, commit, đánh số phiên bản.md",
+    "📊Tổ chức dữ liệu. Phân tích dữ liệu/Tổ chức dữ liệu/Cơ sở dữ liệu/Giao diện block cho phép người dùng linh hoạt hơn mà vẫn giữ được sự cấu trúc.md",
+    "✍️Lập trình/Khái niệm cơ bản và nguyên lý lập trình/Nguyên lý/Cấu trúc dữ liệu",
+    "✍️Lập trình/Khái niệm cơ bản và nguyên lý lập trình/Nguyên lý/Viết comment",
+    "✍️Lập trình/Khái niệm cơ bản và nguyên lý lập trình/Nguyên lý/Thành phần chương trình",
+    "✍️Lập trình/Khái niệm cơ bản và nguyên lý lập trình/Nguyên lý/Đơn nhiệm",
     "✍️Lập trình/Ngôn ngữ/JavaScript và Python/Python/Path, env, version/Conda",
     "✍️Lập trình/Ngôn ngữ/JavaScript và Python/JavaScript/Runtime/Node",
     "✍️Lập trình/Ngôn ngữ/JavaScript và Python/JavaScript/Runtime/Deno",
     "✍️Lập trình/Ngôn ngữ/JavaScript và Python/Khác biệt giữa JS và Python/Về mặt triết lý",
     "✍️Lập trình/Ngôn ngữ/JavaScript và Python/Khác biệt giữa JS và Python/Về mặt kỹ thuật",
     "✍️Lập trình/Ngôn ngữ/JavaScript và Python/Python/Path, env, version",
-    "✍️Lập trình/Ngôn ngữ/JavaScript và Python/Python/Class",
-    "✍️Lập trình/Ngôn ngữ/JavaScript và Python/JavaScript/TypeScript",
-    "✍️Lập trình/Ngôn ngữ/JavaScript và Python/JavaScript/Runtime",
-    "✍️Lập trình/Ngôn ngữ/JavaScript và Python/JavaScript/Callback, promise, async, await",
     "Ξ Thiết lập/Ảnh/Kiến trúc giữa Node và Deno.png",
     "Ξ Thiết lập/Ảnh/Trấn Kỳ/Keep to Fibery.png",
     "Ξ Thiết lập/Ảnh/Trấn Kỳ/Hemi Head_med.png",

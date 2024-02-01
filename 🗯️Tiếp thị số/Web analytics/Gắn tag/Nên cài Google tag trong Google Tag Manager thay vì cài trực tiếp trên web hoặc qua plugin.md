@@ -1,10 +1,10 @@
 ---
 share: true
 created: 2023-10-24T18:26
-updated: 2023-10-30T18:24
+updated: 2024-01-28T17:36
 ---
 
-[[Google tag (global site tag, gtag) là một mã JavaScript để thu thập dữ liệu về hành vi người dùng trên web]], còn [[Google Tag Manager là một trình quản lý các mã JavaScript được gắn vào web]]. Ngoài Google tag ra còn có Facebook tag, LinkedIn tag, v.v.
+[[Google tag, global site tag, gtag là những cái tên khác nhau cho đoạn script theo dõi người dùng của Google Analytics]], còn [[Google Tag Manager là một trình quản lý các mã JavaScript được gắn vào web]]. Ngoài Google tag ra còn có Facebook tag, LinkedIn tag, v.v.
 
 ![](https://www.analyticsmania.com/wp-content/uploads/2022/01/image-2022-01-06T152832.289.jpg) 
 Nguồn:: [GTAG vs Google Tag Manager. What is the Difference? What to Choose?](https://www.analyticsmania.com/post/gtag-vs-google-tag-manager/)

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-24T18:26
-updated: 2023-10-30T18:19
+updated: 2023-12-19T22:34
 ---
 Có rất nhiều thư viện về học máy, như NLTK, SpaCy, Gensim, scikit-learn, TensorFlow, Hugging Face, v.v. Tuy nhiên, Gensim. Theo lời tác giả:
 >By now, Gensim is—to my knowledge—the most robust, efficient and hassle-free piece of software to realize unsupervised semantic modelling from plain text. It stands in contrast to brittle homework-assignment-implementations that do not scale on one hand, and robust java-esque projects that take forever just to run “hello world”.

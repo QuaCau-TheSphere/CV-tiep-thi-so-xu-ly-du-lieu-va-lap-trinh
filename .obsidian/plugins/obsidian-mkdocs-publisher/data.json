@@ -1,10 +1,17 @@
 {
   "github": {
+    "user": "QuaCau-TheSphere",
+    "repo": "Cw-xu-ly-du-lieu-va-lap-trinh",
     "branch": "main",
     "automaticallyMergePR": true,
+    "tokenPath": ".obsidian/plugins/obsidian-mkdocs-publisher/env",
     "api": {
       "tiersForApi": "Github Free/Pro/Team (default)",
       "hostname": ""
+    },
+    "workflow": {
+      "commitMessage": "[skip netlify] PUBLISHER",
+      "name": ""
     },
     "otherRepo": [
       {
@@ -27,16 +34,11 @@
         }
       }
     ],
-    "workflow": {
-      "name": "",
-      "commitMessage": "[skip netlify] PUBLISHER"
-    },
-    "repo": "CW-obsidian-quan-ly-du-an-va-cong-cu-nghi",
-    "user": "QuaCau-TheSphere"
+    "verifiedRepo": true,
+    "rateLimit": 4921
   },
   "upload": {
     "behavior": "obsidian",
-    "subFolder": "",
     "defaultName": "docs",
     "rootFolder": "docs",
     "yamlFolderKey": "category",
@@ -45,6 +47,7 @@
       "key": "filename"
     },
     "replaceTitle": [],
+    "replacePath": [],
     "autoclean": {
       "enable": true,
       "excluded": [
@@ -56,11 +59,15 @@
       ]
     },
     "folderNote": {
-      "enable": false,
-      "rename": "index.md"
+      "enable": true,
+      "rename": "index.md",
+      "addTitle": {
+        "enable": true,
+        "key": "title"
+      }
     },
     "metadataExtractorPath": "",
-    "replacePath": []
+    "subFolder": ""
   },
   "conversion": {
     "hardbreak": false,
@@ -80,23 +87,27 @@
     "links": {
       "internal": true,
       "unshared": false,
-      "wiki": false
+      "wiki": true,
+      "slugify": true
     }
   },
   "embed": {
     "attachments": true,
+    "forcePushAttachments": [],
     "keySendFile": [
       "image"
     ],
     "notes": true,
-    "folder": "docs/assets/attachments"
+    "folder": "docs/assets/attachments",
+    "convertEmbedToLinks": "keep",
+    "charConvert": "->"
   },
   "plugin": {
     "shareKey": "share",
     "fileMenu": false,
     "editorMenu": false,
     "excludedFolder": [
-      "Thiết lập"
+      "Ξ Thiết lập"
     ],
     "copyLink": {
       "enable": false,
@@ -104,8 +115,10 @@
       "removePart": [],
       "addCmd": false
     },
-    "noticeError": true,
+    "noticeError": false,
     "displayModalRepoEditing": true,
-    "migrated": true
-  }
+    "migrated": true,
+    "dev": true
+  },
+  "tabsID": "github-configuration"
 }

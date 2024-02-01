@@ -7,10 +7,6 @@
   "alwaysShowToolbar": true,
   "mappedIcons": [
     {
-      "commandID": "obsidian-editor-shortcuts:duplicateLine",
-      "iconID": "plus"
-    },
-    {
       "commandID": "templater-obsidian:insert-templater",
       "iconID": "file-text"
     }

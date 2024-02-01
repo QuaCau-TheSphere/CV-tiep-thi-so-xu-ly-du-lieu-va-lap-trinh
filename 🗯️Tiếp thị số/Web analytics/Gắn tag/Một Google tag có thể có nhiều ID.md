@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-24T18:26
-updated: 2023-10-30T18:24
+updated: 2024-01-28T17:36
 ---
 
 ![An illustration demonstrating where to locate Tag IDs on Google tag.](https://storage.googleapis.com/support-kms-prod/BDKksyJ4hntsQiVpJtHK4PBl5gKaohplp5fE)
@@ -14,5 +14,5 @@ Nguồn:: [[Google Support]], [Google tag ID: Definition - Tag Manager Help](htt
 
 Câu hỏi:: [[❓Measurement ID của web data stream chính là Google tag ID]]
 [[Destination ID cho GA trùng với Measurement ID của web data stream]]
-[[Google tag (global site tag, gtag) là một mã JavaScript để thu thập dữ liệu về hành vi người dùng trên web]]
+[[Google tag, global site tag, gtag là những cái tên khác nhau cho đoạn script theo dõi người dùng của Google Analytics]]
 [[Nên cài Google tag trong Google Tag Manager thay vì cài trực tiếp trên web hoặc qua plugin]]

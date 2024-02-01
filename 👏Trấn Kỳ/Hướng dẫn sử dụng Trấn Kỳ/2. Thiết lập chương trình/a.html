@@ -1,0 +1,102 @@
+<p>Phần bạn cần chỉnh sửa nằm trong thư mục <code>A. Cấu hình</code>.
+Đây là một tệp ở định dạng YAML. Cấu trúc cơ bản của nó như sau:</p>
+<div class="sourceCode" id="cb1"><pre
+class="sourceCode yaml"><code class="sourceCode yaml"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="fu">Khai báo</span><span class="kw">:</span></span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="at">  </span><span class="kw">-</span><span class="at"> </span><span class="fu">Tên chiều</span><span class="kw">:</span><span class="at"> </span></span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a><span class="at">    </span><span class="fu">Dữ liệu tự nhận dạng</span><span class="kw">:</span><span class="at"> </span></span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a><span class="at">    </span><span class="fu">Ký tự để nhập trực tiếp</span><span class="kw">:</span></span>
+<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a><span class="at">      </span><span class="fu">Từ</span><span class="kw">:</span></span>
+<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a><span class="at">      </span><span class="fu">Nhãn</span><span class="kw">:</span></span>
+<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a><span class="at">    </span><span class="fu">Tên gọi đầu ra</span><span class="kw">:</span></span>
+<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a><span class="at">      </span><span class="fu">Từ</span><span class="kw">:</span><span class="at"> </span></span>
+<span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a><span class="at">      </span><span class="fu">Nhãn</span><span class="kw">:</span><span class="at">  </span></span>
+<span id="cb1-10"><a href="#cb1-10" aria-hidden="true" tabindex="-1"></a><span class="fu">Fibery</span><span class="kw">:</span></span>
+<span id="cb1-11"><a href="#cb1-11" aria-hidden="true" tabindex="-1"></a><span class="at">Keep</span></span></code></pre></div>
+<blockquote>
+<p>[!Attention] Lưu ý: Số dấu cách ở đầu mỗi dòng cần phải chính xác Bạn
+chỉ được dùng <strong>dấu cách</strong> để tạo khoảng trắng chứ không
+được dùng <strong>tab</strong></p>
+</blockquote>
+<h1 id="các-chiều-đặc-biệt">Các chiều đặc biệt</h1>
+<p>Nếu bạn khai báo một trong những chiều này thì cần lưu ý thêm: ##
+<code>Món đồ</code> - Những món đồ cùng nhãn thì chỉ hiển thị một nhãn.
+Ví dụ: nếu câu nhập là <code>thịt 50k, cá 20k</code> thì nhãn sẽ là
+<code>đồ ăn</code>, không phải <code>đồ ăn, đồ ăn</code> - Nếu trong câu
+nhập có nhiều món đồ cùng nhãn thì chỉ lấy một nhãn</p>
+<h2 id="phương-thức-thanh-toán"><code>Phương thức thanh toán</code></h2>
+<p>Nếu trong câu nhập vào có nhiều phương thức thanh toán thì chỉ lấy
+cái cuối cùng, còn tất cả những cái phía trước chỉ là thông tin. Ví dụ,
+nếu câu nhập là <code>đáo hạn shinhan bằng vcb</code></p>
+<h2 id="số-tiền"><code>Số tiền</code></h2>
+<ul>
+<li><p>Số tiền sẽ là các số có đuôi là tr, k, đ, d. Nếu không có đơn vị
+thì sẽ không xem là số tiền</p></li>
+<li><p>Nếu có nhiều giá trị thì sẽ lấy tổng. Nếu muốn chọn một giá trị
+nào đó thì thêm dấu bằng phía trước nó (<code>＝</code>)</p>
+<p>Ví dụ:</p>
+<ul>
+<li><code>cá 50k thịt 40k</code> → <code>90000</code>.</li>
+<li><code>cá 50k thịt = 40k</code>→ <code>40000</code></li>
+</ul></li>
+<li><p>Dấu thập phân là dấu chấm (<code>.</code>). Bạn có thể dùng dấu
+phẩy (<code>,</code>) để cách các con số để dễ đọc. Nó sẽ được bỏ đi. Ví
+dụ: 1.2tr, 3,400k, 123,456,700đ, 123,456,700d.</p></li>
+</ul>
+<h1 id="một-số-phím-tắt-thường-dùng-cho-việc-đọc-hiểu-code">Một số phím
+tắt thường dùng cho việc đọc hiểu code</h1>
+<table>
+<colgroup>
+<col style="width: 21%" />
+<col style="width: 78%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Phím tắt</th>
+<th>Chức năng</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Alt + Z</td>
+<td>Word wrap</td>
+</tr>
+<tr class="even">
+<td>Ctrl + Shift + .</td>
+<td>Mở danh sách các hàm và biến</td>
+</tr>
+<tr class="odd">
+<td>F12</td>
+<td>Đến nhanh những nơi hàm hoặc biến được sử dụng</td>
+</tr>
+<tr class="even">
+<td>Ctrl + Space</td>
+<td>Mở danh sách gợi ý điền nhanh</td>
+</tr>
+<tr class="odd">
+<td>Ctrl + K Z</td>
+<td>Mở zen mode</td>
+</tr>
+<tr class="even">
+<td>Ctrl + \</td>
+<td>Chia màn hình thành các editor (hay còn gọi là tab group)</td>
+</tr>
+<tr class="odd">
+<td>Ctrl + 1, 2, 3</td>
+<td>Di chuyển giữa các editor</td>
+</tr>
+<tr class="even">
+<td>F6</td>
+<td>Đổi panel</td>
+</tr>
+<tr class="odd">
+<td>Ctrl + B</td>
+<td>Mở sidebar trái (VS Code gọi là primary sidebar)</td>
+</tr>
+<tr class="even">
+<td>Ctrl + Shift + B</td>
+<td>Mở sidebar phải (VS Code gọi là secondary sidebar)</td>
+</tr>
+</tbody>
+</table>
+<p>Xem thêm:: [[Hiểu về YAML]] Xem thêm:: [[Phím tắt trong VS Code]] Xem
+thêm:: [[Giao diện VS Code]]</p>

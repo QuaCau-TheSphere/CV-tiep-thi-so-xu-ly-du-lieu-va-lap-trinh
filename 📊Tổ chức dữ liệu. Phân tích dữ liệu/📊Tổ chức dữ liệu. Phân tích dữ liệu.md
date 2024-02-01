@@ -1,7 +1,8 @@
 ---
 share: true
 created: 2023-10-30T15:20
-updated: 2023-10-30T18:25
+updated: 2023-11-07T00:28
+title: 📊Tổ chức dữ liệu. Phân tích dữ liệu
 ---
 
 ```dataview

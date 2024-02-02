@@ -775,7 +775,6 @@
     "✍️Lập trình/Khái niệm cơ bản và nguyên lý lập trình/Khái niệm cơ bản về lập trình hướng vật thể/Vật thể, lớp/Lớp là một cái khuôn để tạo các vật thể cho nhanh.md": "d7de4825032ae04294f22ee769fc0427c3592684b558e3eff7749716d4951721",
     "✍️Lập trình/Khái niệm cơ bản và nguyên lý lập trình/Khái niệm cơ bản về lập trình hướng vật thể/Hàm/callback là một hàm được truyền vào một hàm khác giống như một tham số bình thường.md": "06d760c0fbd5d1fb549ce7e1f726f59a1e5bc7ff0664e3c8d5025daa561d399f",
     "✍️Lập trình/Khái niệm cơ bản và nguyên lý lập trình/Khái niệm cơ bản về lập trình hướng vật thể/Biểu thức (expression) là những thứ trả lại một giá trị nào đó.md": "7ff4ba5fdecd017486e8f33d3c3c65ac805a629114d986b3befba020fa17044a",
-    "✍️Lập trình/Khái niệm cơ bản và nguyên lý lập trình/Quy ước đặt tên biến, comment, commit, đánh số phiên bản.md": "a43d7037826b83e1a7cc0a5a9adadc0586f3fd3f52f46e2755f782ec465b0a76",
     "✍️Lập trình/Khái niệm cơ bản và nguyên lý lập trình/Nguyên lý/Cấu trúc dữ liệu/Mặc dù mảng lưu giữ thứ tự, nhưng nhiều khi ta không quan tâm đến thứ tự đó cho lắm.md": "475258a7ac4378030961764a956daf0fc5e36dac11a6e551d73a512d426d0032",
     "✍️Lập trình/Khái niệm cơ bản và nguyên lý lập trình/Nguyên lý/Cấu trúc dữ liệu/Mảng các vật thể và mảng các mảng.md": "2921f4d659033f1bc8eaf28a4254894f9a897dc9ca9d903cb42f8cf787254301",
     "✍️Lập trình/Khái niệm cơ bản và nguyên lý lập trình/Nguyên lý/Đơn nhiệm/Mỗi lớp, hàm, mô đun chỉ đảm nhiệm một nhiệm vụ xác định.md": "60f92a7c0fe9d97aeed097746a054096e618364a90284da8539e2f9753b43e98",
@@ -786,11 +785,13 @@
     "✍️Lập trình/Khái niệm cơ bản và nguyên lý lập trình/Khái niệm cơ bản về lập trình hướng vật thể/4 đặc điểm của lập trình hướng vật thể.md": "642e94f6ff3cc046b8267bc6928cf352206a4f1fa657663aeb22a0f8c72d8394",
     "✍️Lập trình/Khái niệm cơ bản và nguyên lý lập trình/Nguyên lý/Viết comment/Comment cũng có bug, nhưng không giống như code, không có chương trình nào hỗ trợ debug được nó.md": "71cb0d87441773a84d7470a541b18ca1620dd9c59149c1546727581e30577e5c",
     "✍️Lập trình/Khái niệm cơ bản và nguyên lý lập trình/Nguyên lý/Viết comment/Comment có thể cho thông tin sai, nhưng code thì không.md": "10197e16125e36d1e4063a8f56932f8464d01c0c05e18fb5b712383449db0b47",
-    "✍️Lập trình/Khái niệm cơ bản và nguyên lý lập trình/Nguyên lý/Viết comment/Hãy viết code sao cho mình khỏi comment.md": "b1b5a0ae74ecae91a1c34412a76266ab33a3beb4becbde72931ee157cf2403fb",
+    "✍️Lập trình/Khái niệm cơ bản và nguyên lý lập trình/Nguyên lý/Viết comment/Hãy viết code sao cho mình khỏi comment.md": "013fe17ddaf2ca3b1205fef8ecc8bc5a4bfc01d5d1a2a4e29f5a5c9dcd19ab0a",
     "✍️Lập trình/Khái niệm cơ bản và nguyên lý lập trình/Nguyên lý/Viết comment/Thay vì comment, hãy document. Thay vì giải thích cách code hoạt động, hãy hướng dẫn cách sử dụng nó.md": "eaab861af7570f8444e2bf4979b7354846a5ec531044efc5a980c956da2c7188",
     "✍️Lập trình/Khái niệm cơ bản và nguyên lý lập trình/Nguyên lý/Viết comment/Giải thích về thuật toán, các đánh đổi trong việc ra quyết định hoặc dẫn nguồn là các lý do tốt để comment.md": "6a6c6b7057d4103eaecf1bc84aeac9f4c349867b879778b40c9b8fc1e55dfbc2",
     "✍️Lập trình/Khái niệm cơ bản và nguyên lý lập trình/Nguyên lý/Viết comment/Bản thân việc lập trình bằng ngôn ngữ bậc cao đã là một dạng comment.md": "8e06910f57b5b5993e43025e4cba54bc5b0b057f98a33dd1ec048fa8d41b9fbf",
     "✍️Lập trình/Khái niệm cơ bản và nguyên lý lập trình/Nguyên lý/Viết comment/Viết comment.md": "c635ddabeeee18b70be7e344fab07b09724e86cc8e6829f4e751cc46a5c6b837",
-    "✍️Lập trình/Khái niệm cơ bản và nguyên lý lập trình/Nguyên lý/Nguyên lý.md": "fdbd9033b992ae46997e00cc4e9560e943599513c37ebb0f6e53b9995531166b"
+    "✍️Lập trình/Khái niệm cơ bản và nguyên lý lập trình/Nguyên lý/Nguyên lý.md": "fdbd9033b992ae46997e00cc4e9560e943599513c37ebb0f6e53b9995531166b",
+    "✍️Lập trình/Khái niệm cơ bản và nguyên lý lập trình/Quy ước đặt tên biến, commit, đánh số phiên bản.md": "c998c8bf148ed76a7bde59fe3c086b10387b08b91b7137c110da43d6702e8d38",
+    "✍️Lập trình/Khái niệm cơ bản và nguyên lý lập trình/Nguyên lý/Viết comment/Block comment dành cho việc giải thích ý tưởng của code, viết doc. Line comment để debug hoặc hướng dẫn editor đọc code của mình (directive).md": "1e5f8601b86ea2bcd8391a04e6d01d3fa20cfbf89e616ef66b89ee823e56747a"
   }
 }

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-24T18:26
-updated: 2024-02-01T21:39
+updated: 2024-02-01T23:00
 ---
 # Đặt tên biến
 
@@ -30,6 +30,3 @@ Tuy nhiên có hai loại ký hiệu Hungary. Loại ở trên gọi là Hungary
 
 [[freeCodeCamp]], [Snake Case VS Camel Case VS Pascal Case VS Kebab Case – What's the Difference Between Casings?](https://www.freecodecamp.org/news/snake-case-vs-camel-case-vs-pascal-case-vs-kebab-case-whats-the-difference/)
 [[Viblo]], [Bàn về quy cách đặt tên (Naming Convention)](https://viblo.asia/p/ban-ve-quy-cach-dat-ten-naming-convention-3P0lPyem5ox)
-# Comment
-- Block comment dành cho việc giải thích ý tưởng của code, viết doc
-- Line comment để debug hoặc hướng dẫn editor đọc code của mình (directive) 

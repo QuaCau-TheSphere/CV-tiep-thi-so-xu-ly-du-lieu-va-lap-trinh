@@ -1,6 +1,6 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2024-01-25T19:31
+updated: 2024-02-10T16:34
 ---
-![[Component là những hàm được export default và có ký tự đầu tiên trong tên được viết hoa]]
+![[Những hàm được export default và được viết hoa ký tự đầu tiên là component]]

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-24T18:26
-updated: 2023-10-30T18:19
+updated: 2024-03-10T16:12
 ---
 Từ mối liên hệ này khái niệm về ma trận trực giao đã hình thành để tạo ra các phép xoay đặc biệt.
 

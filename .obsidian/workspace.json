@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "3a6e72d46452ebe8",
+        "id": "5eb3f1dfd825906d",
         "type": "tabs",
         "children": [
           {
-            "id": "07762a1d29573080",
+            "id": "fa25792f0c948df6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "✍️Lập trình/Web/Framework/Component, render/Những hàm được export default và được viết hoa ký tự đầu tiên là component.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "9408c8dbbfac02ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "✍️Lập trình/Web/Framework/Component, render/Component là những hàm hoặc lớp trả về một khối JSX.md",
+                "file": "📊Tổ chức dữ liệu. Phân tích dữ liệu/Tổ chức dữ liệu/Git/Vấn đề hay gặp khi dùng Git.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✍️Lập trình/Web/Framework/Component, render/Component là những hàm hoặc lớp trả về một khối JSX.md",
+                "file": "📊Tổ chức dữ liệu. Phân tích dữ liệu/Tổ chức dữ liệu/Git/Vấn đề hay gặp khi dùng Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "✍️Lập trình/Web/Framework/Component, render/Component là những hàm hoặc lớp trả về một khối JSX.md",
+                "file": "📊Tổ chức dữ liệu. Phân tích dữ liệu/Tổ chức dữ liệu/Git/Vấn đề hay gặp khi dùng Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "✍️Lập trình/Web/Framework/Component, render/Component là những hàm hoặc lớp trả về một khối JSX.md"
+                "file": "📊Tổ chức dữ liệu. Phân tích dữ liệu/Tổ chức dữ liệu/Git/Vấn đề hay gặp khi dùng Git.md"
               }
             }
           },
@@ -192,44 +178,44 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "9408c8dbbfac02ff",
+  "active": "fa25792f0c948df6",
   "lastOpenFiles": [
-    "✍️Lập trình/Web/Framework/Component, render/JSX = JS + XML.md",
-    "✍️Lập trình/Web/Framework/Component, render/Component là những hàm hoặc lớp trả về một khối JSX.md",
-    "✍️Lập trình/Web/Framework/Component, render/Component hàm không có trạng thái (stateless). Component lớp có trạng thái (stateful).md",
-    "✍️Lập trình/Web/Framework/Component, render/Props là đối số đầu tiên của hàm component, dùng để truyền giá trị các thuộc tính của nó.md",
-    "✍️Lập trình/Web/Framework/Component, render/Props là viết tắt của property, nghĩa gốc là tài sản. Tài sản của cha mẹ thì con dùng được, nhưng tài sản của con thì cha mẹ không đụng được.md",
-    "✍️Lập trình/Web/Framework/Component, render/Render là quá trình chuyển đổi dữ liệu và code sang HTML.md",
-    "✍️Lập trình/Web/Framework/Component, render/Những hàm được export default và được viết hoa ký tự đầu tiên là component.md",
-    "✍️Lập trình/Web/Framework/Component, render/DOM là cây HTML.md",
-    "✍️Lập trình/Web/Framework/Island, state/Island với partial hydration là một.md",
-    "✍️Lập trình/Web/Framework/Island, state/Khi một vật thể được đổ dữ liệu vào, nó được gọi là được tưới nước.md",
-    "✍️Lập trình/Web/Framework/Island, state/Island là những component ở trong thư mục islands.md",
-    "✍️Lập trình/Web/Framework/Island, state/Component nằm trong thư mục island sẽ được render lần đầu ở server, còn những lần sau đều ở client.md",
-    "✍️Lập trình/Ngôn ngữ/Ngôn ngữ lập trình/JavaScript và Python/JavaScript/Dùng map tiện hơn dùng for vì nó tạo ra một mảng mới cho mình và không cần phải lo mảng cũ bị sửa đổi.md",
-    "✍️Lập trình/Web/Framework/Component, render/Nếu truyền HTML làm giá trị biến thì cần dùng dangerouslySetInnerHTML, nếu không thì sẽ bị mã hoá hết.md",
-    "✍️Lập trình/Web/Framework/Framework.md",
-    "🗯️Tiếp thị số/Facebook/Seeding.md",
-    "🗯️Tiếp thị số/Facebook/Tất cả like, share từ các phiên bản URL khác nhau sẽ được đổ hết về og-url.md",
-    "🗯️Tiếp thị số/Facebook/Share like từ page thì thấy được số tương tác trên Facebook.md",
-    "🗯️Tiếp thị số/Facebook/Quảng cáo trên Facebook.md",
-    "🗯️Tiếp thị số/Facebook/❓Vai trò của các chỉ số trên Facebook trong phân tích web.md",
-    "🗯️Tiếp thị số/Facebook/Có những người mình mong họ like nhưng họ lại không phải là người mình cần.md",
-    "🗯️Tiếp thị số/🗯️Tiếp thị số.md",
-    "📊Tổ chức dữ liệu. Phân tích dữ liệu/📊Tổ chức dữ liệu. Phân tích dữ liệu.md",
-    "👏Trấn Kỳ/Trấn Kỳ — Phân loại thu chi bằng tiếng Việt tự nhiên.md",
-    "📊Tổ chức dữ liệu. Phân tích dữ liệu/Tổ chức dữ liệu/Git/Commit/Các lệnh git thường sử dụng.md",
+    "✍️Lập trình/Web/Framework/Serverless là loại server tự khởi động mỗi lần có người truy cập thay vì luôn trực sẵn chờ người truy cập.md",
+    "✍️Lập trình/Web/Framework/Edge là sự kết hợp giữa CDN và serverless.md",
+    "✍️Lập trình/Web/Quản trị mạng/Tên miền/127.0.0.1 và localhost là một.md",
+    "✍️Lập trình/Web/Web.md",
     "Nơi này là nơi nào.md",
+    "✍️Lập trình/Web/Quản trị mạng/Tên miền/DNS là.md",
+    "✍️Lập trình/Web/Web động/phpMyAdmin là GUI để dùng MySQL.md",
+    "✍️Lập trình/Web/Quản trị mạng/Quản trị mạng.md",
+    "✍️Lập trình/Web/Cào web/Cào web.md",
+    "✍️Lập trình/Web/Framework/Framework.md",
+    "✍️Lập trình/Web/Quản trị mạng/Tên miền/URL.md",
+    "✍️Lập trình/Web/Quản trị mạng/Tên miền/www thực ra chỉ là một tên miền thứ cấp như bao tên miền thứ cấp bình thường khác.md",
+    "✍️Lập trình/Web/Quản trị mạng/Tên miền",
+    "✍️Lập trình/Web/Quản trị mạng/Networking comic.md",
+    "✍️Lập trình/Web/Quản trị mạng/Server, HTTP/Trình duyệt chỉ gửi yêu cầu và nhận phản hồi ở dạng HTTP.md",
+    "✍️Lập trình/Web/Quản trị mạng/Namespace là.md",
+    "✍️Lập trình/Web/Quản trị mạng/Server, HTTP/Apache, Nginx là những web server phổ biến.md",
+    "✍️Lập trình/Web/Quản trị mạng/Server, HTTP",
+    "✍️Lập trình/Ngôn ngữ/Ngôn ngữ lập trình/Map, dictionary, associative array, hash, hash table là những cái tên cho cùng một thứ.md",
+    "✍️Lập trình/Ngôn ngữ/Ngôn ngữ lập trình/JavaScript và Python/Khác biệt giữa JS và Python/Về mặt kỹ thuật/Map trong JS tương đương với dictionary trong Python.md",
+    "✍️Lập trình/Ξ Nguồn và tài nguyên hỗ trợ/Ξ Nguồn/JS map or object, Python dictionary, PHP associative array, Perl hash, Common Lisp hash table.md",
+    "Ξ Thiết lập/Ξ Thiết lập.md",
+    "🗯️Tiếp thị số/Web analytics/URL builder/Nếu medium không có gì đặc biệt thì cứ để trống để google tự phân loại.md",
+    "📊Tổ chức dữ liệu. Phân tích dữ liệu/Tổ chức dữ liệu/Git/File/ls-files chỉ làm việc với index.md",
+    "📊Tổ chức dữ liệu. Phân tích dữ liệu/Tổ chức dữ liệu/Git/Git.md",
+    "📊Tổ chức dữ liệu. Phân tích dữ liệu/📊Tổ chức dữ liệu. Phân tích dữ liệu.md",
+    "🗯️Tiếp thị số/Web analytics/Gắn tag/Một Google tag có thể có nhiều ID.md",
+    "🗯️Tiếp thị số/Web analytics/Gắn tag/Google tag, global site tag, gtag là những cái tên khác nhau cho đoạn script theo dõi người dùng của Google Analytics.md",
+    "📊Tổ chức dữ liệu. Phân tích dữ liệu/Tổ chức dữ liệu/Chia sẻ dữ liệu/Untitled",
+    "📊Tổ chức dữ liệu. Phân tích dữ liệu/Tổ chức dữ liệu/Chia sẻ dữ liệu",
+    "Sắp chữ, thiết kế/TeX/Engine",
+    "Sắp chữ, thiết kế/TeX",
+    "Sắp chữ, thiết kế",
     "✍️Lập trình/Ngôn ngữ/Ngôn ngữ lập trình",
     "✍️Lập trình/Khái niệm cơ bản và nguyên lý lập trình/Nguyên lý/Cấu trúc dữ liệu",
     "✍️Lập trình/Khái niệm cơ bản và nguyên lý lập trình/Nguyên lý/Viết comment",
-    "✍️Lập trình/Khái niệm cơ bản và nguyên lý lập trình/Nguyên lý/Thành phần chương trình",
-    "✍️Lập trình/Khái niệm cơ bản và nguyên lý lập trình/Nguyên lý/Đơn nhiệm",
-    "✍️Lập trình/Ngôn ngữ/Ngôn ngữ lập trình/JavaScript và Python/Python/Path, env, version/Conda",
-    "✍️Lập trình/Ngôn ngữ/Ngôn ngữ lập trình/JavaScript và Python/JavaScript/Runtime/Node",
-    "✍️Lập trình/Ngôn ngữ/Ngôn ngữ lập trình/JavaScript và Python/JavaScript/Runtime/Deno",
-    "✍️Lập trình/Ngôn ngữ/Ngôn ngữ lập trình/JavaScript và Python/Khác biệt giữa JS và Python/Về mặt triết lý",
-    "✍️Lập trình/Ngôn ngữ/Ngôn ngữ lập trình/JavaScript và Python/Khác biệt giữa JS và Python/Về mặt kỹ thuật",
     "Ξ Thiết lập/Ảnh/Kiến trúc giữa Node và Deno.png",
     "Ξ Thiết lập/Ảnh/Trấn Kỳ/Keep to Fibery.png",
     "Ξ Thiết lập/Ảnh/Trấn Kỳ/Hemi Head_med.png",

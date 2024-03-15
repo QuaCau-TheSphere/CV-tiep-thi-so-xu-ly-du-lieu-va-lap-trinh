@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2024-01-20T14:51
+updated: 2024-02-20T15:33
 ---
 Fresh is a website framework designed to be used with Deno
 Preact is essentially a reactive rendering library
@@ -28,3 +28,12 @@ In my opinion there is no need to learn Preact before Fresh. That's pointless. B
 
 Nguồn:: [Discord](https://discord.com/channels/684898665143206084/991511118524715139/1192090620198662144)
 [[Fresh dùng Preact cho UI]]
+
+| Framework | Meta Framework            |
+| --------- | ------------------------- |
+| Preact    | Fresh                     |
+| React     | Next.js, Remix, Gatsby... |
+| Vue       | Nuxt                      |
+| Svelte    | SvelteKit                 |
+| Solid     | SolidStart                | 
+Nguồn:: [unable to use preact context in fresh · Issue #983 · denoland/fresh · GitHub](https://github.com/denoland/fresh/issues/983#issuecomment-1891656732)

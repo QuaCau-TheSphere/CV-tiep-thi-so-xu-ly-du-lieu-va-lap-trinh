@@ -1,6 +1,6 @@
 ---
 created: 2023-10-24T18:26
-updated: 2024-02-01T21:39
+updated: 2024-03-12T13:34
 ---
 | Ngôn ngữ            | PowerShell                                  | CMD     | AutoHotKey   | JavaScript      | Python          | SQL | Bash | LaTeX |
 | ------------------- | ------------------------------------------- | ------- | ------------ | --------------- | --------------- | --- | ---- | ----- |
@@ -16,5 +16,6 @@ updated: 2024-02-01T21:39
 | Dấu thăng `#`       | `# comment`. Mẹo: dùng `##` ở trên function |         | `#directive` |                 |                 |     |      |       |
 | Dấu chấm phẩy `;`   |                                             |         | `; comment`  |                 |                 |     |      |       |
 | Dấu gạch đứng `\|`   | Pipe                                        |         |              |                 |                 |     |      |       |
+
 
 Ưu tiên dấu nháy đơn `'` hơn là nháy kép `"`. Tuy nhiên nhớ rằng trong JSON thì chỉ có thể dùng nháy kép chứ không được dùng nháy đơn/

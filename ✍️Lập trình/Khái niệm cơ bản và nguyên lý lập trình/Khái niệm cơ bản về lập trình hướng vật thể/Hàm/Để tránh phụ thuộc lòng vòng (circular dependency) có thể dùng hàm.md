@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-24T18:26
-updated: 2023-12-14T12:07
+updated: 2024-05-26T14:04
 ---
 `a.js` (entry module):
 
@@ -58,4 +58,4 @@ export function logA() {
 Nguồn:: [Does importing a module mean embedding the code of the module at the line of the import statement?](https://stackoverflow.com/q/76928950/3416774)
 
 [[Việc chia các lệnh trong kịch bản thành các hàm nhỏ hơn sẽ giúp dễ bắt lỗi hơn]]
-[[Khi import một hàm thì cả file chứa hàm đó sẽ được chạy]]
+[[Khi import một hàm thì cả file chứa hàm đó sẽ được chạy. Các import cũng sẽ chạy theo, dù là để import vào một hàm khác mình không import]]

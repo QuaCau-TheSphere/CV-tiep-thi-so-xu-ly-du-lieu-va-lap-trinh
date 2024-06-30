@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2024-01-12T14:34
+updated: 2024-04-01T11:19
 ---
 Nhu cầu:: 		nc, dy, tl
 Nhu cầu dẫn tới:: 		ncdt, ch, mt
@@ -19,6 +19,7 @@ Lý do:: 		ld
 Liên quan:: 		lq
 Câu hỏi:: 		ch
 Nguồn:: 		ng
+Trích từ:: 		tt
 Xem thêm:: 		xt
 
 # Code nhanh

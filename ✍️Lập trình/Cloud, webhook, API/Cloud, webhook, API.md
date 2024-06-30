@@ -1,12 +1,12 @@
 ---
 share: true
 created: 2023-11-30T22:51
-updated: 2024-01-09T18:55
+updated: 2024-04-26T12:33
 ---
 
 ```dataview
 LIST rows.file.link
-FROM "Cloud, webhook, API" 
+FROM "✍️Lập trình/Cloud, webhook, API" 
 WHERE file.name!=this.file.name
 GROUP BY split(file.folder, "/")[2]
 ```

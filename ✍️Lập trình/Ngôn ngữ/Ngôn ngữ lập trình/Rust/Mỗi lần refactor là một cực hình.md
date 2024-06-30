@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2024-02-01T21:39
+updated: 2024-04-23T01:37
 ---
 Rust’s rich type system is a blessing and a curse. Thinking in Rust types is a dream. Managing Rust’s types can be a nightmare. Your data and function signatures can have generic types, generic lifetimes, and trait constraints. Those constraints can have their own generic types and lifetimes. [Sometimes, you’ll have more type constraints than actual code](https://github.com/rxRust/rxRust/blob/master/src/observable.rs#L1134-L1142).
 
@@ -9,7 +9,7 @@ Rust’s rich type system is a blessing and a curse. Thinking in Rust types is a
 
 Constraints that outweigh logic
 
-You also need to define all your generics on [every](https://github.com/bytecodealliance/wasmtime/blob/038ddfeb6699591b5d82546c9b2d5076097bc9ce/cranelift/entity/src/iter.rs#L29-L58) `[impl](https://github.com/bytecodealliance/wasmtime/blob/038ddfeb6699591b5d82546c9b2d5076097bc9ce/cranelift/entity/src/iter.rs#L29-L58)`. It’s tedious when writing it the first time. When refactoring though, it can turn a minor change into a cascading mess.
+You also need to define all your generics on [every impl](https://github.com/bytecodealliance/wasmtime/blob/038ddfeb6699591b5d82546c9b2d5076097bc9ce/cranelift/entity/src/iter.rs#L29-L58). It’s tedious when writing it the first time. When refactoring though, it can turn a minor change into a cascading mess.
 
 ![](https://miro.medium.com/v2/resize:fit:652/1*5yX-BV9ZAoFZ-cSHOCLojg.png)
 

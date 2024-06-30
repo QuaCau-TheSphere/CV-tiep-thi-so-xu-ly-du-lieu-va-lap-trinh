@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2023-11-10T13:09
+updated: 2024-06-02T21:38
 ---
 ![](https://youtu.be/L8CDt1J3DAw?si=tTCg8pJhTfUEPvLt) 
 Một trong những cách đơn giản nhất để debug Javascript code đó chính là hiện ra kết quả qua câu lệnh `console.log`. Mặc dù nó vẫn hoạt động, tuy nhiên đó không phải là cách tối ưu cho mọi việc. Trong bài viết này mình sẽ giới thiệu với các bạn những chức năng khác mà console javascript có thể làm được
@@ -10,13 +10,13 @@ Một trong những cách đơn giản nhất để debug Javascript code đó c
 
 Đây là hàm mà ai cũng đã biết. Tuy nhiên ít người để ý đến tham số dùng trong nó. Đoạn text trong `console.log` có thể được thay thế theo form sau:
 
-|Cú pháp|Ý nghĩa|
-|---|---|
-|%o / %O|Thay thế object|
-|%d / %i|Thay thế số nguyên|
-|%s|Thay thế chuỗi|
-|%f|Thay thế số thực|
-|%c|Thay đổi style|
+| Cú pháp | Ý nghĩa            |
+| ------- | ------------------ |
+| %o / %O | Thay thế object    |
+| %d / %i | Thay thế số nguyên |
+| %s      | Thay thế chuỗi     |
+| %f      | Thay thế số thực   |
+| %c      | Thay đổi style     |
 
 Một số ví dụ:
 
@@ -37,6 +37,14 @@ console.log("%c Style: Sun*", css)
 
 ![](https://images.viblo.asia/64232eba-b07d-4bcf-b602-c73a136a9d44.png)
 
+```js
+console.log(
+  "Multiple styles: %cred %corange",
+  "color: red",
+  "color: orange",
+  "Additional unformatted message",
+);
+```
 # `console.count`
 
 Hàm `console.count( [label] );` trả về số lần được gọi với label. Nếu không có tham số sẽ mặc định trả về số lần được gọi với label default. Điều này giúp ta đếm số lần gọi function. Ví dụ:

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-08-25T14:20
-updated: 2024-02-01T21:39
+updated: 2024-03-25T19:39
 ---
 JSON sẽ chuyển đổi dữ liệu thành một chuỗi byte có thể lưu trữ và truyền qua mạng, dùng để response cho API. Và ta dùng JSON khi muốn lưu dữ liệu ở phía server.
 Nguồn:: [Tìm hiểu về JSON và sự khác nhau giữa JSON và Dictionary trong Python - Python - Magestore](https://stories.magestore.com/t/tim-hi-u-v-json-va-s-khac-nhau-gi-a-json-va-dictionary-trong-python/1247#:~:text=Dictionary%20trong%20Python%20được%20hiểu,dùng%20để%20response%20cho%20API%2e)
@@ -17,4 +17,4 @@ Nguồn:: [Tìm hiểu về JSON và sự khác nhau giữa JSON và Dictionary 
 Nguồn:: [Convert Dictionary to JSON Python - Scaler Topics](https://www.scaler.com/topics/convert-dictionary-to-json-python/#:~:text=Difference%20between%20dict%20and%20JSON&text=The%20keys%20in%20JSON%20can,repeated%20and%20must%20be%20distinct%2e)
 [[Python tách bạch từ điển và vật thể, còn JS không làm vậy]]
 [[Những vật thể đơn giản dùng để tra cứu dữ liệu theo từ khoá gọi là từ điển]]
-[[JSON là cách để biểu diễn vật thể ra chữ]]
+[[JSON là cách để biểu diễn vật thể ra chữ, chứ tự nó không phải là vật thể]]

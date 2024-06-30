@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-24T18:26
-updated: 2024-02-01T21:37
+updated: 2024-04-23T01:41
 ---
 Function Nesting Use Cases _(mostly functional idioms, almost certainly incomplete since it's off the top of my head)_:
 
@@ -20,4 +20,4 @@ Trade-offs:
 - much harder to extend
 - much harder to introspect on the inner function defintion
 
-Nguồn:: [[✍️ Lập trình/Ξ Nguồn và tài nguyên hỗ trợ/Ξ Nguồn/Stack Overflow]], [When to use python function nesting?](https://softwareengineering.stackexchange.com/a/237944/192731)
+Nguồn:: [[✍️Lập trình/Ξ Nguồn và tài nguyên hỗ trợ/Ξ Nguồn/Stack Overflow]], [When to use python function nesting?](https://softwareengineering.stackexchange.com/a/237944/192731)

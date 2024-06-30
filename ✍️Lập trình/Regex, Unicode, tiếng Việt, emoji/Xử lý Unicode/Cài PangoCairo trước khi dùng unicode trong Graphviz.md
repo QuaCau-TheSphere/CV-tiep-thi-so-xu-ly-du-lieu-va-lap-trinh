@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-24T18:26
-updated: 2023-10-31T14:10
+updated: 2024-04-23T01:41
 ---
 - Install expat library (`sudo apt install libexpat1-dev`)
 - Install pangocairo library (`sudo apt install libpango1.0-dev`)
@@ -12,4 +12,4 @@ updated: 2023-10-31T14:10
 	sudo make install
 	```
     
-Nguồn:: [[✍️ Lập trình/Ξ Nguồn và tài nguyên hỗ trợ/Ξ Nguồn/Stack Overflow]], [Why do texts with non-ASCII characters have right padding?](https://stackoverflow.com/a/76630218/3416774)
+Nguồn:: [[✍️Lập trình/Ξ Nguồn và tài nguyên hỗ trợ/Ξ Nguồn/Stack Overflow]], [Why do texts with non-ASCII characters have right padding?](https://stackoverflow.com/a/76630218/3416774)

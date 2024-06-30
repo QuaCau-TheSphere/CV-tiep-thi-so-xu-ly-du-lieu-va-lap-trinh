@@ -1,7 +1,8 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2023-11-29T13:34
+updated: 2024-05-06T13:29
+alias: CORS ngăn chặn việc script ở tab này điều khiển tab kia
 ---
 ## What is Same Origin Policy?
 
@@ -39,3 +40,6 @@ Nếu một công ty có nhiều web application cùng yêu cầu xác thực t�
 
 Chúng ta có nhiều cách để giải quyết trong trường hợp này, thường dùng nhất là **Cross Origin Resource Sharing** (CORS). Tuy nhiên chúng ta sẽ nói về CORS ở phần khác.
 Nguồn:: [[Viblo]], [Security testing tutorial (Part 4): Same Origin Policy & Cookies](https://viblo.asia/p/security-testing-tutorial-part-4-same-origin-policy-cookies-bWrZnOLwlxw)
+
+[[CORS là để trình duyệt bảo vệ người dùng, không phải để bảo vệ máy chủ]]
+[[Origin là sự kết hợp của protocol, hostname và port]]

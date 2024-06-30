@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-21T20:49
-updated: 2023-10-30T18:19
+updated: 2024-04-26T12:09
 ---
 Được sinh ra bởi **Authorization server**, cùng lúc với _access token_ nhưng lại khác nhau về chức năng. _Refresh token_ sẽ được gửi đi để lấy về một _access token_ mới khi nó hết hạn, cũng chính vì vậy nó có thời gian hiệu lực lâu hơn _access token_. Với _access token_ thời gian hiệu lực có thể là 2 giờ thì _refresh token_ có thể lên đến 10 giờ.
 

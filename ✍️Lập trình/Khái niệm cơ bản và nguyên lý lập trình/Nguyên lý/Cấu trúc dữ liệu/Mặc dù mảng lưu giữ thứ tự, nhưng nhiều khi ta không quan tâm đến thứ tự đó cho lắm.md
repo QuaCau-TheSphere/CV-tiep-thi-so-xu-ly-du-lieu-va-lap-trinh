@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-24T18:26
-updated: 2024-02-01T21:41
+updated: 2024-04-23T01:41
 ---
 Along with all the above technical differences, I think there is a fundamental difference in the purpose and meaning of an Object and an Array.
 
@@ -53,5 +53,5 @@ is a better representation than
 ```
 
 even though technically you can use either. I hope I was able to convey(put into words) my thinking in the right manner.
-Nguồn:: [[✍️ Lập trình/Ξ Nguồn và tài nguyên hỗ trợ/Ξ Nguồn/Stack Overflow]], [Array of objects vs Object of Objects](https://stackoverflow.com/a/53216882/3416774)
+Nguồn:: [[✍️Lập trình/Ξ Nguồn và tài nguyên hỗ trợ/Ξ Nguồn/Stack Overflow]], [Array of objects vs Object of Objects](https://stackoverflow.com/a/53216882/3416774)
 

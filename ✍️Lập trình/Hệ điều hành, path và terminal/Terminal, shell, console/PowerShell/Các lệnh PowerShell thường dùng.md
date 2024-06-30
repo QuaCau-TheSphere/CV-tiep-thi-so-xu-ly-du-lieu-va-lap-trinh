@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2023-10-30T18:19
+updated: 2024-04-20T17:01
 ---
 # Lịch sử
 | Lệnh                        | Cách dùng                          |
@@ -35,7 +35,7 @@ Get-ChildItem *.md -recurse | Where-Object {$_.name -cmatch '^2[A-Z]'}  | Rename
 ```
 - `-cmatch`: match có case sensitive
 # Tìm và thay chuỗi hàng loạt
-[[VS Code nhiều khi không tìm hết được do tên file dài quá]]
+[[VS Code nhiều khi không tìm hết file được do tên quá dài]]
 ```PowerShell
 Get-ChildItem *.md -recurse | ForEach-Object { (Get-Content $_).Replace('Kết quả cần có::','Thành quả cần có::') | Set-Content $_ } 
 ```

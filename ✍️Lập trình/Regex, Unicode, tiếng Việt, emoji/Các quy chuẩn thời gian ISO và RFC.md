@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2023-12-04T20:40
+updated: 2024-04-23T01:41
 description: 2020-12-09T16:09:53+00:00 đáp ứng cả ISO và RFC
 ---
 | Mô tả                             | Ví dụ                       | ISO 8601 | RFC3339 |
@@ -11,4 +11,4 @@ description: 2020-12-09T16:09:53+00:00 đáp ứng cả ISO và RFC
 | Dấu âm trong time offset          | `2020-12-09T16:09:53-00:00` | ❌       | ✔       |
 | Bỏ dấu ngang và hai chấm          | `20201209T160953Z`          | ✔        | ❌      |
 
-Nguồn:: [[Stack Overflow]], [datetime - What's the difference between ISO 8601 and RFC 3339 Date Formats? - Stack Overflow](https://stackoverflow.com/a/65221179/3416774)
+Nguồn:: [[✍️Lập trình/Ξ Nguồn và tài nguyên hỗ trợ/Ξ Nguồn/Stack Overflow]], [datetime - What's the difference between ISO 8601 and RFC 3339 Date Formats? - Stack Overflow](https://stackoverflow.com/a/65221179/3416774)

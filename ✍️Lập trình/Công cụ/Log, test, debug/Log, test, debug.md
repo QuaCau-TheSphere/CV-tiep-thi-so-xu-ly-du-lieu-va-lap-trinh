@@ -3,7 +3,7 @@ share: true
 filename: index
 title: Debug
 created: 2023-08-25T14:20
-updated: 2023-11-30T16:58
+updated: 2024-06-02T18:02
 ---
 
 # Debug trực tiếp ngay trên script
@@ -18,4 +18,5 @@ updated: 2023-11-30T16:58
 4. Dùng logpoint
 5. Dùng REPL
 
+![Future of JavaScript Debugging: Dbux and Dynamic Program Analysis | Dominik Seifert - YouTube](https://youtu.be/LhM01DL9dLc?si=WLP8AzM_nA_d8FCk)
 # Dùng unit test

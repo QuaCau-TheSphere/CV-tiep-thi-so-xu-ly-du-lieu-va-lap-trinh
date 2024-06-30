@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2024-01-12T14:03
+updated: 2024-04-23T01:41
 ---
 Git essentially has 4 main statuses for the files in your local repo:
 - **untracked:** The file is new, Git knows nothing about it. If you `git add <file>`, it becomes:
@@ -13,4 +13,4 @@ As you can see, a `git add` will **track** untracked files, and **stage** any fi
 
 _Also: You can untrack an uncommited file with `git rm --cached filename` and unstage a staged file with `git reset HEAD <file>`_
 
-Nguồn:: [[Stack Overflow]], [Concept of git tracking and git staging](https://stackoverflow.com/a/15803429/3416774)
+Nguồn:: [[✍️Lập trình/Ξ Nguồn và tài nguyên hỗ trợ/Ξ Nguồn/Stack Overflow]], [Concept of git tracking and git staging](https://stackoverflow.com/a/15803429/3416774)

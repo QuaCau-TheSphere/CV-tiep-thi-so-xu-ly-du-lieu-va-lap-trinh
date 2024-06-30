@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-27T22:34
-updated: 2024-02-01T21:39
+updated: 2024-03-21T21:49
 ---
 ```python
 class Book:

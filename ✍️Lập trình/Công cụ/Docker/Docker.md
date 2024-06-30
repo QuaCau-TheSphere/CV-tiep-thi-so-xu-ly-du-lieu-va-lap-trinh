@@ -1,12 +1,12 @@
 ---
 share: true
 created: 2023-11-10T13:13
-updated: 2023-12-19T10:17
+updated: 2024-04-24T13:52
 ---
 
 ```dataview
 LIST rows.file.link
-FROM "✍️Lập trình/Docker" 
+FROM "✍️Lập trình/Công cụ/Docker" 
 WHERE file.name!=this.file.name
 GROUP BY split(file.folder, "/")[2]
 ```

@@ -1,5 +1,10 @@
 ---
 created: 2024-01-05T14:38
-updated: 2024-01-05T14:41
+updated: 2024-03-23T17:04
 ---
-Lý do:: [[Đường dẫn đến tệp trong script phụ thuộc vào cwd]]
+Lý do:: [[Đường dẫn đến tệp ngoài trong một script phụ thuộc vào cwd, không phải đường dẫn tới script mình đang viết]]
+```ts
+import * as path from "$std/path/mod.ts";
+const thưMụcHiệnTại = path.dirname(path.fromFileUrl(import.meta.url))
+const danhSáchNơiĐăng = Deno.readTextFileSync(thưMụcHiệnTại+'/Nơi đăng.yaml')
+```

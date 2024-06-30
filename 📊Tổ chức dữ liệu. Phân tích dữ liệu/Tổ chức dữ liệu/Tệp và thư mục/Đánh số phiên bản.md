@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-24T18:26
-updated: 2023-10-30T18:19
+updated: 2024-03-17T22:06
 ---
 In the spirit of [Semantic Versioning](https://semver.org/), I come up with an idea to semantic versioning my vault. Here is the idea:
 

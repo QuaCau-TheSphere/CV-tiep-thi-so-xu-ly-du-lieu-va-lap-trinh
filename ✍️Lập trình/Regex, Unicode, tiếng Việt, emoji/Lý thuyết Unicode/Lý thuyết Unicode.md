@@ -1,11 +1,11 @@
 ---
 share: true
 created: 2023-09-22T14:54
-updated: 2023-11-10T13:13
+updated: 2024-04-23T01:39
 ---
 ```dataview
 LIST
-FROM "Lý thuyết Unicode" 
+FROM "✍️Lập trình/Regex, Unicode, tiếng Việt, emoji/Lý thuyết Unicode" 
 WHERE file.name!=this.file.name
 Where file.name=split(file.folder, "/")[1]
 ```

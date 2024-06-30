@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-22T21:50
-updated: 2024-02-01T21:39
+updated: 2024-04-26T21:34
 ---
 Qua các nội dung của bài này và bài học trước đó ([list trong Python](https://tuhocict.com/kieu-danh-sach-list-trong-python/)) bạn có thể thấy có rất nhiều điểm tương tự giữa tuple và list. Tuy nhiên, tuple và list có những điểm phân biệt rất rõ ràng. Sự khác biệt này quyết định giá trị sử dụng của từng kiểu dữ liệu.
 
@@ -18,3 +18,4 @@ Mặc dù list cho phép lưu trữ dữ liệu thuộc nhiều kiểu khác nha
 Ví dụ, nếu khách hàng có các thông tin về họ tên, email, số điện thoại, địa chỉ. Danh sách khách hàng (tập hợp bản ghi) nên được lưu trong list. Nếu cần truyền thông tin về một khách hàng (dữ liệu 1 bản ghi, ví dụ, trả về từ hàm) thì nên dùng tuple chứa các thông tin của khách hàng đó.
 
 Nguồn:: [[tuhocict]], [Kiểu dữ liệu tuple trong Python | Tự học ICT](https://tuhocict.com/kieu-du-lieu-tuple-trong-python/)
+[[Tuple là mảng nhưng không thay đổi được số lượng phần tử]]

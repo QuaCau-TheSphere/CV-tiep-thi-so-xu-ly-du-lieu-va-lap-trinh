@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2024-02-20T15:38
+updated: 2024-05-13T22:20
 ---
 Chỉ có điều Astro là dùng trên Node, còn Fresh dùng trên Deno. Nếu Deno là lật ngược lại của Node thì Fresh cũng có thể xem là Troas
 

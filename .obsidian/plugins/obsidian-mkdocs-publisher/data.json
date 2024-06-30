@@ -4,6 +4,10 @@
     "repo": "Cw-xu-ly-du-lieu-va-lap-trinh",
     "branch": "main",
     "automaticallyMergePR": true,
+    "dryRun": {
+      "enable": false,
+      "folderName": "github-publisher"
+    },
     "tokenPath": ".obsidian/plugins/obsidian-mkdocs-publisher/env",
     "api": {
       "tiersForApi": "Github Free/Pro/Team (default)",
@@ -31,7 +35,9 @@
         "workflow": {
           "name": "",
           "commitMessage": "[skip netlify] PUBLISHER"
-        }
+        },
+        "verifiedRepo": false,
+        "rateLimit": 5000
       }
     ],
     "verifiedRepo": true,
@@ -49,6 +55,7 @@
     "replaceTitle": [],
     "replacePath": [],
     "autoclean": {
+      "includeAttachments": true,
       "enable": true,
       "excluded": [
         "docs/assets/js",
@@ -93,14 +100,17 @@
   },
   "embed": {
     "attachments": true,
-    "forcePushAttachments": [],
+    "overrideAttachments": [],
     "keySendFile": [
       "image"
     ],
     "notes": true,
     "folder": "docs/assets/attachments",
     "convertEmbedToLinks": "keep",
-    "charConvert": "->"
+    "charConvert": "->",
+    "unHandledObsidianExt": [],
+    "sendSimpleLinks": true,
+    "forcePushAttachments": []
   },
   "plugin": {
     "shareKey": "share",
@@ -113,10 +123,16 @@
       "enable": false,
       "links": "",
       "removePart": [],
-      "addCmd": false
+      "addCmd": false,
+      "transform": {
+        "toUri": true,
+        "slugify": "lower",
+        "applyRegex": []
+      }
     },
     "noticeError": false,
     "displayModalRepoEditing": true,
+    "setFrontmatterKey": "Set",
     "migrated": true,
     "dev": true
   },

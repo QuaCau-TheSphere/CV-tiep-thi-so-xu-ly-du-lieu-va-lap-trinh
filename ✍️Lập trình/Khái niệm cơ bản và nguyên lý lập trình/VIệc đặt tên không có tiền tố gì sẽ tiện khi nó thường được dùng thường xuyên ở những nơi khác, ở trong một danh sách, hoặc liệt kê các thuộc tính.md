@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2024-06-13T23:30
+updated: 2024-07-01T23:33
 ---
 # Liệt kê thuộc tính
 ```js
@@ -42,3 +42,5 @@ Vấn đề là, chính vì JS đã dùng `URL` rồi, nên các url của mình
 ```ts
 type Url = URL | string
 ```
+
+Tên có URL hiểu là trả về kiểu URL luôn.

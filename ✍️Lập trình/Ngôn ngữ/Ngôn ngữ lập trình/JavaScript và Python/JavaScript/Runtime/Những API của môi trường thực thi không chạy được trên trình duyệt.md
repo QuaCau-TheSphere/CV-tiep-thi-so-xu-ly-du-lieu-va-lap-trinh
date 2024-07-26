@@ -1,9 +1,9 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2024-05-26T14:29
+updated: 2024-07-26T13:44
 ---
-[[JS được sinh ra để chạy trên trình duyệt và không được dùng để làm việc với lượng code lớn]]
+[[JS vốn được sinh ra để chạy trên trình duyệt và không được dùng để làm việc với lượng code lớn]]
 Trình duyệt không biết gì về Deno, Node, v.v. Muốn dùng các hàm do các môi trường thực thi này cung cấp thì phải chạy trên server chứ không chạy trên client được
 [[Các hàm được môi trường thực thi cung cấp không hoạt động được ở island]]
 

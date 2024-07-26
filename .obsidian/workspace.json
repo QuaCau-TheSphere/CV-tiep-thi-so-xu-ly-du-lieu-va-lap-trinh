@@ -8,25 +8,64 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f6a2778e5f1010ff",
+            "id": "47593b19ac62b0b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🖥️Mạng máy tính/Máy chủ/Proxy làm trung gian để client lấy dữ liệu từ server.md",
+                "file": "✍️Lập trình/Ngôn ngữ/Các ký tự đặc biệt trong các ngôn ngữ khác nhau.md",
                 "mode": "preview",
                 "backlinks": true,
-                "source": false
+                "source": true
               }
             }
           },
           {
-            "id": "3a437f6616b66a76",
+            "id": "63689f49a1acfd89",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🖥️Mạng máy tính/🖥️Mạng máy tính.md",
+                "file": "📊Tổ chức dữ liệu. Phân tích dữ liệu/Tổ chức dữ liệu/Git/Blob, tree, ref. Bản chất của Git/Key là hash của object, value là nội dung object.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "a149d7a2c49ed86f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📊Tổ chức dữ liệu. Phân tích dữ liệu/Tổ chức dữ liệu/Git/Blob, tree, ref. Bản chất của Git/Có 4 loại object chính – blob, tree, commit, annotated tag.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "d99ed754db66f786",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "✍️Lập trình/Ngôn ngữ/Ngôn ngữ lập trình/Ý đồ thiết kế/Python tập trung vào việc cung cấp một ngôn ngữ lập trình tổng quát, dễ đọc và dễ viết.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "d6ce921b62283b0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "✍️Lập trình/Ngôn ngữ/Ngôn ngữ lập trình/Ý đồ thiết kế/Ý đồ thiết kế.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -34,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -63,7 +102,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "alan",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -100,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🖥️Mạng máy tính/🖥️Mạng máy tính.md",
+                "file": "✍️Lập trình/Ngôn ngữ/Ngôn ngữ lập trình/Ý đồ thiết kế/Ý đồ thiết kế.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🖥️Mạng máy tính/🖥️Mạng máy tính.md",
+                "file": "✍️Lập trình/Ngôn ngữ/Ngôn ngữ lập trình/Ý đồ thiết kế/Ý đồ thiết kế.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🖥️Mạng máy tính/🖥️Mạng máy tính.md"
+                "file": "✍️Lập trình/Ngôn ngữ/Ngôn ngữ lập trình/Ý đồ thiết kế/Ý đồ thiết kế.md"
               }
             }
           },
@@ -182,64 +221,61 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "dbfolder:Create a new database table": false,
-      "templater-obsidian:Templater": false,
-      "obsidian42-brat:BRAT": false,
       "daily-notes:Open today's daily note": true,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "3a437f6616b66a76",
+  "active": "d6ce921b62283b0b",
   "lastOpenFiles": [
-    "🖥️Mạng máy tính/Máy chủ/Proxy làm trung gian để client lấy dữ liệu từ server.md",
-    "🖥️Mạng máy tính/Tên miền, URI/Port là số hiệu của chương trình cụ thể được nhận gói tin.md",
-    "🖥️Mạng máy tính/Giao thức/Protocol là cách để các bên nhận và gửi dữ liệu hiểu nhau.md",
-    "🖥️Mạng máy tính/Giao thức/HTTP/SSL và TLS tạo một ống bảo vệ cho HTTP.md",
-    "🖥️Mạng máy tính/Máy chủ/Server là phần mềm cung cấp dữ liệu cho phần mềm khác. Client là phần mềm đòi hỏi phần mềm khác cung cấp dữ liệu cho mình.md",
-    "🖥️Mạng máy tính/Giao thức/HTTP/Request là thứ client gửi cho server. Response là thứ server gửi cho client.md",
-    "🖥️Mạng máy tính/Máy chủ/Reverse proxy chủ yếu bảo vệ server. Forward proxy chủ yếu bảo vệ client.md",
-    "🖥️Mạng máy tính/Giao thức/HTTP/Yêu cầu HTTP chỉ là một file text.md",
-    "🖥️Mạng máy tính/Giao thức/HTTP/Trình duyệt chỉ gửi yêu cầu và nhận phản hồi ở dạng HTTP.md",
-    "🖥️Mạng máy tính/Giao thức/IP, DNS, DHCP/Default gateway là IP của router.md",
-    "🖥️Mạng máy tính/Giao thức/IP, DNS, DHCP/DHCP giúp thiết bị có được những thông số cần thiết để kết nối mạng.md",
-    "🖥️Mạng máy tính/Giao thức/IP, DNS, DHCP/DNS giúp chuyển tên miền mà con người hiểu được thành IP mà máy tính hiểu được.md",
-    "🖥️Mạng máy tính/Giao thức/IP, DNS, DHCP/DDNS cách để không cần phải biết IP của mình là gì mà vẫn có thể truy cập được, kể cả khi nó thay đổi không báo trước.md",
-    "Ξ Thiết lập/Ảnh/Proxy ẩn danh.png",
+    "✍️Lập trình/Ngôn ngữ/Ngôn ngữ lập trình/Nên để dư một dấu phẩy ở phần tử cuối cùng khi tạo vật thể hoặc mảng.md",
+    "✍️Lập trình/Ngôn ngữ/Ngôn ngữ lập trình/Rust/Rust.md",
+    "✍️Lập trình/Ngôn ngữ/Ngôn ngữ lập trình/Rust/Mỗi lần refactor là một cực hình.md",
+    "✍️Lập trình/Ngôn ngữ/Ngôn ngữ lập trình/Rust/Rust phù hợp khi code đã ổn định rồi.md",
+    "✍️Lập trình/Ngôn ngữ/Ngôn ngữ lập trình/Ý đồ thiết kế/JS vốn được sinh ra để chạy trên trình duyệt và không được dùng để làm việc với lượng code lớn.md",
+    "✍️Lập trình/Ngôn ngữ/Ngôn ngữ lập trình/JavaScript và Python/JavaScript/Lịch sử phát triển của JavaScript.md",
+    "✍️Lập trình/Web/Framework/Fresh, Preact, React/Lịch sử phát triển framework JavaScript.md",
+    "✍️Lập trình/Ngôn ngữ/Ngôn ngữ lập trình/Ý đồ thiết kế/Ý đồ thiết kế.md",
+    "✍️Lập trình/Ngôn ngữ/Ngôn ngữ đánh dấu/Chữ ML trong HTML, XML, YAML, TOML là viết tắt của markup language.md",
+    "📊Tổ chức dữ liệu. Phân tích dữ liệu/Tổ chức dữ liệu/Git/Blob, tree, ref. Bản chất của Git/Có thể hiểu blob là hash của một file, tree là hash của một folder, còn commit thực ra chỉ là hash của folder tổng.md",
+    "✍️Lập trình/Ngôn ngữ/Ngôn ngữ lập trình/Ý đồ thiết kế/Python tập trung vào việc cung cấp một ngôn ngữ lập trình tổng quát, dễ đọc và dễ viết.md",
+    "📊Tổ chức dữ liệu. Phân tích dữ liệu/Tổ chức dữ liệu/Git/Blob, tree, ref. Bản chất của Git/Có 4 loại object chính – blob, tree, commit, annotated tag.md",
+    "✍️Lập trình/Ngôn ngữ/Ngôn ngữ lập trình/Ý đồ thiết kế/Các ngôn ngữ lập trình tiến hoá dần để trở thành Lisp.md",
+    "✍️Lập trình/Ngôn ngữ/Ngôn ngữ lập trình/Ý đồ thiết kế/Nếu compiler không làm cho lập trình viên thấy rõ lỗi của họ là gì, thì đó là lỗi của Rust, không phải của họ.md",
+    "✍️Lập trình/Ngôn ngữ/Ngôn ngữ lập trình/Rust/Viết chương trình bằng Rust giống như sống trong mối quan hệ bạo hành.md",
+    "✍️Lập trình/Ngôn ngữ/Ngôn ngữ lập trình/JavaScript và Python/Khác biệt giữa JS và Python/Về mặt triết lý/JS và Python đều không yêu cầu phải khai báo kiểu ngay lúc viết.md",
+    "✍️Lập trình/Ngôn ngữ/Ngôn ngữ lập trình/JavaScript và Python/Khác biệt giữa JS và Python/Về mặt kỹ thuật/Ý nghĩa tên folder.md",
+    "✍️Lập trình/Ngôn ngữ/Ngôn ngữ lập trình/JavaScript và Python/Khác biệt giữa JS và Python/Về mặt kỹ thuật/Từ điển dùng để chứa và thao tác với dữ liệu, trong khi JSON về bản chất dùng để mã hóa và giải mã dữ liệu.md",
+    "✍️Lập trình/Ngôn ngữ/Ngôn ngữ lập trình/JavaScript và Python/Khác biệt giữa JS và Python/Về mặt triết lý/Python tập trung vào việc cung cấp một ngôn ngữ lập trình tổng quát, dễ đọc và dễ viết.md",
+    "✍️Lập trình/Ngôn ngữ/Ngôn ngữ lập trình/Ý đồ thiết kế",
+    "✍️Lập trình/Ngôn ngữ/Ngôn ngữ lập trình/Các ngôn ngữ lập trình tiến hoá dần để trở thành Lisp.md",
+    "✍️Lập trình/Ngôn ngữ/Ngôn ngữ lập trình/Triết lý của các ngôn ngữ/Các ngôn ngữ lập trình tiến hoá dần để trở thành Lisp.md",
+    "✍️Lập trình/Ngôn ngữ/Ngôn ngữ lập trình/Triết lý của các ngôn ngữ",
+    "✍️Lập trình/Ngôn ngữ/Ngôn ngữ lập trình/New folder",
+    "✍️Lập trình/Ngôn ngữ/Ngôn ngữ lập trình/JavaScript và Python/Python/Python.md",
+    "✍️Lập trình/Ngôn ngữ/Ngôn ngữ lập trình/JavaScript và Python/Khác biệt giữa JS và Python/Về mặt triết lý/JS vốn được sinh ra để chạy trên trình duyệt và không được dùng để làm việc với lượng code lớn.md",
+    "✍️Lập trình/Ngôn ngữ/Ngôn ngữ lập trình/JavaScript và Python/JavaScript/TypeScript/TypeScript cung cấp kiểu cho JS.md",
+    "✍️Lập trình/Ngôn ngữ/Ngôn ngữ lập trình/JavaScript và Python/Khác biệt giữa JS và Python/Về mặt triết lý/Python tách bạch từ điển và vật thể ngay từ đầu, còn JS mãi về sau mới có từ điển.md",
+    "✍️Lập trình/Ngôn ngữ/Ngôn ngữ lập trình/JavaScript và Python/Khác biệt giữa JS và Python/Về mặt kỹ thuật/Map trong JS tương đương với dictionary trong Python.md",
+    "📊Tổ chức dữ liệu. Phân tích dữ liệu/Tổ chức dữ liệu/Git/File/Stage, index, cache",
+    "📊Tổ chức dữ liệu. Phân tích dữ liệu/Tổ chức dữ liệu/Git/Repo",
+    "📊Tổ chức dữ liệu. Phân tích dữ liệu/Tổ chức dữ liệu/Git/Blob, tree, ref. Bản chất của Git",
+    "👏Sản phẩm/Trấn Kỳ/4. Thành phần bổ trợ",
+    "👏Sản phẩm/Trấn Kỳ/3. Hiểu code nói gì",
+    "👏Sản phẩm/Trấn Kỳ/2. Thiết lập chương trình/a.html",
+    "👏Sản phẩm/Trấn Kỳ/2. Thiết lập chương trình",
+    "Ξ Thiết lập/Ảnh/Proxy không ẩn danh 1.png",
     "Ξ Thiết lập/Ảnh/Proxy không ẩn danh.png",
-    "🖥️Mạng máy tính/Máy chủ/Cloudflare đóng vai trò là một proxy và CDN.md",
-    "🖥️Mạng máy tính/Giao thức/IP, DNS, DHCP/DNS sẽ đi hỏi các root nameserver.md",
-    "✍️Lập trình/Web/Nếu tạo CORS proxy thì chỉ trả về đúng HTML thôi, đừng xử lý gì hết trên đó.md",
-    "✍️Lập trình/Web/Framework/Framework.md",
-    "👏Sản phẩm/đối ⊷ thoại/readme.md",
-    "👏Sản phẩm/đối ⊷ thoại/Xác định bài đăng giống nhau.md",
-    "✍️Lập trình/Khái niệm cơ bản và nguyên lý lập trình/Việc đặt tên không có tiền tố gì sẽ tiện khi nó thường được dùng thường xuyên ở những nơi khác, ở trong một danh sách, hoặc liệt kê các thuộc tính.md",
-    "✍️Lập trình/Khái niệm cơ bản và nguyên lý lập trình/Quy ước đặt tên biến.md",
-    "🖥️Mạng máy tính/Máy chủ/CDN tạo ra điểm truy cập gần nhất dựa vào vị trí địa lý của người dùng, để thời gian tải  web không chịu ảnh hưởng bởi việc nó được đặt ở đâu.md",
-    "🖥️Mạng máy tính/Máy chủ/Edge là sự kết hợp giữa CDN và serverless.md",
+    "Ξ Thiết lập/Ảnh/Proxy ẩn danh.png",
     "Ξ Thiết lập/Ảnh/cdn-and-serverless.png",
-    "🖥️Mạng máy tính/Giao thức/IP, DNS, DHCP/IP mọi người thường sử dụng là IP động.md",
-    "🖥️Mạng máy tính/Tên miền, URI/Origin là sự kết hợp của protocol, hostname và port.md",
-    "🖥️Mạng máy tính/Tên miền, URI/URL bao gồm scheme, host, port, path, query, fragment.md",
     "Ξ Thiết lập/Ảnh/Kiến trúc giữa Node và Deno.png",
     "Ξ Thiết lập/Ảnh/Trấn Kỳ/Hemi Head_med.png",
-    "🖥️Mạng máy tính/Giao thức/IP, DNS, DHCP",
-    "🖥️Mạng máy tính/Giao thức/HTTP",
-    "🖥️Mạng máy tính/Giao thức",
-    "🖥️Mạng máy tính/Tên miền, URI",
-    "🖥️Mạng máy tính/Máy chủ",
-    "✍️Lập trình/Quản trị mạng/New folder",
-    "✍️Lập trình/Quản trị mạng/URI, URN, URL",
-    "👏Sản phẩm/đối ⊷ thoại",
-    "Sản phẩm/New folder",
-    "📊Tổ chức dữ liệu. Phân tích dữ liệu/Tổ chức dữ liệu/Cơ sở dữ liệu/New folder",
     "Ξ Thiết lập/Ảnh/article html tag.png",
     "Ξ Thiết lập/Ảnh/origin.png",
     "Pasted image 20240323223520.png",
-    "Pasted image 20240323224010.png",
-    "Ξ Thiết lập/Ảnh/Trấn Kỳ/Keep to Fibery.png",
     "Untitled.canvas",
     "Trang chủ.canvas"
   ]

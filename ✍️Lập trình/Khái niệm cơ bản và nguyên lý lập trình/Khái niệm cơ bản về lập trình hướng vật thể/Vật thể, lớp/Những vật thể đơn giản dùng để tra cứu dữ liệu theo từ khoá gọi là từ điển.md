@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-08-25T14:20
-updated: 2023-11-03T19:52
+updated: 2024-07-26T13:53
 ---
 Nếu tất cả thuộc tính của vật thể đều đơn giản, và vật thể được dùng để tra cứu dữ liệu theo từ khoá chứ không phải là để thao tác và thay đổi thuộc tính bằng phương thức, thì nó được gọi là từ điển
 
@@ -37,4 +37,4 @@ Ghi chú: ''
 
 Thì mặc dù đây cũng là một vật thể, nhưng sự phức tạp của nó không còn giống như vật thể ở trên. Nó chỉ được dùng để tra dữ liệu, giống như bạn tra từ điển. Bạn không có ý định thay đổi giá trị trong nó. Nên loại vật thể này được gọi là từ điển.
 
-[[Python tách bạch từ điển và vật thể, còn JS không làm vậy]]
+[[Python tách bạch từ điển và vật thể ngay từ đầu, còn JS mãi về sau mới có từ điển]]

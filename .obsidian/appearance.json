@@ -2,5 +2,8 @@
   "accentColor": "",
   "theme": "moonstone",
   "cssTheme": "Catppuccin",
-  "baseFontSize": 16
+  "baseFontSize": 16,
+  "enabledCssSnippets": [
+    "MCL Wide Views"
+  ]
 }

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2024-04-23T01:37
+updated: 2024-07-26T14:26
 ---
 Rust’s rich type system is a blessing and a curse. Thinking in Rust types is a dream. Managing Rust’s types can be a nightmare. Your data and function signatures can have generic types, generic lifetimes, and trait constraints. Those constraints can have their own generic types and lifetimes. [Sometimes, you’ll have more type constraints than actual code](https://github.com/rxRust/rxRust/blob/master/src/observable.rs#L1134-L1142).
 
@@ -20,3 +20,5 @@ It’s hard to make rapid progress when you need to tweak 14 different definitio
 _Edit to address external comments: The problem isn’t the expressibility, the problem is no language or tooling solution to reduce the duplication. There are frequent reasons to have the same constraints or refer to the same generic lists, but there’s no way to alias or otherwise refer to a central definition. I’m not sure there should be, but it doesn’t change the burden of duplication._
 
 Nguồn:: [Was Rust Worth It?. From JavaScript to Rust, three years… | by Jarrod Overson | Medium](https://jsoverson.medium.com/was-rust-worth-it-f43d171fb1b3)
+
+[[Rust phù hợp khi code đã ổn định rồi]]

@@ -73,7 +73,7 @@
   },
   "features": {
     "alias": {
-      "enabled": false,
+      "enabled": true,
       "strategy": "ensure",
       "validator": "fr"
     },
@@ -81,10 +81,10 @@
       "enabled": true
     },
     "explorer:sort": {
-      "enabled": false
+      "enabled": true
     },
     "tab": {
-      "enabled": true
+      "enabled": false
     },
     "header": {
       "enabled": true

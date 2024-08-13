@@ -1,9 +1,11 @@
 {
   "accentColor": "",
-  "theme": "moonstone",
+  "theme": "system",
   "cssTheme": "Catppuccin",
-  "baseFontSize": 16,
+  "baseFontSize": 18,
+  "showViewHeader": true,
   "enabledCssSnippets": [
+    "style-importer",
     "MCL Wide Views"
   ]
 }

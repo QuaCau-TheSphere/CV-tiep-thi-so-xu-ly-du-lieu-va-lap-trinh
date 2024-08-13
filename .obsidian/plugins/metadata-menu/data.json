@@ -16,7 +16,6 @@
   "enableFileExplorer": true,
   "enableSearch": true,
   "enableProperties": true,
-  "buttonIcon": "clipboard-list",
   "tableViewMaxRecords": 20,
   "frontmatterListDisplay": "asArray",
   "fileClassExcludedFolders": [],
@@ -27,5 +26,9 @@
   ],
   "fileIndexingExcludedRegex": [],
   "frontmatterOnly": false,
-  "showFileClassSelectInModal": true
+  "showFileClassSelectInModal": true,
+  "chooseFileClassAtFileCreation": false,
+  "autoInsertFieldsAtFileClassInsertion": false,
+  "fileClassIcon": "package",
+  "isAutoCalculationEnabled": true
 }

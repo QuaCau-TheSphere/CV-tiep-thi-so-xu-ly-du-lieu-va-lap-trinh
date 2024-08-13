@@ -1,8 +1,8 @@
 {
-  "findText": " ([i|j]) ",
-  "replaceText": " $$1$ ",
+  "findText": "\\d\\. (.*)",
+  "replaceText": "|$1| |",
   "useRegEx": true,
-  "selOnly": false,
+  "selOnly": true,
   "caseInsensitive": false,
   "processLineBreak": false,
   "processTab": false,

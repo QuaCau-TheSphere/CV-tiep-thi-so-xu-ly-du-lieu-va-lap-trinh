@@ -11,15 +11,32 @@
   "auto_jump_to_cursor": true,
   "enable_system_commands": true,
   "shell_path": "",
-  "user_scripts_folder": "",
+  "user_scripts_folder": "Ξ Thiết lập/Templates",
   "enable_folder_templates": true,
   "folder_templates": [
     {
       "folder": "/",
       "template": "Ξ Thiết lập/Templates/Ý tưởng.md"
+    },
+    {
+      "folder": "📜Tài nguyên/Nhu cầu công việc",
+      "template": "Ξ Thiết lập/Templates/Nhu cầu công việc.md"
+    },
+    {
+      "folder": "📜Tài nguyên/Nhu cầu công nghệ",
+      "template": "Ξ Thiết lập/Templates/Nhu cầu công nghệ.md"
+    },
+    {
+      "folder": "⚡Hiểu biết sâu/Ξ Khái niệm",
+      "template": "Ξ Thiết lập/Templates/Khái niệm.md"
+    },
+    {
+      "folder": "",
+      "template": ""
     }
   ],
   "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [
     ""
   ],

@@ -1,8 +1,56 @@
 {
   "autocomplete": [
     {
+      "field": "Thành phẩm",
+      "folder": "📐 Dự án hỗ trợ người mới học Obsidian/3 Thành phẩm"
+    },
+    {
+      "field": "Nhu cầu",
+      "folder": "📐 Dự án hỗ trợ người mới học Obsidian/1 Nhu cầu"
+    },
+    {
+      "field": "Thành quả cần có",
+      "folder": "📐 Dự án hỗ trợ người mới học Obsidian/2 Thành quả mong muốn"
+    },
+    {
+      "field": "Thành quả hỗ trợ",
+      "folder": "📐 Dự án hỗ trợ người mới học Obsidian/2 Thành quả mong muốn"
+    },
+    {
+      "field": "Giả thuyết",
+      "folder": "📐 Dự án hỗ trợ người mới học Obsidian/6 Giả thuyết"
+    },
+    {
+      "field": "Đối tượng thụ hưởng",
+      "folder": "📐 Dự án hỗ trợ người mới học Obsidian/5 Các bên liên quan/Loại đối tượng"
+    },
+    {
+      "field": "Người chơi",
+      "folder": "📐 Dự án hỗ trợ người mới học Obsidian/5 Các bên liên quan/Cá nhân cụ thể"
+    },
+    {
       "field": "Nguồn",
-      "folder": "✍️Lập trình/Ξ Nguồn và tài nguyên hỗ trợ/Ξ Nguồn"
+      "folder": "⚡Hiểu biết sâu/Ξ Nguồn"
+    },
+    {
+      "field": "Khái niệm",
+      "folder": "⚡Hiểu biết sâu/Ξ Khái niệm"
+    },
+    {
+      "field": "Lý do",
+      "folder": "⚡Hiểu biết sâu"
+    },
+    {
+      "field": "Giải pháp kỹ thuật",
+      "folder": "📜Tài nguyên/Giải pháp kỹ thuật"
+    },
+    {
+      "field": "Nhu cầu công nghệ",
+      "folder": "📜Tài nguyên/Nhu cầu công nghệ"
+    },
+    {
+      "field": "Lĩnh vực",
+      "folder": "📜Tài nguyên/Lĩnh vực"
     }
   ],
   "regexpTrigger": "/",

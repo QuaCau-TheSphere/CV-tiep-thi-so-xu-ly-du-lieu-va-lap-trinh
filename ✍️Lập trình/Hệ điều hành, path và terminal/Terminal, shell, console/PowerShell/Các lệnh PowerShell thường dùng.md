@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2024-04-20T17:01
+updated: 2024-07-27T21:08
 ---
 # Lịch sử
 | Lệnh                        | Cách dùng                          |
@@ -31,13 +31,13 @@ $list|ForEach-Object {"`"$_`"," } |clip
 ```
 # Đổi tên hàng loạt
 ```PowerShell
-Get-ChildItem *.md -recurse | Where-Object {$_.name -cmatch '^2[A-Z]'}  | Rename-Item -newname { $_.name -replace '^2(.*)', '4$1'} -whatif 
+Get-ChildItem *.md, *.json -recurse | Where-Object {$_.name -cmatch '^2[A-Z]'}  | Rename-Item -newname { $_.name -replace '^2(.*)', '4$1'} -whatif 
 ```
 - `-cmatch`: match có case sensitive
 # Tìm và thay chuỗi hàng loạt
 [[VS Code nhiều khi không tìm hết file được do tên quá dài]]
 ```PowerShell
-Get-ChildItem *.md -recurse | ForEach-Object { (Get-Content $_).Replace('Kết quả cần có::','Thành quả cần có::') | Set-Content $_ } 
+Get-ChildItem *.md, *.json -recurse | ForEach-Object { (Get-Content $_).Replace('Kết quả cần có::','Thành quả cần có::') | Set-Content $_ } 
 ```
 # Xoá tất cả desktop.ini 
 ```PowerShell

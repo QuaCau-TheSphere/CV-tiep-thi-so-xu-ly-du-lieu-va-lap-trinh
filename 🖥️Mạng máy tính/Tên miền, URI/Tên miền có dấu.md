@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-24T18:26
-updated: 2024-07-13T12:59
+updated: 2024-08-13T21:11
 ---
 Tên miền mà cũng có thể có dấu ư? Nói thiệt là cái này nhiều người hỏi lắm. Nhiều người chắc vẫn nghĩ là tên miền thì bắt buộc phải là không dấu. Nhưng tên miền có dấu (hay nói chính xác hơn là tên miền có ký tự Unicode) đã được triển khai từ năm 2010 rồi. Thậm chí emoji còn có thể dùng cho tên miền được luôn. Có hẳn một trang web thống kê các tên miền dùng emoji trong tên miền luôn: [i❤️.ws](https://xn--i-7iq.ws/)
 
@@ -32,15 +32,16 @@ Khi chia sẻ trên Facebook, tên miền thay vì hiện là Quảcầu.com s�
 Cách khắc phục: cũng là tạo tên miền không dấu rồi chuyển hướng sang tên miền chính.
 
 ## Rắc rối kỹ thuật
-
 Vẫn còn những chỗ không hỗ trợ triệt để ký tự có dấu. Cái này thì đúng là chịu. Nhưng kỹ thuật được sinh ra là để phục vụ người dùng, nếu có thể hy sinh thêm một tí cho trải nghiệm người dùng thì tại sao lại không làm?
 
 Ai sử dụng tên miền có dấu với đuôi .vn thì sẽ được miễn phí 20k. Thông tin chi tiết xem tại [Trung Tâm Internet Việt Nam (VNNIC)](https://vnnic.vn/tenmientiengviet), Bộ Thông tin và Truyền thông.
 
+[[Sự khác biệt giữa Windows và Android, Mac trong tên file]]
+[[Cách các đường dẫn ở những nơi khác nhau xử lý dấu cách và ký tự phi ASCII]]
 # Ừ thì nhược điểm vậy đó, rồi thì sao?
 
 Thì nếu bạn nhắm nội dung của mình chất lượng đủ để vượt qua được những nhược điểm đó thì cứ việc dùng. Bạn phải xác định là bạn đang tạo ra một thói quen mới cho độc giả, và việc này sẽ cần nhiều sự kiên trì và phản ứng ban đầu. Đây cũng chính là tinh thần "dám đối diện nỗi sợ", "dám yên tâm rằng mọi chuyện rồi nhất định sẽ tốt đẹp" mà Quả Cầu đang muốn lan toả.
 
 > Có vài người nói, "Đưa khách hàng những gì họ muốn." Nhưng đó không phải là cách của tôi. Công việc của chúng tôi là tìm ra những gì khách hàng sẽ muốn trước cả họ. Tôi nghĩ Henry Ford từng nói, "Nếu tôi hỏi khách hàng họ muốn gì, họ sẽ nói với tôi, 'Một con ngựa nhanh hơn!'" Người ta không biết mình muốn gì cho đến khi bạn đưa cho họ xem. Đó là lý do tại sao tôi không bao giờ dựa vào nghiên cứu thị trường. Nhiệm vụ của chúng tôi là đọc ra những thứ còn chưa có trên mấy tờ trang giấy ấy."
 
-[[Dấu cách và ký tự non-ASCII trong markdown, URL, domain]]
+[[Cách các đường dẫn ở những nơi khác nhau xử lý dấu cách và ký tự phi ASCII]]

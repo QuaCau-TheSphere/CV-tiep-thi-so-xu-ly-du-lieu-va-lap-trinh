@@ -1,14 +1,14 @@
 {
   "github": {
     "user": "QuaCau-TheSphere",
-    "repo": "Cw-xu-ly-du-lieu-va-lap-trinh",
+    "repo": "CW-obsidian-quan-ly-du-an-va-cong-cu-nghi",
     "branch": "main",
     "automaticallyMergePR": true,
     "dryRun": {
       "enable": false,
       "folderName": "github-publisher"
     },
-    "tokenPath": ".obsidian/plugins/obsidian-mkdocs-publisher/env",
+    "tokenPath": "%configDir%/plugins/%pluginID%/env",
     "api": {
       "tiersForApi": "Github Free/Pro/Team (default)",
       "hostname": ""
@@ -37,11 +37,11 @@
           "commitMessage": "[skip netlify] PUBLISHER"
         },
         "verifiedRepo": false,
-        "rateLimit": 4982
+        "rateLimit": 5000
       }
     ],
     "verifiedRepo": true,
-    "rateLimit": 4921
+    "rateLimit": 4359
   },
   "upload": {
     "behavior": "obsidian",
@@ -62,7 +62,9 @@
         "docs/assets/meta",
         "docs/assets/css",
         "tags.md",
-        "graph.md"
+        "graph.md",
+        "docs/assets/favicon.svg",
+        "docs/assets/favicon.ico"
       ]
     },
     "folderNote": {
@@ -81,9 +83,10 @@
     "dataview": true,
     "censorText": [
       {
-        "entry": "10. PROJECT/ETERNITY/Wiki/Personnages",
-        "replace": "",
-        "after": true
+        "entry": "/\\!\\[.*\\]\\(https:\\/\\/.*(youtube\\.com|youtu\\.be)\\/(.*).*\\)/",
+        "replace": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/$2\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+        "after": true,
+        "inCodeBlocks": true
       }
     ],
     "tags": {
@@ -108,9 +111,21 @@
     "folder": "docs/assets/attachments",
     "convertEmbedToLinks": "keep",
     "charConvert": "->",
-    "unHandledObsidianExt": [],
+    "unHandledObsidianExt": [
+      "xml",
+      "html",
+      "css",
+      "js",
+      "ts",
+      "jsx",
+      "tsx",
+      "json",
+      "jsonc",
+      "yaml"
+    ],
     "sendSimpleLinks": true,
-    "forcePushAttachments": []
+    "forcePushAttachments": [],
+    "useObsidianFolder": false
   },
   "plugin": {
     "shareKey": "share",
@@ -136,5 +151,6 @@
     "migrated": true,
     "dev": true
   },
-  "tabsID": "github-configuration"
+  "tabsID": "text-conversion",
+  "tabsId": "text-conversion"
 }

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-24T18:26
-updated: 2024-07-02T13:18
+updated: 2024-08-15T20:58
 ---
 # Kiểu viết
 | Kiểu viết  | Ý nghĩa                                       | Ví dụ                   |
@@ -29,4 +29,4 @@ Tuy nhiên có hai loại ký hiệu Hungary. Loại ở trên gọi là Hungary
 [[freeCodeCamp]], [Snake Case VS Camel Case VS Pascal Case VS Kebab Case – What's the Difference Between Casings?](https://www.freecodecamp.org/news/snake-case-vs-camel-case-vs-pascal-case-vs-kebab-case-whats-the-difference/)
 [[Viblo]], [Bàn về quy cách đặt tên (Naming Convention)](https://viblo.asia/p/ban-ve-quy-cach-dat-ten-naming-convention-3P0lPyem5ox)
 
-[[Việc đặt tên không có tiền tố gì sẽ tiện khi nó thường được dùng thường xuyên ở những nơi khác, ở trong một danh sách, hoặc liệt kê các thuộc tính]]
+[[Việc đặt tên không có tiền tố gì sẽ tiện khi nó thường được dùng thường xuyên ở những nơi khác, ở trong một danh sách, hoặc khi dùng để liệt kê các thuộc tính]]

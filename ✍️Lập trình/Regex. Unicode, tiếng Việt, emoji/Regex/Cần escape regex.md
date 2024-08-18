@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-24T18:26
-updated: 2024-08-13T20:51
+updated: 2024-08-14T21:29
 ---
 ```
 function escapeRegex(string) {

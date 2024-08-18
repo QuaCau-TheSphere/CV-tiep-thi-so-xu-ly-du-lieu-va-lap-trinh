@@ -1,6 +1,7 @@
 ---
+share: true
 created: 2024-03-24T10:24
-updated: 2024-03-24T14:17
+updated: 2024-08-14T21:32
 ---
 If you pass an object, then it will only call the property with the relevant HTTP verb. If it's a function then the function is treated as the handler itself.
 marvinh.: The basic explanation of what a handler is:

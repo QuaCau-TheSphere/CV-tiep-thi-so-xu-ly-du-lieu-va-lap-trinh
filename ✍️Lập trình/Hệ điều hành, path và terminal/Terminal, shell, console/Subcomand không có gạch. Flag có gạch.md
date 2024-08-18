@@ -1,8 +1,8 @@
 ---
 share: true
 created: 2023-10-24T18:26
-updated: 2023-10-30T18:19
-title: Subcomand không có gạch (VD: `deno help`). Flag có gạch (VD: `deno --help`) 
+updated: 2024-08-14T21:34
+title: "Subcomand không có gạch (VD: `deno help`). Flag có gạch (VD: `deno --help`)"
 ---
 ```shell
 # Using the subcommand.
@@ -14,3 +14,4 @@ deno -h
 # Using the long flag -- outputs more detailed help text where available.
 deno --help
 ```
+`=this.share`

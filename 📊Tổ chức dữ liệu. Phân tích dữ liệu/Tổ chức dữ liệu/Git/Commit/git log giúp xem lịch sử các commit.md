@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2023-11-02T15:38
+updated: 2024-08-14T15:31
 ---
 | Lệnh                        | Ý nghĩa                                            |
 | --------------------------- | -------------------------------------------------- |
@@ -9,4 +9,5 @@ updated: 2023-11-02T15:38
 | `git log --oneline`         | Chỉ xem tên                                        |
 | `git log --oneline --graph` | Xem sơ đồ các commit                               |
 | `git log <commit>`          | Xem danh sách các commit từ `<commit>` đó về trước |
-|                             |                                                    |
+
+[[git reflog giúp xem lại các ref không có trong lịch sử commit]]

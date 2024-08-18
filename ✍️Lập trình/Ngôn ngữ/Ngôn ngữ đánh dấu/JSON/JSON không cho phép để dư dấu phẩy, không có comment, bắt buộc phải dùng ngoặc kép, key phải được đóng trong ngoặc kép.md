@@ -1,6 +1,7 @@
 ---
+share: true
 created: 2024-01-12T14:31
-updated: 2024-02-01T21:39
+updated: 2024-08-14T21:29
 ---
 JSON là để cho máy viết, không phải cho người viết. Người muốn viết thì dùng YAML sẽ tốt hơn.
 - Key phải được đóng trong ngoặc kép để:
@@ -11,3 +12,9 @@ JSON là để cho máy viết, không phải cho người viết. Người mu�
 [[YAML thì để con người dễ đọc, còn JSON là để máy dễ đọc]]
 
 Nguồn:: ![Douglas Crockford: The JSON Saga - YouTube](https://youtu.be/-C-JoyNuQJs?si=YbirDd_LCVQWUYNx&t=339)
+
+Nếu muốn dùng comment thì có thể xài tạm:
+```json
+{"//": "A way to use comments in json"}
+```
+Còn không thì dùng JSONC

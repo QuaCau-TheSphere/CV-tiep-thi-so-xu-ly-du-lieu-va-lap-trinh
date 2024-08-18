@@ -1,1 +1,0 @@
-wysiwym system, in contrast, you only concern yourself with the semantics of what you are writing.

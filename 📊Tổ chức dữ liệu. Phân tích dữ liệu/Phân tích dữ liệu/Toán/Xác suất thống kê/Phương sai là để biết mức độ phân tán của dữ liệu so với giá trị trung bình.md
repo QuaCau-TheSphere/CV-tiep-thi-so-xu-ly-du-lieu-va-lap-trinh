@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2024-06-09T22:30
+updated: 2024-08-14T21:35
 ---
 2 đồ thị đều có cùng giá trị trung bình. Nhưng cái màu đỏ thì độ phân tán thấp hơn. Còn cái màu xanh thì có độ phân tán cao hơn
 
@@ -24,5 +24,3 @@ Giống như em có một cái camera để biết màu trung bình của một 
 Trong tài chính, rủi ro được đo lường bằng sai biệt giữa lợi nhuận thực tế so với lợi nhuận kỳ vọng.
 
 [Rui ro & Loi nhuan--Tran Thi Que Giang-2016-02-29-16235109.pdf](https://fsppm.fulbright.edu.vn/cache/MPP8-531-L06V-Rui%20ro%20&%20Loi%20nhuan--Tran%20Thi%20Que%20Giang-2016-02-29-16235109.pdf)
-
-Nguồn:: 

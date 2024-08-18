@@ -1,7 +1,7 @@
 {
   "github": {
     "user": "QuaCau-TheSphere",
-    "repo": "CW-obsidian-quan-ly-du-an-va-cong-cu-nghi",
+    "repo": "CW-tiep-thi-so-xu-ly-du-lieu-va-lap-trinh",
     "branch": "main",
     "automaticallyMergePR": true,
     "dryRun": {
@@ -37,11 +37,11 @@
           "commitMessage": "[skip netlify] PUBLISHER"
         },
         "verifiedRepo": false,
-        "rateLimit": 5000
+        "rateLimit": 4525
       }
     ],
     "verifiedRepo": true,
-    "rateLimit": 4359
+    "rateLimit": 4354
   },
   "upload": {
     "behavior": "obsidian",
@@ -52,19 +52,21 @@
       "enable": true,
       "key": "filename"
     },
-    "replaceTitle": [],
+    "replaceTitle": [
+      {
+        "regex": "%",
+        "replacement": "％",
+        "type": "title"
+      }
+    ],
     "replacePath": [],
     "autoclean": {
       "includeAttachments": true,
       "enable": true,
       "excluded": [
-        "docs/assets/js",
-        "docs/assets/meta",
-        "docs/assets/css",
-        "tags.md",
-        "graph.md",
-        "docs/assets/favicon.svg",
-        "docs/assets/favicon.ico"
+        "/docs/assets/.*/",
+        "docs/_data.yaml",
+        "/docs/_includes/.*/"
       ]
     },
     "folderNote": {
@@ -108,7 +110,7 @@
       "image"
     ],
     "notes": true,
-    "folder": "docs/assets/attachments",
+    "folder": "docs/attachments",
     "convertEmbedToLinks": "keep",
     "charConvert": "->",
     "unHandledObsidianExt": [
@@ -152,5 +154,5 @@
     "dev": true
   },
   "tabsID": "text-conversion",
-  "tabsId": "text-conversion"
+  "tabsId": "upload-configuration"
 }

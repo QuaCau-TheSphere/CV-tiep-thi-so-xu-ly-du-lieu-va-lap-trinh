@@ -1,12 +1,13 @@
 ---
 share: true
 created: 2023-08-25T15:39
-updated: 2024-06-30T21:00
+updated: 2024-08-15T13:21
 filename: index
 alias:
   - Homepage
   - Trang chủ
 ---
+## Tiếp thị số, xử lý dữ liệu và lập trình
 Đây là kho thông tin bổ sung cho kho [Obsidian, quản lý dự án và công cụ nghĩ](https://obsidian.quảcầu.cc/?utm_source=Vault+C+Tiếp+thị+số%2C+xử+lý+dữ+liệu+và+lập+trình+(Trang+chủ)&utm_medium=Vault&utm_campaign=&utm_content=&utm_term=), tập trung vào việc xử lý dữ liệu và lập trình. Nó được sinh ra trong quá trình bọn mình viết [Trấn Kỳ](https://tranky.deno.dev/?utm_source=Vault+C+Tiếp+thị+số%2C+xử+lý+dữ+liệu+và+lập+trình+(Trang+chủ)&utm_medium=Vault&utm_campaign=&utm_content=&utm_term=), và cũng được sử dụng như tài liệu hướng dẫn cho nó. Nếu bạn muốn tìm một nguồn tài liệu để học một cách bài bản thì không nên vào đây. Nhưng nếu mục tiêu của bạn là làm xong những công việc khác, mà để làm được chúng trôi chảy bạn phải học lập trình, và bạn muốn tìm những bài viết thật ngắn nhưng đủ để hiểu khái niệm để còn làm việc được tiếp (như khi bọn mình cần phải học để còn viết xong Trấn Kỳ), thì có thể một số thứ trong đây sẽ hữu ích cho bạn.
 
 > [!IMPORTANT] Những thứ được ghi lại trong đây

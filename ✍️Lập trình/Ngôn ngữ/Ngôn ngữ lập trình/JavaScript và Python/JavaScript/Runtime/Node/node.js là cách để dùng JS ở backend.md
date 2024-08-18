@@ -1,11 +1,11 @@
 ---
 share: true
 created: 2023-10-24T18:26
-updated: 2024-07-26T13:44
+updated: 2024-08-17T19:34
 ---
 [[Node với Deno là những môi trường thực thi của JS]]
 [[Sau một thập kỷ phát triển, tác giả của Node viết Deno để khắc phục những thiếu sót của Node]]
-[[Runtime là lúc chạy. Runtime environment là môi trường thực thi]]
+[[Code giống như văn bản nhạc, engine giống như nhạc công, còn runtime giống như nhạc cụ]]
 [[JS vốn được sinh ra để chạy trên trình duyệt và không được dùng để làm việc với lượng code lớn]]
 
 ```dataview

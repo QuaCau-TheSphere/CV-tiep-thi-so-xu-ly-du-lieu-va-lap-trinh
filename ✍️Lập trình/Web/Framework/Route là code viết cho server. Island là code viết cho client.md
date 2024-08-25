@@ -1,7 +1,10 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2024-05-13T22:20
+updated: 2024-08-24T12:28
+alias:
+  - Route là code viết cho server
+  - Island là code viết cho client
 ---
 [[Các hàm được môi trường thực thi cung cấp không hoạt động được ở island]]
 If all your JavaScript only runs in the client, then you don't have the problem of how do I share signals from the server to the client, simply because there is no js code running on the server. Same is true if everything is running on the server. When all code only ever runs in the same runtime, you avoid the whole "how do I share stuff with the other runtime" which is a pretty complex problem.

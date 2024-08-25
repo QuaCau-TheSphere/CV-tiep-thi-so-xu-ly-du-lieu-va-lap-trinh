@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2024-08-17T12:19
+updated: 2024-08-18T15:05
 ---
 [[npm là chương trình quản lý package cho Node.js]]
 [[pip là chương trình quản lý package của Python]]

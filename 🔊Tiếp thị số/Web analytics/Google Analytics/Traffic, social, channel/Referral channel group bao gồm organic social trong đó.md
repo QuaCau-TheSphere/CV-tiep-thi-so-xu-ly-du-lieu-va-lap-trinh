@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-26T14:59
-updated: 2023-10-31T01:19
+updated: 2024-08-18T15:05
 ---
 - Organic social channel group chỉ bao gồm các mạng xã hội được liệt kê sẵn hoặc có medium là `social`
 - Referral medium là nguồn đến từ website khác, bao gồm các trang mạng xã hội

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2024-05-03T21:13
+updated: 2024-08-18T15:05
 ---
 # `is` là để hàm kiểm tra ra boolean có thể dùng cho if
 Giả sử ta có code sau:

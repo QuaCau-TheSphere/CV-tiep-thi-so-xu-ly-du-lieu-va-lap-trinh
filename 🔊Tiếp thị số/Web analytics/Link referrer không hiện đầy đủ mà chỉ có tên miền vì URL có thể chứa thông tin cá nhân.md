@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2024-04-24T10:58
+updated: 2024-08-18T15:05
 ---
 Thêm thẻ này để cho phép lấy thông tin trên website của mình
 ```html

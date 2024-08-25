@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-24T18:26
-updated: 2024-08-17T12:19
+updated: 2024-08-19T12:35
 ---
 Không cần là vì bản thân Anaconda đã có cài sẵn Python rồi ([[Anaconda giống như một fork Python có bổ sung thêm nhiều công cụ cho khoa học dữ liệu]]). Không nên là vì [[Việc cài phiên bản mới không xoá phiên bản cũ đi khiến cho người mới hay bị lẫn lộn phiên bản]]
 

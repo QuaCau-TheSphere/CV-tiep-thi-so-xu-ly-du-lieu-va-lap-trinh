@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-01-02T15:35
-updated: 2024-07-26T14:27
+updated: 2024-08-18T15:05
 ---
 [Rust và Data Engineering? 🤔](https://blog.duyet.net/2021/11/rust-data-engineering.html)
 

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2024-05-14T13:12
+updated: 2024-08-18T15:05
 ---
 [[useEffect được sinh ra là để side effect không tự động chạy mỗi khi component được render]]
 [[Trong useEffect chỉ dùng được promise, không dùng async được]] 

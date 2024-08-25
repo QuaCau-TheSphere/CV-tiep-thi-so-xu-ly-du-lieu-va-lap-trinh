@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2024-08-06T21:46
+updated: 2024-08-18T15:05
 ---
 Which brings us to Postel's Law, which I always bring up when I write about networks. When I do, invariably there's a slew of responses trying to debate whether Postel's Law is "right," or "a good idea," as if it were just an idea and not a force of nature.
 

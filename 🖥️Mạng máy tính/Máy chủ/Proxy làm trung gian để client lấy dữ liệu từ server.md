@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2024-07-06T17:11
+updated: 2024-08-18T15:05
 ---
 [[Server là phần mềm cung cấp dữ liệu cho phần mềm khác. Client là phần mềm đòi hỏi phần mềm khác cung cấp dữ liệu cho mình]]
 ![[Proxy ẩn danh.png]]![[Proxy không ẩn danh 1.png]]

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2024-05-07T15:03
+updated: 2024-08-18T15:05
 ---
 ![Unit test](https://youtu.be/tIrcxwLqzjQ)
 ![Unit Testing - Hướng dẫn viết trong Javascript 🎉 - YouTube](https://www.youtube.com/watch?v=i4P4x7dIfCs)

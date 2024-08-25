@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2024-05-14T12:21
+updated: 2024-08-18T15:05
 ---
 It is important because signals are reactive, meaning they need to keep track of who is interested in the state and notify subscribers of state changes. This is achieved by observing the context in which the state-getter is invoked, which creates a subscription.
 

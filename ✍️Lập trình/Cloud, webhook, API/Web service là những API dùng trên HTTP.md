@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2024-04-03T13:46
+updated: 2024-08-18T15:05
 ---
 [[HTTP là ngôn ngữ để trình duyệt và webserver nói chuyện với nhau]]
 ## What is Web API?

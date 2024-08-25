@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2024-04-27T16:19
+updated: 2024-08-18T15:05
 ---
 [[Callback là những hàm được dùng như đối số của hàm khác]]. Khi dùng những hàm có callback, ta thắc mắc không biết tham số đã được truyền vào như thế nào? Ví dụ như:
 ```js

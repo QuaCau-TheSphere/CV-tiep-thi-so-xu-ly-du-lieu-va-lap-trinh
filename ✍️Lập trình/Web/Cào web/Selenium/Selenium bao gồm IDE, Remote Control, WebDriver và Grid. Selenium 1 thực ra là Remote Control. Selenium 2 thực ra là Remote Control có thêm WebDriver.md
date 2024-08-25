@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2023-11-29T15:06
+updated: 2024-08-18T15:05
 ---
 [[Remote Control được sinh ra để giải quyết vấn đề Same-Origin Policy]] 
 

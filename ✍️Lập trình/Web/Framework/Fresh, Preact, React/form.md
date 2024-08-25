@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2024-04-11T15:59
+updated: 2024-08-18T15:05
 ---
 Following up on this, there's also an intermediate approach if you use the `react-hook-form` library which is based on uncontrolled components, but does require state (being an island) due to its `useForm()` hook helper. So in this sense, we could say there's 3 approaches to forms: `uncontrolled -> uncontrolled+state -> stateful`. As Marvin says, I agree that one should always start with `uncontrolled` forms using only HTML. However, there might be cases when you need a bit more control, and that's where the middleground (`uncontrolled+state`) with a library like `react-hook-form` might come into play. For example, in my case, I needed to use PATCH/PUT to interact with my RESTful API and the native HTML `<form>` element only supports GET/POST, so I had to had an onSubmit handler (in an island), in which case you might as well use the `react-hook-form` wrapper which provides some nice features while keeping things uncontrolled👍.
 

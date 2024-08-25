@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-24T18:26
-updated: 2024-03-26T21:59
+updated: 2024-08-18T15:05
 ---
 Nó giúp làm quen được một số cú pháp hoặc lỗi cơ bản.
 

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-24T18:26
-updated: 2024-02-01T21:47
+updated: 2024-08-18T15:05
 ---
 [[Thay vì ta thao túng trực tiếp dữ liệu, ta điều khiển vật thể qua phần giao tiếp của nó với bên ngoài]]
 [[Giao diện là cách để sử dụng vật thể mà không cần biết bên trong nó có gì]]

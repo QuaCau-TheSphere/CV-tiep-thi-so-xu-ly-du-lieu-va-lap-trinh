@@ -2,7 +2,7 @@
 share: true
 alias: thuộc tính, attribute, property
 created: 2023-08-25T14:20
-updated: 2024-05-12T01:36
+updated: 2024-08-18T15:05
 ---
 ![](https://youtu.be/BRSg22VacUA?si=vlnEtXMkzdZB2hE3) 
 

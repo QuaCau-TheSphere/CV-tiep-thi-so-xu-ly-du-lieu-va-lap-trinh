@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-24T18:26
-updated: 2023-11-29T13:55
+updated: 2024-08-18T15:05
 description: Nó giống cái tủ lạnh. Thay vì hằng ngày bạn phải đi chợ, thì hằng tuần bạn đi chợ cho đồ vào tủ lạnh, rồi hằng ngày bạn chỉ việc ra tủ lạnh lấy đồ
 ---
 Nó giống cái tủ lạnh. Thay vì hằng ngày bạn phải đi chợ, thì hằng tuần bạn đi chợ cho đồ vào tủ lạnh, rồi hằng ngày bạn chỉ việc ra tủ lạnh lấy đồ

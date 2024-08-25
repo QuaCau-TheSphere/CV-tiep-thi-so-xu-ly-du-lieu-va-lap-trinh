@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2024-07-27T14:04
+updated: 2024-08-18T15:05
 ---
 # Endpoint là gì? Lợi ích trong việc phát triển APIs
 

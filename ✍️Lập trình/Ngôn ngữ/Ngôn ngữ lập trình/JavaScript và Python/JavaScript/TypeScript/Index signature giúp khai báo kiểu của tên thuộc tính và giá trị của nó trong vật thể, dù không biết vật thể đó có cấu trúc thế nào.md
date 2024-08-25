@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2024-02-01T21:39
+updated: 2024-08-18T15:05
 ---
 The syntax of an index signature is simple and looks similar to the syntax of a property. But with one difference: write the type of the key inside the square brackets: `{ [key: KeyType]: ValueType }`.
 

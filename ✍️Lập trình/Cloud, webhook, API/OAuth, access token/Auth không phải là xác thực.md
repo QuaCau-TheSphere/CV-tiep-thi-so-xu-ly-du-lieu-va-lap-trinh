@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2023-11-28T23:49
+updated: 2024-08-18T15:05
 ---
 Chắc hẳn nhiều người sẽ cảm thấy xa lạ với từ OAuth. Bởi OAuth có chứa cụm Auth nên có lẽ các bạn cũng đã hình dung đái khái rằng nó có liên quan đến xác thực người dung. Thế nhưng còn “O” thì sao? “O” có ý nghĩa gì? Trường hợp tên chính thức của một sự vật, hiện tượng được cấu thành bằng một từ viết tắt, việc gặp khó khăn khi đi tìm từ nguyên gốc là điều tất nhiên.
 

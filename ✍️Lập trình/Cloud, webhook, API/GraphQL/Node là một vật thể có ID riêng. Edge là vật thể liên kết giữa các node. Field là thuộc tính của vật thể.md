@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-26T00:13
-updated: 2024-07-27T14:04
+updated: 2024-08-18T15:05
 ---
 [[Node với edge được gọi chung là endpoint]]
 nodes to get data about a specific object, use edges to get collections of objects on a single object, and use fields to get data about a single object or each object in a collection

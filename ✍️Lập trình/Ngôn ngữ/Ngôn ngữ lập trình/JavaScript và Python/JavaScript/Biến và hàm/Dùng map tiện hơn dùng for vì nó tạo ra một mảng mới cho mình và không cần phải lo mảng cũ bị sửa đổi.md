@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2024-04-27T13:20
+updated: 2024-08-18T15:05
 ---
 Sau này khi cần làm React thì sẽ rất tiện ([[Component là những hàm hoặc lớp trả về một khối JSX]]) 
 ```tsx

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2024-02-10T16:34
+updated: 2024-08-18T15:05
 ---
 Cơ chế này giống Astro
 [[Những hàm được export default và được viết hoa ký tự đầu tiên là component]]. [[Component là những hàm hoặc lớp trả về một khối JSX]]. [[Island là những component ở trong thư mục islands]]

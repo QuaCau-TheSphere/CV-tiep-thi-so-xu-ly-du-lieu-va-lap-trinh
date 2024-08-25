@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2024-05-06T22:29
+updated: 2024-08-18T15:05
 ---
 Bình thường, hàm `createContext()` sẽ cho ta dùng 2 JSX: `Provider` cho đầu vào, và `Consumer` cho đầu ra.
 ## Đầu vào

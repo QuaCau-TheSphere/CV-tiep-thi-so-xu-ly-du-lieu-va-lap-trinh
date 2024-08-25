@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-24T18:26
-updated: 2024-02-01T21:39
+updated: 2024-08-18T15:05
 ---
 I want to call a another script from a Python script, and the shell running it is either PowerShell on Windows, or Bash on Ubuntu. How should I construct such a code?
 

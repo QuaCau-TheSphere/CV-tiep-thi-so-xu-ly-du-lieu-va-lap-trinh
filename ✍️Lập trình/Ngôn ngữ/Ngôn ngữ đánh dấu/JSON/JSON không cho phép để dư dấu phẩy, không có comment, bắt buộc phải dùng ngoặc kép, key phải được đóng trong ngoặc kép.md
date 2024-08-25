@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-01-12T14:31
-updated: 2024-08-14T21:29
+updated: 2024-08-18T15:05
 ---
 JSON là để cho máy viết, không phải cho người viết. Người muốn viết thì dùng YAML sẽ tốt hơn.
 - Key phải được đóng trong ngoặc kép để:

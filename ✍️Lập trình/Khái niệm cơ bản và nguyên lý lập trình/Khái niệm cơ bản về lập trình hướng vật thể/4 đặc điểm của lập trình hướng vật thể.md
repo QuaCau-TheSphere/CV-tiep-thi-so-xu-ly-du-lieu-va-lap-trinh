@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2024-01-09T16:16
+updated: 2024-08-18T15:05
 ---
 - Tính trừu tượng (abstraction)
 - [[Việc đóng gói (encapsulation) giúp ta không cần quan tâm vật thể lưu dữ liệu thế nào, mà chỉ cần quan tâm tới thuộc tính và phương thức của nó|Tính đóng gói (encapsulation)]] và che giấu dữ liệu (data hiding) 

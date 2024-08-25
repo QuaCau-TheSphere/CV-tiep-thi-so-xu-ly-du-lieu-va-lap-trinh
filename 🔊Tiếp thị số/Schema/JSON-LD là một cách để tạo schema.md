@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2024-04-23T01:41
+updated: 2024-08-18T15:05
 ---
 ![What is Linked Data? - YouTube](https://youtu.be/4x_xzT5eF5Q?si=pKxW5p19YSQkBrxS)
 ![What is JSON-LD? - YouTube](https://youtu.be/vioCbTo3C-4?si=IIS-mzulM5qAWj3O)

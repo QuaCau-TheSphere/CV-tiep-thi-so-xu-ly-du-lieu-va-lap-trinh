@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-24T18:26
-updated: 2024-02-01T21:39
+updated: 2024-08-18T15:05
 ---
 > [Deno](https://deno.land/) là môi trường để thực thi JavaScript và TypeScript tương tự như Node.js. Deno là công cụ được tạo bởi Ryan Dahl – cũng là tác giả của Node.js – để khắc phục những thiếu sót của Node.js. Nó vẫn được xây dựng dựa trên V8 JavaScript Engine, tuy nhiên nó được viết bằng ngôn ngữ lập trình Rust.
 > 

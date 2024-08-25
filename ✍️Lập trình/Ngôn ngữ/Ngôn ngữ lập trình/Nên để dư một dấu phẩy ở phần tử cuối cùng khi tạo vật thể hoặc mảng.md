@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2024-02-01T21:39
+updated: 2024-08-18T15:05
 ---
 ## Trailing comma là gì? Tại sao nó từng là lỗi trong JavaScript?
 

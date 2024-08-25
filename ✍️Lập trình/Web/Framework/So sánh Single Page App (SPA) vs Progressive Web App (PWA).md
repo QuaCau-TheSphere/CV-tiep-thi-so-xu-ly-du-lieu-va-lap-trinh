@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2024-04-03T13:36
+updated: 2024-08-18T15:05
 ---
 Hôm nay mình thấy một team nói với nhau về **Progressive web app** mà không phân biệt nó khác **Single page app** đến mức nào? Và công nghệ chạy background ra sao! Chỉ biết là nó dùng ajax, javascript thư viện của thằng này thằng kia nên nó là Progressive web app đó, chứ hỏng có hiểu là cơ chế hoạt động nó ra sao hết thấy tội mà thôi cũng kệ… luôn chứ sao 😀
 

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2024-05-08T16:39
+updated: 2024-08-18T15:05
 ---
 Lý do:: [[Phải viết hook trong component. Không viết trong loop hoặc if được]]
 [[Giá trị trả về của useContext() là giá trị được truyền vào thuộc tính value của provider]]

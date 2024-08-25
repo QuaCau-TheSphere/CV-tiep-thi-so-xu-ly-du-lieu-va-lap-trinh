@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2024-08-11T15:45
+updated: 2024-08-18T15:05
 ---
 ## Tạo kho mới
 ### `Ξ Thiết lập/Ξ Thiết lập.md`

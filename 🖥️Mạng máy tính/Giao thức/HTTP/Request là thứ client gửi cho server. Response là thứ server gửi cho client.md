@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2024-07-02T14:35
+updated: 2024-08-18T15:05
 ---
 Nguồn:: [[MDN]], [An overview of HTTP - HTTP | MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
 

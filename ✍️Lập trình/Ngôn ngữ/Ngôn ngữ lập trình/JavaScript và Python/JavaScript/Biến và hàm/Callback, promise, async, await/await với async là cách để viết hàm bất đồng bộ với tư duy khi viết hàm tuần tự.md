@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2024-05-06T22:14
+updated: 2024-08-18T15:05
 ---
 Việc này và việc viết JSX giống nhau ở chỗ đó là viết cái này theo cách tư duy của cái kia.  [[JSX là cách để viết JS như thể viết HTML]]
 

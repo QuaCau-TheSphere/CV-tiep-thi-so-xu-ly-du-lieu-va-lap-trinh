@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2024-05-05T20:40
+updated: 2024-08-18T15:05
 ---
 ```javascript
 > JSON.stringify(error);

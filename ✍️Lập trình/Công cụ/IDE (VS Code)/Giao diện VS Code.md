@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-07-28T12:35
-updated: 2024-03-17T17:49
+updated: 2024-08-18T15:05
 ---
 
 ## [Git Status Bar actions](https://code.visualstudio.com/docs/sourcecontrol/overview#_git-status-bar-actions)

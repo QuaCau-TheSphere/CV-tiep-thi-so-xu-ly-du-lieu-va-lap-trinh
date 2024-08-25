@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2024-05-13T22:08
+updated: 2024-08-18T15:05
 ---
 When you list from KV it doesn't pull back everything at once. Instead it pulls results in batches (size is configurable). Thus, you iterate over results in an asynchronous manner as some iterations will fetch data. This allows you to process data as you retrieve it and not have to wait until it is all fetched.
 

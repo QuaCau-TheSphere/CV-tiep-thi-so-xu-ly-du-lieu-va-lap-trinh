@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2024-06-30T20:46
+updated: 2024-08-18T15:05
 ---
 Nguồn:: ![What is a Protocol? (Deepdive) - YouTube](https://www.youtube.com/watch?v=d-zn-wv4Di8)
 

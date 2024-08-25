@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2024-04-23T01:46
+updated: 2024-08-18T15:05
 ---
 ```python
 soup = BeautifulSoup('<b class="boldest">Extremely bold</b>', 'html.parser')

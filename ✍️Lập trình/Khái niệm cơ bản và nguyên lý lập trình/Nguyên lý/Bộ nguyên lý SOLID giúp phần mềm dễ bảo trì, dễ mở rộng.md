@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-24T18:26
-updated: 2024-02-01T21:37
+updated: 2024-08-18T15:05
 ---
 Bộ nguyên lý SOLID có vai trò rất quan trọng khi phát triển ứng dụng và được sử dụng phổ biến trong thiết kế và lập trình hướng đối tượng. Khi sử dụng hợp lý, bộ nguyên lý SOLID giúp phần mềm dễ bảo trì, dễ mở rộng. Lập trình viên chuyên nghiệp bắt buộc phải biết và vận dụng thành thạo các nguyên lý SOLID. Đây là bộ nguyên lý mà [sinh viên theo học các hướng/chuyên ngành phát triển ứng dụng cần biết](https://tuhocict.com/muon-thanh-lap-trinh-vien-nen-hoc-nhung-gi/). Bài viết này có mục tiêu giới thiệu bước đầu cho các bạn sinh viên các nguyên lý này để dần có ý thức áp dụng chúng khi code.
 

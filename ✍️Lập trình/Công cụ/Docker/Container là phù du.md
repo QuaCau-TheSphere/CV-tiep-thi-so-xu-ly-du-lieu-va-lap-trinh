@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-03T00:04
-updated: 2023-11-10T13:13
+updated: 2024-08-18T15:05
 ---
 Nguồn:: [10 things to avoid in docker containers | Red Hat Developer](https://developers.redhat.com/blog/2016/02/24/10-things-to-avoid-in-docker-containers)
 Nếu cần lưu trữ dữ liệu, hãy dùng volume. [[Volume là cách để đồng bộ dữ liệu giữa máy chủ và máy ảo]]

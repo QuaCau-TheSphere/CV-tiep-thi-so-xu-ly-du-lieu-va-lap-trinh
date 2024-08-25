@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2024-01-25T19:12
+updated: 2024-08-18T15:05
 ---
 One important thing to remember: **Preact is just a rendering library and only concerns itself with getting stuff on the screen as fast as possible.**
 

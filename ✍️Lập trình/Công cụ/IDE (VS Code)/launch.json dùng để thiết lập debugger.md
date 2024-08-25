@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2024-02-20T15:01
+updated: 2024-08-18T15:05
 ---
 ![Getting started with Node.js debugging in VS Code - YouTube](https://youtu.be/2oFKNL7vYV8)
 Các thuộc tính sau là bắt buộc đối với mọi cấu hình khởi chạy:

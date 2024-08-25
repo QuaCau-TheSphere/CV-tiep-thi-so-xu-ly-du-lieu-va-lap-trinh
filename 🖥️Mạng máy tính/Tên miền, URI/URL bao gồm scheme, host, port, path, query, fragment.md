@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-27T22:04
-updated: 2024-06-30T20:46
+updated: 2024-08-18T15:05
 ---
 # How The URL Was Built
 ![How The URL Was Built](https://cdn-images.welcometothejungle.com/oNKNwujNe-mhEBk94_L0q6kDeK-uwlHvXpQvFqyqQe8/rs:auto:980::/q:85/czM6Ly93dHRqLXByb2R1Y3Rpb24vdXBsb2Fkcy9hcnRpY2xlL2ltYWdlLzAzMjUvMTU5MzY4L1VSTC5wbmc)

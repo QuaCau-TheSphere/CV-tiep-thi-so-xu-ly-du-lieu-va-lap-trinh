@@ -513,15 +513,6 @@
       "key": "PageUp"
     }
   ],
-  "table-editor-obsidian:insert-column": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "I"
-    }
-  ],
   "table-editor-obsidian:move-column-left": [
     {
       "modifiers": [

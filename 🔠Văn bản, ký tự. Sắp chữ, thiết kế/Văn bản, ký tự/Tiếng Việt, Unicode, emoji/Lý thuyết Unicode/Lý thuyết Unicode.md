@@ -5,7 +5,7 @@ updated: 2024-08-25T20:50
 ---
 ```dataview
 LIST
-FROM "🔠Văn bản, ký tự. Sắp chữ, thiết kế/Tiếng Việt, Unicode, emoji/Lý thuyết Unicode" 
+FROM "🔠Văn bản, ký tự. Sắp chữ, thiết kế/Văn bản, ký tự/Tiếng Việt, Unicode, emoji/Lý thuyết Unicode" 
 WHERE file.name!=this.file.name
 Where file.name=split(file.folder, "/")[1]
 ```

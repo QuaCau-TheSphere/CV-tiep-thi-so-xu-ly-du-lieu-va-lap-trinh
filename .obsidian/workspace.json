@@ -8,46 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3ee33f1e219f9194",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🔠Văn bản, ký tự. Sắp chữ, thiết kế/Tệp và thư mục/Dùng một script để lấy các tập tin bổ trợ về thư mục.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "da30f10eba870451",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🔠Văn bản, ký tự. Sắp chữ, thiết kế/Tệp và thư mục/Dữ liệu dưới dạng văn bản là dạng dữ liệu phi cấu trúc.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
             "id": "f7955f955ae98a80",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "✍️Lập trình/Ngôn ngữ/Ngôn ngữ lập trình/Code giống như các nốt nhạc, engine giống như nhạc công, còn runtime giống như nhạc cụ.md",
+                "file": "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Đồng bộ, sao lưu/Git/Git tag.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🔠Văn bản, ký tự. Sắp chữ, thiết kế/Tệp và thư mục/Dữ liệu dưới dạng văn bản là dạng dữ liệu phi cấu trúc.md",
+                "file": "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Đồng bộ, sao lưu/Git/Git tag.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🔠Văn bản, ký tự. Sắp chữ, thiết kế/Tệp và thư mục/Dữ liệu dưới dạng văn bản là dạng dữ liệu phi cấu trúc.md",
+                "file": "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Đồng bộ, sao lưu/Git/Git tag.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🔠Văn bản, ký tự. Sắp chữ, thiết kế/Tệp và thư mục/Dữ liệu dưới dạng văn bản là dạng dữ liệu phi cấu trúc.md"
+                "file": "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Đồng bộ, sao lưu/Git/Git tag.md"
               }
             }
           },
@@ -206,44 +179,44 @@
       "open-vscode:VSCode": false
     }
   },
-  "active": "da30f10eba870451",
+  "active": "f7955f955ae98a80",
   "lastOpenFiles": [
-    "🔠Văn bản, ký tự. Sắp chữ, thiết kế/Tệp và thư mục/Dùng một script để lấy các tập tin bổ trợ về thư mục.md",
-    "🔠Văn bản, ký tự. Sắp chữ, thiết kế/Tệp và thư mục/Cấu trúc phân cấp thường cứng nhắc và nhân tạo.md",
-    "🔠Văn bản, ký tự. Sắp chữ, thiết kế/Tệp và thư mục/Dữ liệu dưới dạng văn bản là dạng dữ liệu phi cấu trúc.md",
-    "🔠Văn bản, ký tự. Sắp chữ, thiết kế/Tệp và thư mục/Obsidian/Dùng H1 hoặc YAML title.md",
-    "🔠Văn bản, ký tự. Sắp chữ, thiết kế/Tệp và thư mục/Những vị trí tiêu đề xuất hiện.md",
-    "🔠Văn bản, ký tự. Sắp chữ, thiết kế/Tệp và thư mục/Obsidian/Ưu tiên dùng API của Obsidian hơn là của Node.md",
-    "🔠Văn bản, ký tự. Sắp chữ, thiết kế/Tệp và thư mục/Obsidian/Sử dụng DataviewJS.md",
-    "🔠Văn bản, ký tự. Sắp chữ, thiết kế/Tệp và thư mục/Obsidian/this liệt kê tất cả những dữ liệu mà Dataview đọc được.md",
-    "✍️Lập trình/Khái niệm cơ bản và nguyên lý lập trình/Khái niệm cơ bản về lập trình hướng vật thể/Vật thể, lớp/Vật thể được tạo nên bởi những thuộc tính.md",
+    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Đồng bộ, sao lưu/Git/Git.md",
     "✍️Lập trình/Ngôn ngữ/Ngôn ngữ lập trình/Code giống như các nốt nhạc, engine giống như nhạc công, còn runtime giống như nhạc cụ.md",
-    "🔊Tiếp thị số/🔊Tiếp thị số.md",
-    "🔠Văn bản, ký tự. Sắp chữ, thiết kế/Sắp chữ, thiết kế/TeX/TeX.md",
-    "🔠Văn bản, ký tự. Sắp chữ, thiết kế/Đồng bộ, sao lưu/Git/Git.md",
-    "🔠Văn bản, ký tự. Sắp chữ, thiết kế/Văn bản, ký tự/Tiếng Việt, Unicode, emoji/Lý thuyết Unicode/Lý thuyết Unicode.md",
-    "🔠Văn bản, ký tự. Sắp chữ, thiết kế/Đồng bộ, sao lưu/Syncthing/Hướng dẫn đồng bộ dữ liệu với Android.md",
-    "🔠Văn bản, ký tự. Sắp chữ, thiết kế/Đồng bộ, sao lưu/Syncthing/Tạo thư mục mới khi chọn nơi để sync ở Android.md",
-    "🔠Văn bản, ký tự. Sắp chữ, thiết kế/Đồng bộ, sao lưu/Syncthing dành cho đồng bộ dữ liệu giữa các thiết bị của cùng một người. Git chuyên cho việc hợp tác làm việc giữa nhiều người.md",
-    "🔠Văn bản, ký tự. Sắp chữ, thiết kế/Đồng bộ, sao lưu/Syncthing/Ảnh lưu trên vault trên điện thoại sẽ được thấy trong gallery ảnh.md",
-    "🔠Văn bản, ký tự. Sắp chữ, thiết kế/Đồng bộ, sao lưu/Git/Real-time collaboration isn't necessary in most cases, but asynchronous collaboration.md",
-    "✍️Lập trình/Hệ điều hành, path và terminal/Sự khác biệt giữa Windows và Android, Mac trong tên file.md",
-    "🔠Văn bản, ký tự. Sắp chữ, thiết kế/Đồng bộ, sao lưu/Syncthing/Sự khác biệt giữa Windows và Android, Mac trong tên file.md",
-    "🔠Văn bản, ký tự. Sắp chữ, thiết kế/Đồng bộ, sao lưu/Syncthing/Đồng bộ dữ liệu giữa các vault.md",
-    "🔠Văn bản, ký tự. Sắp chữ, thiết kế/Đồng bộ, sao lưu/Syncthing/Đồng bộ dữ liệu.md",
-    "✍️Lập trình/Ngôn ngữ/Ngôn ngữ lập trình/JavaScript và Python/JavaScript/TypeScript/Thư viện, plugin/dts hoặc siroc dùng để khởi tạo dự án mà không tốn quá nhiều thời gian config.md",
-    "🔠Văn bản, ký tự. Sắp chữ, thiết kế/Đồng bộ, sao lưu/Git/File/Stage, index, cache/git add -A làm cho index giống như ở working directory. git commit -am chỉ áp dụng cho những file đã có sẵn trong index.md",
-    "🔠Văn bản, ký tự. Sắp chữ, thiết kế/Đồng bộ, sao lưu/Git/File/Stage, index, cache/Stage, cache, index là những cái tên khác nhau cho cùng một thứ.md",
-    "🔠Văn bản, ký tự. Sắp chữ, thiết kế/Đồng bộ, sao lưu/Git/File/Stage, index, cache",
-    "🔠Văn bản, ký tự. Sắp chữ, thiết kế/Đồng bộ, sao lưu/Git/Repo",
-    "🔠Văn bản, ký tự. Sắp chữ, thiết kế/Đồng bộ, sao lưu/Git/GitHub",
-    "🔠Văn bản, ký tự. Sắp chữ, thiết kế/Đồng bộ, sao lưu/Git/File",
-    "🔠Văn bản, ký tự. Sắp chữ, thiết kế/Đồng bộ, sao lưu/Git/Commit",
-    "🔠Văn bản, ký tự. Sắp chữ, thiết kế/Đồng bộ, sao lưu/Git/Blob, tree, ref. Bản chất của Git",
-    "🔠Văn bản, ký tự. Sắp chữ, thiết kế/Đồng bộ, sao lưu/Git",
-    "🔠Văn bản, ký tự. Sắp chữ, thiết kế/Đồng bộ, sao lưu/Syncthing",
-    "🔠Văn bản, ký tự. Sắp chữ, thiết kế/Đồng bộ, sao lưu",
-    "🔠Văn bản, ký tự. Sắp chữ, thiết kế/Văn bản, ký tự/Markdown/unifiedjs",
+    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Tạo website/WordPress/WordPress.org là phần mềm mã nguồn mở. WordPress.com là dịch vụ hosting.md",
+    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Tạo website/WordPress/WordPress viết trên nền PHP.md",
+    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Tạo website/WordPress/phpMyAdmin là GUI để dùng MySQL.md",
+    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Tạo website/WordPress/WordPress là một hệ thống quản lý nội dung.md",
+    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Tạo website/WordPress/PHP là một ngôn ngữ lập trình cho web.md",
+    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Tạo website/WordPress/Nội dung trong cơ sở dữ liệu được PHP hiển thị thành HTML.md",
+    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Tạo website/WordPress/Nội dung của một website WordPress được lưu trữ trong cơ sở dữ liệu dạng bảng.md",
+    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Tạo website/MkDocs/main.html mở rộng base.html.md",
+    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Tạo website/MkDocs/main.html là template.md",
+    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Tạo website/MkDocs/Bất cứ một tệp nào trong overrides sẽ thay thế tệp ở theme gốc.md",
+    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Tạo website/Lume/Tất cả mọi thứ đều phải ở trong thư mục src.md",
+    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Tạo website/Lume/Tất cả các đường dẫn đều bắt đầu từ src.md",
+    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Tạo website/Lume/Theme cơ bản là những plugin có remote.md",
+    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Tạo website/Lume/Các template engine và processor sẽ kiếm trong thư mục _includes.md",
+    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Tạo website/WordPress",
+    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Tạo website/Web tĩnh.md",
+    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Tạo website/Muốn cái nào làm trang chủ thì để tên là index.html.md",
+    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Tạo website/MkDocs",
+    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Tạo website/Lume",
+    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Tạo website",
+    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Quản lý ghi chú (Obsidian)/this liệt kê tất cả những dữ liệu mà Dataview đọc được.md",
+    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Quản lý ghi chú (Obsidian)/Ưu tiên dùng API của Obsidian hơn là của Node.md",
+    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Quản lý ghi chú (Obsidian)/Dùng H1 hoặc YAML title.md",
+    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Quản lý ghi chú (Obsidian)",
+    "🔠Văn bản, ký tự. Sắp chữ, thiết kế/Quản lý kiến thức/Ưu tiên dùng API của Obsidian hơn là của Node.md",
+    "🔠Văn bản, ký tự. Sắp chữ, thiết kế/Quản lý kiến thức/this liệt kê tất cả những dữ liệu mà Dataview đọc được.md",
+    "🔠Văn bản, ký tự. Sắp chữ, thiết kế/Quản lý kiến thức/Dùng H1 hoặc YAML title.md",
+    "🔠Văn bản, ký tự. Sắp chữ, thiết kế/Quản lý kiến thức/Obsidian/Ưu tiên dùng API của Obsidian hơn là của Node.md",
+    "🔠Văn bản, ký tự. Sắp chữ, thiết kế/Quản lý kiến thức/Obsidian/this liệt kê tất cả những dữ liệu mà Dataview đọc được.md",
+    "🔠Văn bản, ký tự. Sắp chữ, thiết kế/Quản lý kiến thức/Obsidian",
+    "🔠Văn bản, ký tự. Sắp chữ, thiết kế/Quản lý kiến thức",
+    "🔠Văn bản, ký tự. Sắp chữ, thiết kế/Quản lý dữ liệu/Obsidian",
+    "🔠Văn bản, ký tự. Sắp chữ, thiết kế/Quản lý dữ liệu",
+    "📊Tổ chức, phân tích dữ liệu/Phân tích dữ liệu/Phân tích xu hướng, NLP/WhatEvery1Says",
     "Ξ Thiết lập/Ảnh/cdn-and-serverless.png",
     "Ξ Thiết lập/Ảnh/Trấn Kỳ/Hemi Head_med.png",
     "Ξ Thiết lập/Ảnh/Proxy không ẩn danh 1.png",

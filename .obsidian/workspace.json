@@ -1,40 +1,54 @@
 {
   "main": {
-    "id": "72fe83f2e5f98bef",
+    "id": "b1d02a6f112c9499",
     "type": "split",
     "children": [
       {
-        "id": "f8aa361d8a8bea17",
+        "id": "797c3c79763ea20c",
         "type": "tabs",
         "children": [
           {
-            "id": "f7955f955ae98a80",
+            "id": "c72492b3ecb73dd6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Đồng bộ, sao lưu/Git/Git tag.md",
+                "file": "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Trình soạn thảo (Obsidian)/Ưu tiên dùng API của Obsidian hơn là của Node.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "63c1966574e5804f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Trình soạn thảo (Obsidian)/Obsidian dùng CodeMirror.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "f117ad8354462ed9",
+    "id": "d62c5917c65b9813",
     "type": "split",
     "children": [
       {
-        "id": "84a972c3d7c5fb1f",
+        "id": "4ba5a7dc9c7a4276",
         "type": "tabs",
         "children": [
           {
-            "id": "b61fdbd6be7ed6ac",
+            "id": "29b2846c32d2f122",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,22 +58,22 @@
             }
           },
           {
-            "id": "3deb5819c7cc6324",
+            "id": "57295f66442b4930",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "mermaid",
+                "query": "",
                 "matchingCase": false,
-                "explainSearch": true,
-                "collapseAll": true,
+                "explainSearch": false,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
             }
           },
           {
-            "id": "f54af41841e62fd4",
+            "id": "79b3f022639622cb",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -70,23 +84,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.00446701049805
+    "width": 300
   },
   "right": {
-    "id": "734eab439a731eb8",
+    "id": "e37647732be727e3",
     "type": "split",
     "children": [
       {
-        "id": "0d5928f4a90070ab",
+        "id": "19655b9de87bb64f",
         "type": "tabs",
         "children": [
           {
-            "id": "a922dbc5fdb96d64",
+            "id": "e19a95641df2d37f",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Đồng bộ, sao lưu/Git/Git tag.md",
+                "file": "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Trình soạn thảo (Obsidian)/Obsidian dùng CodeMirror.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,19 +112,19 @@
             }
           },
           {
-            "id": "9c91a3489796088b",
+            "id": "b1ae1669e7e91dc8",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Đồng bộ, sao lưu/Git/Git tag.md",
+                "file": "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Trình soạn thảo (Obsidian)/Obsidian dùng CodeMirror.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "ae454b007f2f5822",
+            "id": "8b7e42292d8a2c99",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -121,112 +135,48 @@
             }
           },
           {
-            "id": "29106ec7950dc883",
+            "id": "bbd55ab890dee9e9",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Đồng bộ, sao lưu/Git/Git tag.md"
-              }
-            }
-          },
-          {
-            "id": "1404395a26f87e08",
-            "type": "leaf",
-            "state": {
-              "type": "git-history-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "8d31c6e0328ca2f6",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "4e03a6c8e5e38af3",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
+                "file": "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Trình soạn thảo (Obsidian)/Obsidian dùng CodeMirror.md"
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 283,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
       "obsidian42-brat:BRAT": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
-      "open-vscode:VSCode": false
+      "open-vscode:VSCode": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "f7955f955ae98a80",
+  "active": "63c1966574e5804f",
   "lastOpenFiles": [
-    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Đồng bộ, sao lưu/Git/Git.md",
-    "✍️Lập trình/Ngôn ngữ/Ngôn ngữ lập trình/Code giống như các nốt nhạc, engine giống như nhạc công, còn runtime giống như nhạc cụ.md",
-    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Tạo website/WordPress/WordPress.org là phần mềm mã nguồn mở. WordPress.com là dịch vụ hosting.md",
-    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Tạo website/WordPress/WordPress viết trên nền PHP.md",
-    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Tạo website/WordPress/phpMyAdmin là GUI để dùng MySQL.md",
-    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Tạo website/WordPress/WordPress là một hệ thống quản lý nội dung.md",
-    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Tạo website/WordPress/PHP là một ngôn ngữ lập trình cho web.md",
-    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Tạo website/WordPress/Nội dung trong cơ sở dữ liệu được PHP hiển thị thành HTML.md",
-    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Tạo website/WordPress/Nội dung của một website WordPress được lưu trữ trong cơ sở dữ liệu dạng bảng.md",
-    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Tạo website/MkDocs/main.html mở rộng base.html.md",
-    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Tạo website/MkDocs/main.html là template.md",
-    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Tạo website/MkDocs/Bất cứ một tệp nào trong overrides sẽ thay thế tệp ở theme gốc.md",
+    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Trình soạn thảo (Obsidian)/Ưu tiên dùng API của Obsidian hơn là của Node.md",
+    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Trình soạn thảo (Obsidian)/Obsidian dùng CodeMirror.md",
     "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Tạo website/Lume/Tất cả mọi thứ đều phải ở trong thư mục src.md",
-    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Tạo website/Lume/Tất cả các đường dẫn đều bắt đầu từ src.md",
     "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Tạo website/Lume/Theme cơ bản là những plugin có remote.md",
     "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Tạo website/Lume/Các template engine và processor sẽ kiếm trong thư mục _includes.md",
-    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Tạo website/WordPress",
-    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Tạo website/Web tĩnh.md",
+    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Tạo website/MkDocs/main.html là template.md",
+    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Tạo website/MkDocs/Bất cứ một tệp nào trong overrides sẽ thay thế tệp ở theme gốc.md",
     "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Tạo website/Muốn cái nào làm trang chủ thì để tên là index.html.md",
-    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Tạo website/MkDocs",
-    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Tạo website/Lume",
-    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Tạo website",
-    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Quản lý ghi chú (Obsidian)/this liệt kê tất cả những dữ liệu mà Dataview đọc được.md",
-    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Quản lý ghi chú (Obsidian)/Ưu tiên dùng API của Obsidian hơn là của Node.md",
-    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Quản lý ghi chú (Obsidian)/Dùng H1 hoặc YAML title.md",
-    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Quản lý ghi chú (Obsidian)",
-    "🔠Văn bản, ký tự. Sắp chữ, thiết kế/Quản lý kiến thức/Ưu tiên dùng API của Obsidian hơn là của Node.md",
-    "🔠Văn bản, ký tự. Sắp chữ, thiết kế/Quản lý kiến thức/this liệt kê tất cả những dữ liệu mà Dataview đọc được.md",
-    "🔠Văn bản, ký tự. Sắp chữ, thiết kế/Quản lý kiến thức/Dùng H1 hoặc YAML title.md",
-    "🔠Văn bản, ký tự. Sắp chữ, thiết kế/Quản lý kiến thức/Obsidian/Ưu tiên dùng API của Obsidian hơn là của Node.md",
-    "🔠Văn bản, ký tự. Sắp chữ, thiết kế/Quản lý kiến thức/Obsidian/this liệt kê tất cả những dữ liệu mà Dataview đọc được.md",
-    "🔠Văn bản, ký tự. Sắp chữ, thiết kế/Quản lý kiến thức/Obsidian",
-    "🔠Văn bản, ký tự. Sắp chữ, thiết kế/Quản lý kiến thức",
-    "🔠Văn bản, ký tự. Sắp chữ, thiết kế/Quản lý dữ liệu/Obsidian",
-    "🔠Văn bản, ký tự. Sắp chữ, thiết kế/Quản lý dữ liệu",
-    "📊Tổ chức, phân tích dữ liệu/Phân tích dữ liệu/Phân tích xu hướng, NLP/WhatEvery1Says",
-    "Ξ Thiết lập/Ảnh/cdn-and-serverless.png",
-    "Ξ Thiết lập/Ảnh/Trấn Kỳ/Hemi Head_med.png",
-    "Ξ Thiết lập/Ảnh/Proxy không ẩn danh 1.png",
-    "Ξ Thiết lập/Ảnh/Proxy không ẩn danh.png",
-    "Ξ Thiết lập/Ảnh/Proxy ẩn danh.png",
-    "Ξ Thiết lập/Ảnh/Kiến trúc giữa Node và Deno.png",
-    "Ξ Thiết lập/Ảnh/article html tag.png",
-    "Ξ Thiết lập/Ảnh/origin.png",
-    "Pasted image 20240323223520.png",
-    "Untitled.canvas",
-    "Trang chủ.canvas"
+    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Tạo website/Web tĩnh.md",
+    "✍️Lập trình/Ngôn ngữ/Ngôn ngữ đánh dấu/RDF có thể được biểu diễn bằng JSON-LD.md",
+    "📊Tổ chức, phân tích dữ liệu/Phân tích dữ liệu/Phân tích mạng lưới/Thế mạnh của RDF triplestore là tạo ra những liên kết mới không có sẵn lúc nhập vào.md",
+    "✍️Lập trình/Web/HTML, CSS/Obsidian dùng ES5.md"
   ]
 }

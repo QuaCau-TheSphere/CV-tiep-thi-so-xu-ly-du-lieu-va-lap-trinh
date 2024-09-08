@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2024-09-01T17:43
+updated: 2024-09-08T21:39
 ---
 Mặc định `src` nằm ở `.`. Để thay đổi thì thêm cái này trong `_config.ts`:
 ```js

@@ -21,12 +21,51 @@
             }
           },
           {
-            "id": "63c1966574e5804f",
+            "id": "d2baa0cd7a170d47",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Trình soạn thảo (Obsidian)/Obsidian dùng CodeMirror.md",
+                "file": "🖥️Mạng máy tính/Giao thức/SSL, TLS/SSL và TLS tạo một ống bảo vệ cho HTTP.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "04baa2348f26e103",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🖥️Mạng máy tính/Giao thức/SSL, TLS/TLS là một phiên bản cải tiến của SSL, nhưng mọi người vẫn quen gọi nó là SSL.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "26d8973087ba1dbd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🖥️Mạng máy tính/Giao thức/SSL, TLS/TLS là một phiên bản cải tiến của SSL, nhưng mọi người vẫn quen gọi nó là SSL.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "84ee99aa8c965221",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🖥️Mạng máy tính/Giao thức/SSL, TLS/CA là nhà cung cấp chứng chỉ số cho TLS.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -34,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -100,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Trình soạn thảo (Obsidian)/Obsidian dùng CodeMirror.md",
+                "file": "🖥️Mạng máy tính/Giao thức/SSL, TLS/TLS là một phiên bản cải tiến của SSL, nhưng mọi người vẫn quen gọi nó là SSL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Trình soạn thảo (Obsidian)/Obsidian dùng CodeMirror.md",
+                "file": "🖥️Mạng máy tính/Giao thức/SSL, TLS/TLS là một phiên bản cải tiến của SSL, nhưng mọi người vẫn quen gọi nó là SSL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Trình soạn thảo (Obsidian)/Obsidian dùng CodeMirror.md"
+                "file": "🖥️Mạng máy tính/Giao thức/SSL, TLS/TLS là một phiên bản cải tiến của SSL, nhưng mọi người vẫn quen gọi nó là SSL.md"
               }
             }
           }
@@ -164,19 +203,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "63c1966574e5804f",
+  "active": "26d8973087ba1dbd",
   "lastOpenFiles": [
-    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Trình soạn thảo (Obsidian)/Ưu tiên dùng API của Obsidian hơn là của Node.md",
-    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Trình soạn thảo (Obsidian)/Obsidian dùng CodeMirror.md",
-    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Tạo website/Lume/Tất cả mọi thứ đều phải ở trong thư mục src.md",
-    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Tạo website/Lume/Theme cơ bản là những plugin có remote.md",
-    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Tạo website/Lume/Các template engine và processor sẽ kiếm trong thư mục _includes.md",
-    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Tạo website/MkDocs/main.html là template.md",
-    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Tạo website/MkDocs/Bất cứ một tệp nào trong overrides sẽ thay thế tệp ở theme gốc.md",
-    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Tạo website/Muốn cái nào làm trang chủ thì để tên là index.html.md",
-    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Tạo website/Web tĩnh.md",
+    "🖥️Mạng máy tính/Giao thức/Giao thức là cách để các bên nhận và gửi dữ liệu hiểu nhau.md",
+    "🖥️Mạng máy tính/Giao thức/SSL, TLS/Dịch vụ/Với tên miền có dấu thì VirusTotal sẽ nghĩ là có virus nên không cấp chứng chỉ.md",
+    "🖥️Mạng máy tính/Giao thức/SSL, TLS/Dịch vụ/Universal SSL là TLS mặc định của CloudFlare.md",
+    "🖥️Mạng máy tính/Giao thức/SSL, TLS/Dịch vụ/Universal SSL chỉ hỗ trợ tới tên miền phụ cấp 1.md",
+    "🖥️Mạng máy tính/Giao thức/SSL, TLS/Dịch vụ/Nếu không dùng proxy của CloudFlare thì sẽ không dùng TLS của nó.md",
+    "🖥️Mạng máy tính/Giao thức/SSL, TLS/TLS là một phiên bản cải tiến của SSL, nhưng mọi người vẫn quen gọi nó là SSL.md",
+    "🖥️Mạng máy tính/Giao thức/SSL, TLS/CA là nhà cung cấp chứng chỉ số cho TLS.md",
+    "🖥️Mạng máy tính/Giao thức/SSL, TLS/TLS của CloudFlare khác với TLS của host.md",
+    "🖥️Mạng máy tính/Giao thức/SSL, TLS/Dịch vụ/TLS của CloudFlare khác với TLS của host.md",
+    "🖥️Mạng máy tính/Giao thức/SSL, TLS/Dịch vụ/Nếu GitHub Page không issue SSL được, thử xoá tên miền rồi thêm lại vào xem.md",
+    "🖥️Mạng máy tính/Giao thức/SSL, TLS/Dịch vụ",
+    "🖥️Mạng máy tính/Giao thức/SSL, TLS/New folder",
+    "🖥️Mạng máy tính/Giao thức/SSL, TLS/Universal SSL là TLS mặc định của CloudFlare.md",
+    "🖥️Mạng máy tính/Giao thức/SSL, TLS/Nếu GitHub Page không issue SSL được, thử xoá tên miền rồi thêm lại vào xem.md",
+    "🖥️Mạng máy tính/Giao thức/SSL, TLS/SSL và TLS tạo một ống bảo vệ cho HTTP.md",
+    "🖥️Mạng máy tính/Giao thức/HTTP/Yêu cầu HTTP chỉ là một tệp văn bản.md",
+    "🖥️Mạng máy tính/Giao thức/HTTP/Trình duyệt chỉ gửi yêu cầu và nhận phản hồi ở dạng HTTP.md",
+    "🖥️Mạng máy tính/Giao thức/HTTP/HTTP là ngôn ngữ để trình duyệt và webserver nói chuyện với nhau.md",
+    "🖥️Mạng máy tính/Giao thức/SSL, TLS/Các trình duyệt bây giờ đều bắt buộc phải có SSL mới xem là an toàn, dù không có nó thì cũng chẳng có vấn đề gì.md",
+    "🖥️Mạng máy tính/Giao thức/SSL, TLS",
+    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Đồng bộ, sao lưu/Syncthing/Hướng dẫn đồng bộ dữ liệu với Android.md",
+    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Đồng bộ, sao lưu/Syncthing/Ảnh lưu trên kho trên điện thoại sẽ được thấy trong gallery ảnh.md",
+    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Đồng bộ, sao lưu/Git/Git.md",
+    "🖥️Mạng máy tính/🖥️Mạng máy tính.md",
+    "🖥️Mạng máy tính/CDN (Cloudflare)",
+    "✍️Lập trình/Ngôn ngữ/Ngôn ngữ đánh dấu/Ngôn ngữ đánh dấu.md",
+    "✍️Lập trình/Ngôn ngữ/Ngôn ngữ đánh dấu/Chữ ML trong HTML, XML, YAML, TOML là viết tắt của markup language.md",
     "✍️Lập trình/Ngôn ngữ/Ngôn ngữ đánh dấu/RDF có thể được biểu diễn bằng JSON-LD.md",
-    "📊Tổ chức, phân tích dữ liệu/Phân tích dữ liệu/Phân tích mạng lưới/Thế mạnh của RDF triplestore là tạo ra những liên kết mới không có sẵn lúc nhập vào.md",
-    "✍️Lập trình/Web/HTML, CSS/Obsidian dùng ES5.md"
+    "✍️Lập trình/✍️Lập trình.md",
+    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Trình soạn thảo (Obsidian)/Obsidian dùng CodeMirror.md"
   ]
 }

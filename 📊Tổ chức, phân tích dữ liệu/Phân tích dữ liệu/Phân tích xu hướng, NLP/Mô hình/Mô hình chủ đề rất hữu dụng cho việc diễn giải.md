@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-24T18:26
-updated: 2024-08-25T20:43
+updated: 2024-09-10T17:04
 ---
 You'll still see many researchers in digital humanities using topic models, for instance, because they care about telling a good story and understanding their data.
 Nguồn:: [Jordan Boyd-Graber: Faq](http://users.umiacs.umd.edu/~jbg/static/faq.html)

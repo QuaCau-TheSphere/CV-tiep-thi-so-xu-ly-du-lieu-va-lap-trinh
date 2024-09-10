@@ -1,9 +1,9 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2024-08-18T15:05
+updated: 2024-09-09T14:29
 ---
-# Lịch sử
+## Lịch sử
 | Lệnh                        | Cách dùng                          |
 | --------------------------- | ---------------------------------- |
 | Cuộn lên, cuộn xuống        | <kbd>Alt+↑</kbd>, <kbd>Alt+↓</kbd> |
@@ -13,7 +13,7 @@ Nguồn:: [about History - PowerShell | Microsoft Learn](https://learn.microsoft
 
 [[PowerShell là một ngôn ngữ shell]]
 [The Complete Guide to PowerShell Punctuation - Simple Talk](https://www.red-gate.com/simple-talk/sysadmin/powershell/the-complete-guide-to-powershell-punctuation/)
-# Tạo nhiều folder
+## Tạo nhiều folder
 ```PowerShell
 $list=(ls -name -directory).substring(1)
 foreach ($i in $list) {
@@ -25,31 +25,31 @@ foreach ($i in $list) {
 	Cd ..
 }
 ```
-# Tạo array
+## Tạo array
 ```PowerShell
 $list|ForEach-Object {"`"$_`"," } |clip
 ```
-# Đổi tên hàng loạt
+## Đổi tên hàng loạt
 ```PowerShell
 Get-ChildItem *.md, *.json -recurse | Where-Object {$_.name -cmatch '^2[A-Z]'}  | Rename-Item -newname { $_.name -replace '^2(.*)', '4$1'} -whatif 
 ```
 - `-cmatch`: match có case sensitive
-# Tìm và thay chuỗi hàng loạt
+## Tìm và thay chuỗi hàng loạt
 [[VS Code nhiều khi không tìm hết file được do tên quá dài]]
 ```PowerShell
 Get-ChildItem *.md, *.json -recurse | ForEach-Object { (Get-Content $_).Replace('Kết quả cần có::','Thành quả cần có::') | Set-Content $_ } 
 ```
-# Xoá tất cả desktop.ini 
+## Xoá tất cả desktop.ini 
 ```PowerShell
 Get-ChildItem -Force -Recurse -File -Filter "desktop.ini" | Remove-Item -force
 ```
-# Tắt giới hạn số ký tự tối đa cho đường dẫn
+## Tắt giới hạn số ký tự tối đa cho đường dẫn
 ```PowerShell
 New-ItemProperty -Path "HKLM:\SYSTEM\CurrentControlSet\Control\FileSystem" -Name "LongPathsEnabled" -Value 1 -PropertyType DWORD -Force
 ```
 [Maximum Path Length Limitation - Win32 apps | Microsoft Learn](https://learn.microsoft.com/en-us/windows/win32/fileio/maximum-file-path-limitation?tabs=powershell#enable-long-paths-in-windows-10-version-1607-and-later)
 
-# Thêm [[Biến môi trường giúp ta điền những giá trị lặp đi lặp lại nhanh hơn|biến môi trường]] 
+## Thêm [[Biến môi trường giúp ta điền những giá trị lặp đi lặp lại nhanh hơn|biến môi trường]] 
 ```PowerShell
 [System.Environment]::SetEnvironmentVariable('ResourceGroup','AZ_Resource_Group', 'User')
 $env:PATH += ";SomeRandomPath"
@@ -57,7 +57,7 @@ $env:PATH += ";SomeRandomPath"
 ```PowerShell
 [Environment]::SetEnvironmentVariable("Path",    [Environment]::GetEnvironmentVariable("Path", [EnvironmentVariableTarget]::Machine) + ";C:\bin", [EnvironmentVariableTarget]::Machine)
 ```
-# sfd
+## sfd
 ```PowerShell
 $sourcePath = “F:\New folder”  
 $destinationPath = “E:\New folder”  

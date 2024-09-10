@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2024-08-31T20:48
+updated: 2024-09-09T20:53
 ---
 ```js title="Tạo cây cú pháp từ markdown"
 import {fromMarkdown} from 'mdast-util-from-markdown'

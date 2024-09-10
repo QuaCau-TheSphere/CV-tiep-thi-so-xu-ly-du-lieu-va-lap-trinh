@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2024-08-31T20:48
+updated: 2024-09-09T20:53
 ---
 title: Processor tự động freeze khi parse, run, runSync, stringify, process, or processSync được gọi
 Freeze a processor.

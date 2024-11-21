@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-27T22:04
-updated: 2024-08-18T15:05
+updated: 2024-09-26T10:49
 ---
 # How The URL Was Built
 ![How The URL Was Built](https://cdn-images.welcometothejungle.com/oNKNwujNe-mhEBk94_L0q6kDeK-uwlHvXpQvFqyqQe8/rs:auto:980::/q:85/czM6Ly93dHRqLXByb2R1Y3Rpb24vdXBsb2Fkcy9hcnRpY2xlL2ltYWdlLzAzMjUvMTU5MzY4L1VSTC5wbmc)
@@ -108,3 +108,4 @@ Despite its ubiquity, Berners-Lee and [others](https://djangodeployment.com/2017
 _This article is part of Behind the Code, the media for developers, by developers. Discover more articles and videos by visiting [Behind the Code](https://www.welcometothejungle.com/collections/behind-the-code)!_
 
 Nguồn:: [How The URL Was Built](https://www.welcometothejungle.com/en/articles/btc-url-internet)
+[URL as UI](https://www.nngroup.com/articles/url-as-ui/)

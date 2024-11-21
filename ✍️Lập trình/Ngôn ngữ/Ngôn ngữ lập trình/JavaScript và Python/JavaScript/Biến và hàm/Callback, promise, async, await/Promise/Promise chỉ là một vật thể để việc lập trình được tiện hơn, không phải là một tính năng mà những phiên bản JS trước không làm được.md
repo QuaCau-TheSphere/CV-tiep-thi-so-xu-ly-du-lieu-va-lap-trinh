@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-24T18:26
-updated: 2024-08-30T22:04
+updated: 2024-11-18T20:31
 ---
 [[Lớp là một cái khuôn để tạo các vật thể cho nhanh]]. Thông thường để tạo một vật thể mới qua một lớp ta dùng thế này:
 ```js
@@ -30,4 +30,4 @@ fetch("https://jsonplaceholder.typicode.com/todos/1")
 .then(d => console.log(d))
 ```
 
-[[Phương thức cho ta biết mình có thể làm gì với vật thể đó]]
+[[Phương thức cho ta biết mình có thể làm gì với vật thể]]

@@ -1,19 +1,24 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2024-08-31T20:49
+updated: 2024-09-19T22:41
 ---
-Khi merge là lấy commit từ branch khác về branch hiện tại
+[[git merge B nên được hiểu là git merge with B. git rebase A nên được hiểu là git rebase to A]]
+Giả sử ta có 2 branch `A` và `B`. Ta đang ở A:
 ```
-# Xem branch hiện tại
 $ git branch
-* branch-a
+* A
+  B
+```
 
-# Nếu là merge thì branch-a là ours
-$ git merge -X ours branch-b  
-
-# Nếu là rebase thì branch-a là theirs
-$ git rebase -X theirs branch-b
+Khi merge là lấy commit từ branch khác về branch hiện tại, nên `A` sẽ là `ours`:
+```
+$ git merge -X ours B
+```
+Khi rebase thì  bị ngược như vậy là vì 
+```
+# Nếu là rebase thì A là theirs
+$ git rebase -X theirs B
 ```
 
 Có lẽ thay vì dùng `ours` – `theirs`, ta nên dùng `current` – `theirs` cho merge, và `current` – `ours` cho rebase?

@@ -1,9 +1,9 @@
 ---
 share: true
 created: 2023-10-24T18:26
-updated: 2024-08-18T15:05
+updated: 2024-11-18T20:35
 ---
-Hàm giúp ta làm một công việc nào đó. Công việc đó có thể liên quan tới một vật thể hoặc không. Còn phương thức chắc chắn phải làm những công việc liên quan tới một vật thể cụ thể. [[Phương thức cho ta biết mình có thể làm gì với vật thể đó]]. 
+Hàm giúp ta làm một công việc nào đó. Công việc đó có thể liên quan tới một vật thể hoặc không. Còn phương thức chắc chắn phải làm những công việc liên quan tới một vật thể cụ thể. [[Phương thức cho ta biết mình có thể làm gì với vật thể]]. 
 
 Ví dụ, bạn có một rổ trái cây:
 ![|300](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/A_basket_of_fruits.jpg/600px-A_basket_of_fruits.jpg)
@@ -16,7 +16,7 @@ chuối.cân_nặng() # Kết quả: 40g
 lê.cân_nặng()    # Kết quả: 50g
 ```
 
-Bạn thấy, dù phương thức `cân_nặng()` không thay đổi, nhưng đối với mỗi một loại trái cây khác nhau sẽ cho một kết quả khác nhau. Phương thức này phải gắn lên một đối tượng cụ thể nào đó để có tác dụng. Bạn phải không thể cân không gì cả được. 
+Bạn thấy, dù phương thức `cân_nặng()` không thay đổi, nhưng đối với mỗi một loại trái cây khác nhau sẽ cho một kết quả khác nhau. Phương thức này phải gắn lên một trái cụ thể nào đó để có tác dụng. Bạn không thể cân không gì cả được. 
 
 Trong khi đó, nếu bạn muốn biết ngày hôm nay là ngày gì, bạn chỉ cần dùng **hàm** `xem_ngày()`:
 

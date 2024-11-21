@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2024-08-18T15:05
+updated: 2024-11-14T20:45
 ---
   
 AutoHotkey combines 3 concepts into 1 built-in basic object type:  
@@ -11,8 +11,6 @@ AutoHotkey combines 3 concepts into 1 built-in basic object type:
   
 E.g. some ways to create an AHK basic object.  
 Note: an AHK basic object does not have base object.
-
-Code: [Select all](https://www.autohotkey.com/boards/viewtopic.php?f=7&t=54588#) - [Expand View](https://www.autohotkey.com/boards/viewtopic.php?f=7&t=54588#) - [Download](https://www.autohotkey.com/boards/viewtopic.php?f=7&t=54588# "download Untitled.ahk") - [Toggle Line numbers](https://www.autohotkey.com/boards/viewtopic.php?f=7&t=54588# "Toggle Line numbers")
 
 ```autohotkey
 ;in each case obj is a basic object, and identical:

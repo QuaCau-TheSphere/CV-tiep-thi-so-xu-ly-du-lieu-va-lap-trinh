@@ -1,9 +1,9 @@
 ---
 share: true
 created: 2024-09-10T16:36
-updated: 2024-09-10T16:36
+updated: 2024-09-11T16:25
 ---
-![[Mối quan hệ giữa định dạng dữ liệu, định dạng văn bản, và ngôn ngữ đánh dấu.excalidraw]]
+![[Các định dạng dữ liệu thường gặp khi xử lý văn bản.excalidraw]]
 ```dataview
 LIST rows.file.link
 FROM "📊Tổ chức, phân tích dữ liệu/Định dạng dữ liệu" 

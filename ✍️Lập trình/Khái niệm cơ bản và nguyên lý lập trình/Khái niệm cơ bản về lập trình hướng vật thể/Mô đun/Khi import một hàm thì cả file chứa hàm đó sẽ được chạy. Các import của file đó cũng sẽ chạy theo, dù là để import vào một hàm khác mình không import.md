@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-17T18:30
-updated: 2024-08-24T12:38
+updated: 2024-11-29T13:57
 ---
 VD:
 
@@ -12,4 +12,4 @@ Nếu:
 
 thì hàm sẽ bị chồng dữ liệu với những dữ liệu ở lần gọi cũ
 [[Để tránh phụ thuộc lòng vòng (circular dependency) có thể dùng hàm]]
-[[Nên tách bạch file util cho client và util cho server]] 
+[[Nên tách bạch code hỗ trợ cho client và server vào những mô đun khác nhau]] 

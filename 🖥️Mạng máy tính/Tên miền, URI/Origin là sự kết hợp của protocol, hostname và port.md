@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2024-09-09T13:05
+updated: 2024-11-30T13:40
 ---
 ![[origin.png]]
 Nguồn:: [[MDN]], [Location - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/Location)

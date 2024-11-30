@@ -2,7 +2,7 @@
 share: true
 title: Nếu tất cả thuộc tính của vật thể đều đơn giản, và vật thể được dùng để tra cứu dữ liệu theo từ khoá chứ không phải là để thao tác và thay đổi thuộc tính bằng phương thức, thì nó được gọi là từ điển
 created: 2023-08-25T14:20
-updated: 2024-08-18T15:05
+updated: 2024-11-30T13:55
 ---
 Ví dụ, khi khai báo [[Trấn Kỳ — Phân loại thu chi bằng tiếng Việt tự nhiên|Trấn Kỳ]] như sau:
 ```yaml

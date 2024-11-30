@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2024-04-01T11:19
+updated: 2024-11-30T13:46
 ---
 Nhu cầu:: 		nc, dy, tl
 Nhu cầu dẫn tới:: 		ncdt, ch, mt
@@ -25,6 +25,7 @@ Xem thêm:: 		xt
 # Code nhanh
 ## Dataview
 ```dataview\nLIST\nFROM |\nWHERE\n```		dtv
+```dataview\nLIST rows.file.link\nFROM |\nGROUP BY split(file.folder, "/")[3]\nWHERE file.name != this.file.name\n```		dtvv
 Các note cũng nói về chủ đề này:\n```dataview \nList\nWhere contains(file.name,split(this.file.name," \(")[0]) and file.path!=this.file.path\n```		cungchude
 
 (#đct-🔥🔥Phảilàmngay or #đct-🔥/muốnlàmngay or #đct-🔥/nênlàmngay)		PNM, dct1

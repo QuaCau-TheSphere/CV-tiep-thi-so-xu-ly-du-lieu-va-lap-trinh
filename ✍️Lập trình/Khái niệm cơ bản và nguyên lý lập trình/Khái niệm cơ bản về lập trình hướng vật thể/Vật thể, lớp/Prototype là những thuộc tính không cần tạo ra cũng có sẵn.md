@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-27T17:16
-updated: 2024-08-18T15:05
+updated: 2024-11-30T13:56
 ---
 
-[[Vật thể được tạo nên bởi những thuộc tính]]
+[[Vật thể là những dữ liệu có những thuộc tính thành phần]]

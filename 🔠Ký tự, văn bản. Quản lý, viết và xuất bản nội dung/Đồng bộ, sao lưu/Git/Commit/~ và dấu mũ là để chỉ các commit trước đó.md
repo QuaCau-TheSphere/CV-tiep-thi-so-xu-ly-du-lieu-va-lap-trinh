@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2024-08-31T20:49
+updated: 2025-03-03T18:48
 title: ~ và ^ là để chỉ các commit trước đó
 ---
 ```
@@ -38,5 +38,5 @@ Lưu ý: `A~2 = D`, nhưng `A^2 = C`
 [![Illustration of relative references in Git](https://i.stack.imgur.com/Ye1H7.jpg)](https://i.stack.imgur.com/Ye1H7.jpg)
 
 [[HEAD là commit hiện tại]]. [[@ là viết tắt của HEAD]]
-Nguồn:: [[✍️Lập trình/Ξ Nguồn và tài nguyên hỗ trợ/Ξ Nguồn/Stack Overflow]], [What's the difference between HEAD^ and HEAD\~ in Git? - Stack Overflow](https://stackoverflow.com/q/2221658/3416774)
+Nguồn:: [[Stack Overflow]], [What's the difference between HEAD^ and HEAD\~ in Git? - Stack Overflow](https://stackoverflow.com/q/2221658/3416774)
 

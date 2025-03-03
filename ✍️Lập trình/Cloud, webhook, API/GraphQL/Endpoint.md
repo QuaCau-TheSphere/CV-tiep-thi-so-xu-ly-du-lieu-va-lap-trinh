@@ -1,15 +1,15 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2024-08-18T15:05
+updated: 2025-03-03T18:48
 ---
-# Endpoint là gì? Lợi ích trong việc phát triển APIs
+## Endpoint là gì? Lợi ích trong việc phát triển APIs
 
 In [QC/Test/Management](https://lcdung.top/category/qctest/)Tags [Action Plan](https://lcdung.top/tag/action-plan/), [endpoint](https://lcdung.top/tag/endpoint/)May 27, 2018
 
 Mục lục [[Click vào để xem](https://lcdung.top/endpoint-la-gi-loi-ich-trong-viec-phat-trien-apis/#)]
 
-# Endpoint là gì?
+## Endpoint là gì?
 
 Để dễ hiểu mình sẽ làm ví dụ về **Endpoint.**
 
@@ -17,7 +17,7 @@ Khi App gọi đến API URL: `https://abc.com/foo/bar` và lúc này ta gọi
 
 **Endpoint** là một phần quan trọng trong quá trình phát triển API
 
-# Định nghĩa Hàm (Tạo Action Plan)
+## Định nghĩa Hàm (Tạo Action Plan)
 
 Công việc đầu tiên của bạn là nghĩ về những thứ mà API của bạn sẽ cung cấp. Đó có thể là 1 danh sách các hàm CRUD (Create, Read, Update, Delete) thao tác với resourece của bạn. Để giải thích rõ hơn thì đây chính là 1 danh sách các “Action” cần phải làm với mỗi resource:  
 **Ví dụ:**
@@ -44,13 +44,13 @@ Nếu API của bạn có chức năng tìm kiếm theo tên hay mã số ngư�
 
 Thêm các Params vào có thể tốt và dễ hình dung tuy nhiên không nên thêm quá nhiều và dư như thêm tất cả các thuộc tính vào Create(name,id,age,…) là không nên.
 
-# Lý thuyết Restful
+## Lý thuyết Restful
 
 Chuyển một Action Plan thành một Danh sách Endpoint thì cần những hiểu biết căn bản về RestFul API và các “Best Practice” trong việc đặt tên. Tất nhiên thì mỗi công ty, mỗi nhóm có chuẩn đặt tên khác nhau và cũng chả thể so sánh được cái nào là tốt nhất. Tuy nhiên mình sẽ nói về cái phổ biến mà mình nghĩ là OKie nhất cho các bạn.  
 RestFul thì gồm nhiều tuy nhiên có 4 cái căn bản sau:  
 **GET – POST- PUT -DELETE**
 
-## 1. GET
+### 1. GET
 
 - `GET /resources` – Tìm một danh sách records từ resource có thể có phân trang thì tốt nhất hoặc lấy toàn bộ records
 - `GET /resources/X` – Chỉ cần lấy Record X, ví dụ /users/thanhtriphap -> Lấy Info mình ra nè
@@ -64,7 +64,7 @@ RestFul thì gồm nhiều tuy nhiên có 4 cái căn bản sau:
 > Trong quá trình học trong trường các bạn thường xài ID dạng Auto-Increment. Tuy nhiên trong thực tế nếu API của ta để như vậy thì người ta có thể biết được số lượng Resource mà ta đang có điều này rất có ích với đối thủ đó chứ.  
 > Biện pháp là ta sử dụng UUID – Các bạn có thể tìm UUID cho PHP, Ruby hay Python và các Package hỗ trợ Gen UUID trên GOOGLE.
 
-## 2. DELETE
+### 2. DELETE
 
 - DELETE /users/X – Xóa một người dùng
 - DELETE /users/X,Y,Z – Xóa một vài dòng dữ liệu
@@ -72,7 +72,7 @@ RestFul thì gồm nhiều tuy nhiên có 4 cái căn bản sau:
 - DELETE /users/X/image – Xóa image của người dùng X
 - DELETE /users/X/images – Xóa một loạt các hình ảnh của người dùng X
 
-## 3. POST và PUT
+### 3. POST và PUT
 
 Về mặt lý thuyết POST dùng tạo 1 dòng dữ liệu mới còn PUT thì dùng cập nhật một dòng dữ liệu đã có. Khác nhau là vậy tuy nhiên trên nguyên tắc thiết kế thì 2 hành động này như nhau mà thôi có nghĩa là những gì POST làm được thì PUT làm được và ngược lại.  
 Tuy nhiên, tất nhiên phải có sự khác nhau căn bản để dùng chứ. Chúng ta xem khái niệm về  
@@ -83,7 +83,7 @@ Nghe có vẻ hơi khó hiểu đúng không, thôi ví dụ cho dễ nhé:
 - Giả sử mỗi sản phẩm chúng ta có 1 hình ảnh đại diện thôi (Chỉ 1 thôi nhé) và mỗi lần ta thay đổi nó tức là thay hình đại diện cho sản phẩm thì dữ liệu vẫn như cũ (Như cũ ở đây có nghĩa là không làm phát sinh thêm dòng nào mới nhé): **PUT /products/ao-so-mi-tay-dai-MB2331/image**
 - Cũng ví dụ trên tuy nhiên sản phẩm lại có nhiều hình ảnh thì mỗi lần ta thêm thì có 1 dòng dữ liệu mới nên ta xài POST vì dữ liệu thay đỗi mà: **POST /products/quan-tay/images**
 
-## 4. Danh từ số nhiều, số ít hay Cả hai
+### 4. Danh từ số nhiều, số ít hay Cả hai
 
 Một vài Developer thì dùng danh từ số ít một số lại xài số nhiều.  
 Ví dụ:
@@ -96,7 +96,7 @@ Do đó mình thường xài **số nhiều** cho các Endpoints:
 - GET /users/1 – Trả về user có ID là 1
 - GET /users?limit=5 – Trả về 5 user cho một lượt
 
-## 5. Danh từ hay động từ
+### 5. Danh từ hay động từ
 
 Trước đây khi POST cái gì đó một vài Dev thường dùng động từ:
 
@@ -112,7 +112,7 @@ Một cách tuyệt vời hơn chúng ta có thể:
 - POST /users/thanhtriphap/message
 - PUT /users/thanhtriphap/message/wsis0n
 
-# Xây dựng EndPoints
+## Xây dựng EndPoints
 
 Sau khi hoàn thành công việc định hình GET, PUT, POST … cho mỗi Action trong Action Plan việc tiếp theo chính là Đặt mỗi Resource trong 1 controller trong đó có các hàm trong Action Plan:
 
@@ -125,7 +125,7 @@ Ví dụ trên **Laravel Framewok**
 
 [![alt text](https://s3-ap-southeast-1.amazonaws.com/kipalog.com/I5JPY.png_y9c6c97y15)](https://s3-ap-southeast-1.amazonaws.com/kipalog.com/I5JPY.png_y9c6c97y15)
 
-# Kết luận
+## Kết luận
 
 Làm bất cứ điều gì nếu chúng ta định hình rõ những công việc sẽ phải làm giúp chúng ta dễ dàng hơn rất nhiều trong công việc sau này. Việc tạo ra các Endpoints là cách để Back End và Develper Mobile hay Front End làm việc với nhau và nâng cao hiệu quả công việc.
 

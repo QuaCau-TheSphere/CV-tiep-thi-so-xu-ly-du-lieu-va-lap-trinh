@@ -7,6 +7,8 @@
     "editor:insert-wikilink",
     "editor:swap-line-up",
     "editor:swap-line-down",
+    "obsidian-editor-shortcuts:copyLineUp",
+    "obsidian-editor-shortcuts:deleteLine",
     "editor:insert-embed",
     "editor:toggle-bold",
     "editor:toggle-italics",

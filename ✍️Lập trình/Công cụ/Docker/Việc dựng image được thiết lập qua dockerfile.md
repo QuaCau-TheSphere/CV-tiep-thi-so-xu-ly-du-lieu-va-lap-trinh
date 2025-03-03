@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-24T18:26
-updated: 2024-08-18T15:05
+updated: 2025-03-03T18:48
 ---
 Nguồn:: ![Learn Docker in 7 Easy Steps - Full Beginner's Tutorial - YouTube](https://youtu.be/gAkwW2tuIqE?si=hvz8xyWfGNlOUCqr)
 

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-05-30T15:56
-updated: 2024-11-07T13:37
+updated: 2025-03-03T18:48
 ---
 # Tạo phím tắt bằng AutoHotKey
 AutoHotKey là một phần mềm hỗ trợ người dùng Window, giúp thực hiện các thao tác nhanh và thuận tiện hơn, phù hợp với người làm văn phòng.

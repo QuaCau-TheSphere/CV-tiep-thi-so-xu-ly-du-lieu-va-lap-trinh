@@ -1,9 +1,9 @@
 ---
 share: true
 created: 2023-10-24T18:26
-updated: 2024-11-22T16:31
+updated: 2025-03-03T18:48
 ---
-# Kiểu viết
+## Kiểu viết
 | Kiểu viết  | Ý nghĩa                                       | Ví dụ                   |
 | ---------- | --------------------------------------------- | ----------------------- |
 | ALL_CAP    | Hằng                                          | `SỐ_PI`                    |
@@ -12,7 +12,7 @@ updated: 2024-11-22T16:31
 | camelCase  | Biến, hàm, phương thức                        | `vậtThể`                |
 | PascalCase | Lớp, kiểu, giao diện                          | `VậtThể`                |
 
-# Tiền tố
+## Tiền tố
 | Tiền tố       | Ý nghĩa                    | Ví dụ              |
 | ------------- | -------------------------- | ------------------ |
 | động từ       | Hàm                        | `runFunction()`    |

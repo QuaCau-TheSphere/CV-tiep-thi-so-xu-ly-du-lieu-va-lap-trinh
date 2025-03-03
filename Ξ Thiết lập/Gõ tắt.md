@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2024-11-30T13:46
+updated: 2025-03-03T18:48
 ---
 Nhu cầu:: 		nc, dy, tl
 Nhu cầu dẫn tới:: 		ncdt, ch, mt
@@ -21,7 +21,7 @@ Câu hỏi:: 		ch
 Nguồn:: 		ng
 Trích từ:: 		tt
 Xem thêm:: 		xt
-
+Tham khảo:: 		tk
 # Code nhanh
 ## Dataview
 ```dataview\nLIST\nFROM |\nWHERE\n```		dtv

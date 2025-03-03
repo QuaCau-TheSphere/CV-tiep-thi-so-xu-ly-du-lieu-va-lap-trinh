@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2024-11-18T15:48
+updated: 2025-03-03T18:48
 ---
 ![](https://youtu.be/L8CDt1J3DAw?si=tTCg8pJhTfUEPvLt) 
 Một trong những cách đơn giản nhất để debug Javascript code đó chính là hiện ra kết quả qua câu lệnh `console.log`. Mặc dù nó vẫn hoạt động, tuy nhiên đó không phải là cách tối ưu cho mọi việc. Trong bài viết này mình sẽ giới thiệu với các bạn những chức năng khác mà console javascript có thể làm được
@@ -160,23 +160,3 @@ Kết quả:
 ![](https://images.viblo.asia/ed89cb10-7f22-490b-ad5b-929ca2bcb5be.png)
 
 Nguồn:: [Nâng cao kỹ năng debug trong Javascript bằng Console](https://viblo.asia/p/nang-cao-ky-nang-debug-trong-javascript-bang-console-3P0lPEEp5ox)
-## [Dùng thư viện chuyên cho log](https://jsr.io/@std/log)
-
-I) Insert meaningful log message automatically
-
-Two steps:
-
-- Selecting or hovering the variable which is the subject of the debugging (Manual selection will always take over the hover selection)
-    
-- Pressing ctrl + alt + L (Windows) or ctrl + option + L (Mac)
-    
-
-The log message will be inserted in the next line relative to the selected variable like this:
-
-console.log("SelectedVariableEnclosingClassName -> SelectedVariableEnclosingFunctionName -> SelectedVariable", SelectedVariable)
-
-![alt text](https://image.ibb.co/dysw7p/insert_log_message.gif)
-
-Multiple cursor support:
-
-![alt text](https://i.ibb.co/Jk2pmRG/tcl-multiple-selections.gif "Multiple cursor support")

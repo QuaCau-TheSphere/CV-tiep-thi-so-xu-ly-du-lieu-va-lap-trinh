@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-06-10T12:00
-updated: 2024-09-09T09:41
+updated: 2025-03-03T18:48
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_etXec6hBvA?si=cLkyKU_k6xYdsV1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -21,7 +21,6 @@ Nếu không tạo thì sẽ bị tràn tập tin ra ngoài.
 > Nếu muốn đổi thì phải xóa đi làm lại từ đầu nếu muốn tiếp tục đồng bộ. Nên nếu thư mục đó sau này không phải di chuyển sang chỗ khác thì sẽ đỡ phải làm lại.
 
 > [!NOTE] [[Ảnh lưu trên kho trên điện thoại sẽ được thấy trong gallery ảnh]]
-
 
 Xem thêm:: [[Syncthing dành cho đồng bộ dữ liệu giữa các thiết bị của cùng một người. Git chuyên cho việc hợp tác làm việc giữa nhiều người]]
 Xem thêm:: [[Sự khác biệt giữa Windows và Android, Mac trong tên file]] 

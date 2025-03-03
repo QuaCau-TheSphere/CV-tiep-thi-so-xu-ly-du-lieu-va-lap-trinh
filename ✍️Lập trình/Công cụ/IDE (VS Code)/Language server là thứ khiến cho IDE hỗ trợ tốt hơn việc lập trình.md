@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2024-08-18T15:05
+updated: 2025-03-03T18:48
 ---
 Trước tiên, cần nhắc tới Language Server, là chỉ tiện ích mở rộng cung cấp trải nghiệm chỉnh sửa cho nhiều ngôn ngữ lập trình. Với Language Server, bạn có thể triển khai tính năng tự động hoàn thành (autocomplete), kiểm tra lỗi (diagnostics), tìm tới định nghĩa (jump-to-definition), vân vân và mây mây. Ví dụ mình sử dụng PHP, thì Language Server của PHP có thể đủ thông minh mà tìm ra lỗi cú pháp, chỉ ra cái function của mình nó đang nằm ở đâu,... Các vấn đề về Language Server được team phát triển của Visual Studio Code gặp phải và nhắc tới với 3 khó khăn chủ yếu:
 

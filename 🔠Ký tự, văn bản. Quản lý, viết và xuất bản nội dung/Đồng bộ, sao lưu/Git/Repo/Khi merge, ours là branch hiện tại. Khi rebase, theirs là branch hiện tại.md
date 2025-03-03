@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2024-09-19T22:41
+updated: 2025-03-03T18:48
 ---
 [[git merge B nên được hiểu là git merge with B. git rebase A nên được hiểu là git rebase to A]]
 Giả sử ta có 2 branch `A` và `B`. Ta đang ở A:
@@ -15,7 +15,7 @@ Khi merge là lấy commit từ branch khác về branch hiện tại, nên `A` 
 ```
 $ git merge -X ours B
 ```
-Khi rebase thì  bị ngược như vậy là vì 
+Khi rebase thì bị ngược như vậy là vì 
 ```
 # Nếu là rebase thì A là theirs
 $ git rebase -X theirs B

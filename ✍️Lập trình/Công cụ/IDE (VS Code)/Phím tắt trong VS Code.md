@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-24T18:26
-updated: 2024-08-18T15:05
+updated: 2025-03-03T18:48
 ---
 # Mở code
 
@@ -27,7 +27,8 @@ updated: 2024-08-18T15:05
 | <kbd>F6</kbd>               | Đổi panel                                                 |
 | <kbd>Ctrl + B</kbd>         | Mở sidebar trái (VS Code gọi là primary sidebar)          |
 | <kbd>Ctrl + Shift + B</kbd> | Mở sidebar phải (VS Code gọi là secondary sidebar)        |
-| <kbd>Alt + ←</kbd>          | Quay lại vị trí con trỏ lần trước                         | 
+| <kbd>Alt + ←</kbd>          | Quay lại vị trí con trỏ lần trước                         |
+| <kbd>Shift + Alt + F</kbd>  | Định dạng tài liệu cho dễ nhìn                            |
 
 # Viết code
 
@@ -44,13 +45,13 @@ updated: 2024-08-18T15:05
 
 # Chạy code
 
-| Phím tắt                    | Chức năng                                                     |
-| --------------------------- | ------------------------------------------------------------- |
-| <kbd>F5</kbd>               | Chạy code                                                     | 
-| <kbd>F9</kbd>               | Tạo breakpoint                                                |
-| <kbd>Ctrl + Shift + D</kbd> | Mở debug sidebar                                              |
-| <kbd>Ctrl + `</kbd>         | Mở [[Terminal là cái chương trình để làm việc với shell|terminal]] |
-| <kbd>Ctrl + Shift + Y</kbd> | Mở debug console                                              |
+| Phím tắt                    | Chức năng                                                           |
+| --------------------------- | ------------------------------------------------------------------- |
+| <kbd>F5</kbd>               | Chạy code                                                           |
+| <kbd>F9</kbd>               | Tạo breakpoint                                                      |
+| <kbd>Ctrl + Shift + D</kbd> | Mở debug sidebar                                                    |
+| <kbd>Ctrl + `</kbd>         | Mở [[Terminal là cái chương trình để làm việc với shell\|terminal]] |
+| <kbd>Ctrl + Shift + Y</kbd> | Mở debug console                                                    |
 
 # Thiết lập VS Code
 

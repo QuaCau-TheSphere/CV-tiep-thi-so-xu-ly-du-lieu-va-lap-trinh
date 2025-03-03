@@ -1,9 +1,9 @@
 ---
 share: true
 created: 2023-10-24T18:26
-updated: 2024-08-18T15:05
+updated: 2025-03-03T18:48
 ---
-[[Shell là cái vỏ bảo vệ lõi của hệ điều hành]]. [[Terminal là cái chương trình để làm việc với shell]]
+[[Shell là cái vỏ bảo vệ nhân của hệ điều hành]]. [[Terminal là cái chương trình để làm việc với shell]]
 
 ![](https://thumbs.dreamstime.com/b/magic-portal-green-plants-fantasy-fern-ivy-night-79779455.jpg) 
 
@@ -19,7 +19,7 @@ A terminal is a text input and output environment. A terminal window, also known
 A console is a physical terminal; an instrument panel containing computer controls. A console is a type of terminal. Is a window in which your text-mode programs are active. This window recognizes key presses and is aware of its width and height. A full-screen mode is an option.
 
 **Shell :**  
-[[Shell là cái vỏ bảo vệ lõi của hệ điều hành]]
+[[Shell là cái vỏ bảo vệ nhân của hệ điều hành]]
 Shell stands for the command-line interpreter. A shell is a program that processes commands and outputs the results. A shell is a layer that sits on top of the kernel: 1) It interprets and processes the commands entered by the user. Unlike users, the shell has access to the kernel. Users can only gain access to the kernel by using a shell and entering commands (i.e. running programs). System calls are used by programs to gain access to kernel functionality. The system API is made up of all system calls.
 
 [**Command-Line**](https://www.geeksforgeeks.org/command-line-arguments-in-c-cpp/) **:**   

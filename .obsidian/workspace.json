@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6dbd798ebd2089ad",
+            "id": "739d7b3005fb5de5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Sắp chữ, thiết kế/Quản lý trích dẫn/Bib/Tệp bib thường hay được gọi là tệp bibtex, nhưng đó là cái tên cũ được thừa hưởng từ bộ máy BibTex, và bây giờ nên được nhìn nhận là không còn liên quan gì đến nhau cả.md",
+                "file": "✍️Lập trình/Hệ điều hành, path và terminal/Unix, Linux/Nên cài Linux hay dùng WSL.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Tệp bib thường hay được gọi là tệp bibtex, nhưng đó là cái tên cũ được thừa hưởng từ bộ máy BibTex, và bây giờ nên được nhìn nhận là không còn liên quan gì đến nhau cả"
+              "title": "Nên cài Linux hay dùng WSL"
             }
           },
           {
-            "id": "e2a9092e273c59d1",
+            "id": "1a7bdb61f972d254",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Đồng bộ, sao lưu/Git/Các lỗi Git thường gặp.md",
+                "file": "👏Sản phẩm/Các vấn đề về dịch thuật ngữ.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -52,83 +52,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Các lỗi Git thường gặp"
-            }
-          },
-          {
-            "id": "d1174036b7cba6ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Sắp chữ, thiết kế/Quản lý trích dẫn/Bib/Tệp bib thường hay được gọi là tệp bibtex, nhưng đó là cái tên cũ được thừa hưởng từ bộ máy BibTex, và bây giờ nên được nhìn nhận là không còn liên quan gì đến nhau cả.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Tệp bib thường hay được gọi là tệp bibtex, nhưng đó là cái tên cũ được thừa hưởng từ bộ máy BibTex, và bây giờ nên được nhìn nhận là không còn liên quan gì đến nhau cả"
-            }
-          },
-          {
-            "id": "1f448d84ed1b4a3f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Sắp chữ, thiết kế/Quản lý trích dẫn/Bib/Biber và BibTeX là các bộ máy để đọc tệp bib.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Biber và BibTeX là các bộ máy để đọc tệp bib"
-            }
-          },
-          {
-            "id": "c9f55b78a2ba724d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Sắp chữ, thiết kế/Quản lý trích dẫn/Bib/Biber và BibTeX là các bộ máy để đọc tệp bib.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Biber và BibTeX là các bộ máy để đọc tệp bib"
+              "title": "Các vấn đề về dịch thuật ngữ"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -268,48 +195,48 @@
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
       "open-vscode:VSCode": false,
-      "obsidian42-brat:BRAT": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian42-brat:BRAT": false
     }
   },
-  "active": "e2a9092e273c59d1",
+  "active": "739d7b3005fb5de5",
   "lastOpenFiles": [
-    "✍️Lập trình/Khái niệm cơ bản và nguyên lý lập trình/Khái niệm cơ bản về lập trình hướng vật thể/Vật thể, lớp/Vật thể ngoài tự nhiên không chứa hướng dẫn để sử dụng nó. Vật thể trong máy tính có hướng dẫn sử dụng nó.md",
-    "✍️Lập trình/Khái niệm cơ bản và nguyên lý lập trình/Khái niệm cơ bản về lập trình hướng vật thể/Vật thể, lớp/Vật thể là những dữ liệu có những thuộc tính thành phần.md",
-    "✍️Lập trình/Khái niệm cơ bản và nguyên lý lập trình/Khái niệm cơ bản về lập trình hướng vật thể/Vật thể, lớp/Việc đóng gói (encapsulation) giúp ta không cần quan tâm vật thể lưu dữ liệu thế nào, mà chỉ cần quan tâm tới thuộc tính và phương thức của nó.md",
-    "✍️Lập trình/Khái niệm cơ bản và nguyên lý lập trình/Khái niệm cơ bản về lập trình hướng vật thể/Vật thể, lớp/Từ điển là vật thể được dùng để tra cứu dữ liệu theo từ khoá chứ không phải là để thao tác và thay đổi thuộc tính bằng phương thức.md",
-    "✍️Lập trình/Khái niệm cơ bản và nguyên lý lập trình/Khái niệm cơ bản về lập trình hướng vật thể/Vật thể, lớp/Thay vì ta thao túng trực tiếp dữ liệu, ta điều khiển vật thể qua phần giao tiếp của nó với bên ngoài.md",
-    "✍️Lập trình/Khái niệm cơ bản và nguyên lý lập trình/Khái niệm cơ bản về lập trình hướng vật thể/Vật thể, lớp/Prototype là những thuộc tính không cần tạo ra cũng có sẵn.md",
-    "✍️Lập trình/Khái niệm cơ bản và nguyên lý lập trình/Khái niệm cơ bản về lập trình hướng vật thể/Vật thể, lớp/Những vật thể đơn giản dùng để tra cứu dữ liệu theo từ khoá gọi là từ điển.md",
-    "✍️Lập trình/Khái niệm cơ bản và nguyên lý lập trình/Khái niệm cơ bản về lập trình hướng vật thể/Vật thể, lớp/Lớp là một cái khuôn để tạo các vật thể cho nhanh.md",
-    "✍️Lập trình/Khái niệm cơ bản và nguyên lý lập trình/Khái niệm cơ bản về lập trình hướng vật thể/Vật thể, lớp/Không cần biết vật thể chứa dữ liệu gì, chỉ cần quan tâm nó làm được gì.md",
-    "✍️Lập trình/Khái niệm cơ bản và nguyên lý lập trình/Khái niệm cơ bản về lập trình hướng vật thể/Vật thể, lớp/Dùng class khi ta có logic nghiệp vụ thực sự cần được implement để thực thi. Dùng interface để tạo ràng buộc kiểu cho biến.md",
-    "✍️Lập trình/Khái niệm cơ bản và nguyên lý lập trình/Khái niệm cơ bản về lập trình hướng vật thể/Vật thể, lớp/Chưa rõ lý do vì sao lại dịch object ra thành đối tượng chứ không phải vật thể.md",
-    "✍️Lập trình/Khái niệm cơ bản và nguyên lý lập trình/Khái niệm cơ bản về lập trình hướng vật thể/Mô đun/Package và library là những cái tên khác nhau cho cùng một thứ.md",
-    "✍️Lập trình/Khái niệm cơ bản và nguyên lý lập trình/Khái niệm cơ bản về lập trình hướng vật thể/Mô đun/Nên tách bạch code hỗ trợ cho client và server vào những mô đun khác nhau.md",
-    "✍️Lập trình/Khái niệm cơ bản và nguyên lý lập trình/Khái niệm cơ bản về lập trình hướng vật thể/Mô đun/Khi import một hàm thì cả file chứa hàm đó sẽ được chạy. Các import của file đó cũng sẽ chạy theo, dù là để import vào một hàm khác mình không import.md",
-    "✍️Lập trình/Khái niệm cơ bản và nguyên lý lập trình/Khái niệm cơ bản về lập trình hướng vật thể/Mô đun/Giao diện là cách để sử dụng vật thể mà không cần biết bên trong nó có gì.md",
-    "✍️Lập trình/Khái niệm cơ bản và nguyên lý lập trình/Khái niệm cơ bản về lập trình hướng vật thể/Mô đun/API là giao diện của một chương trình.md",
-    "✍️Lập trình/Khái niệm cơ bản và nguyên lý lập trình/Khái niệm cơ bản về lập trình hướng vật thể/Hàm/Để tránh phụ thuộc lòng vòng (circular dependency) có thể dùng hàm.md",
-    "✍️Lập trình/Khái niệm cơ bản và nguyên lý lập trình/Khái niệm cơ bản về lập trình hướng vật thể/Hàm/Hàm vô danh, hàm mũi tên, lambda là những cái tên khác nhau cho cùng một thứ.md",
-    "✍️Lập trình/Khái niệm cơ bản và nguyên lý lập trình/Khái niệm cơ bản về lập trình hướng vật thể/Hàm/Phương thức",
-    "✍️Lập trình/Khái niệm cơ bản và nguyên lý lập trình/Khái niệm cơ bản về lập trình hướng vật thể/Hàm/Giao diện là cái khuôn của phương thức.md",
-    "✍️Lập trình/Khái niệm cơ bản và nguyên lý lập trình/Khái niệm cơ bản về lập trình hướng vật thể/Hàm/f(a)(b) để gọi hàm f(a) có chứa hàm con f1(b).md",
-    "✍️Lập trình/Khái niệm cơ bản và nguyên lý lập trình/Khái niệm cơ bản về lập trình hướng vật thể/Hàm/Callback",
-    "✍️Lập trình/Khái niệm cơ bản và nguyên lý lập trình/Khái niệm cơ bản về lập trình hướng vật thể/Vật thể, lớp",
-    "✍️Lập trình/Khái niệm cơ bản và nguyên lý lập trình/Khái niệm cơ bản về lập trình hướng vật thể/Việc hiển thị nội dung dữ liệu như thế nào là do công cụ quyết định, không phải ngôn ngữ quyết định.md",
-    "✍️Lập trình/Khái niệm cơ bản và nguyên lý lập trình/Khái niệm cơ bản về lập trình hướng vật thể/Nên để dư một dấu phẩy ở phần tử cuối cùng khi tạo vật thể hoặc mảng.md",
-    "✍️Lập trình/Khái niệm cơ bản và nguyên lý lập trình/Khái niệm cơ bản về lập trình hướng vật thể/Mô đun",
-    "✍️Lập trình/Khái niệm cơ bản và nguyên lý lập trình/Khái niệm cơ bản về lập trình hướng vật thể/Map, dictionary, associative array, hash, hash table là những cái tên cho cùng một thứ.md",
-    "✍️Lập trình/Khái niệm cơ bản và nguyên lý lập trình/Khái niệm cơ bản về lập trình hướng vật thể/Hàm",
-    "✍️Lập trình/Khái niệm cơ bản và nguyên lý lập trình/Khái niệm cơ bản về lập trình hướng vật thể/Hoạt động trung tâm của lập trình hướng vật thể là phân loại.md",
-    "✍️Lập trình/Khái niệm cơ bản và nguyên lý lập trình/Khái niệm cơ bản về lập trình hướng vật thể/Biểu thức (expression) là những thứ trả lại một giá trị nào đó.md",
-    "✍️Lập trình/Khái niệm cơ bản và nguyên lý lập trình/Khái niệm cơ bản về lập trình hướng vật thể/4 đặc điểm của lập trình hướng vật thể.md",
-    "✍️Lập trình/Khái niệm cơ bản và nguyên lý lập trình/Khái niệm cơ bản về lập trình hướng vật thể",
-    "✍️Lập trình/Hệ điều hành, path và terminal/Đường dẫn",
-    "✍️Lập trình/Hệ điều hành, path và terminal/Path, env",
-    "✍️Lập trình/Hệ điều hành, path và terminal/CPU, RAM",
-    "✍️Lập trình/Cloud, webhook, API/OAuth, access token",
+    "👏Sản phẩm/Template tạo vault và website mới.md",
+    "👏Sản phẩm/Untitled.md",
+    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Đồng bộ, sao lưu/Git/Git.md",
+    "Ξ Thiết lập/Ảnh/Linux.conf.au 2013 -- Canberra, Australia - Git For Ages 4 And Up [3m7BgIvC-uQ - 963x722 - 21m44s].png",
+    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Đồng bộ, sao lưu/Git/GitHub/Website GitHub giống như là để teamview máy tính của GitHub.md",
+    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Đồng bộ, sao lưu/Git/Blob, tree, ref. Git internals/Lệnh sứ là các lệnh dành cho người dùng. Lệnh ống nước là các lệnh lõi để dùng kèm với các lệnh Unix khác.md",
+    "✍️Lập trình/Hệ điều hành, path và terminal/Unix, Linux/Các chương trình trên Linux hướng đến việc làm tốt đúng một nhiệm vụ duy nhất, và làm tốt việc làm cùng nhau.md",
+    "✍️Lập trình/Hệ điều hành, path và terminal/Unix, Linux/Nên cài Linux hay dùng WSL.md",
+    "✍️Lập trình/Hệ điều hành, path và terminal/Unix, Linux/Dùng chương trình Linux cho người không biết gì về nó.md",
+    "✍️Lập trình/Hệ điều hành, path và terminal/Unix, Linux",
+    "✍️Lập trình/Hệ điều hành, path và terminal/Các chương trình trên Linux hướng đến việc làm tốt duy nhất một nhiệm vụ, và làm tốt việc làm cùng nhau.md",
+    "✍️Lập trình/Hệ điều hành, path và terminal/Linux/Nên cài Linux hay dùng WSL.md",
+    "✍️Lập trình/Hệ điều hành, path và terminal/Linux/Dùng chương trình Linux cho người không biết gì về nó.md",
+    "✍️Lập trình/Hệ điều hành, path và terminal/Linux/Các chương trình trên Linux hướng đến việc làm tốt duy nhất một nhiệm vụ, và làm tốt việc làm cùng nhau.md",
+    "✍️Lập trình/Hệ điều hành, path và terminal/Linux",
+    "✍️Lập trình/Hệ điều hành, path và terminal/New folder",
+    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Đồng bộ, sao lưu/Git/Git được sinh ra để giải quyết nhu cầu của Linus, một người viết nhân hệ điều hành.md",
+    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Đồng bộ, sao lưu/Git/Có thể xem Git là một dạng xích khối.md",
+    "Nơi này là nơi nào.md",
+    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Đồng bộ, sao lưu/Git/Blob, tree, ref. Git internals/Các commit được nối với nhau bằng hash.md",
+    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Đồng bộ, sao lưu/Git/Tất cả những gì Git làm chỉ để làm một việc là điều khiển các đồ thị.md",
+    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Đồng bộ, sao lưu/Git/Repo/Cây lịch sử có thể được dùng như là bản lưu những gì đã diễn ra, hoặc là một câu chuyện kể về chúng.md",
+    "👏Sản phẩm/Các vấn đề về dịch thuật ngữ.md",
+    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Đồng bộ, sao lưu/Git/Repo/Merge, rebase/git merge B nên được hiểu là git merge A with B. git rebase A nên được hiểu là git rebase B to A.md",
+    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Đồng bộ, sao lưu/Git/Repo/Merge, rebase/Rebase thích hợp khi phải merge nhiều branch, do nó làm cây lịch sử gọn hơn.md",
+    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Đồng bộ, sao lưu/Git/Repo/Merge, rebase/Rebase là sự kết hợp giữ.md",
+    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Đồng bộ, sao lưu/Git/Repo/Merge, rebase/Merge dùng để bảo lưu sự song song của các thay đổi đã xảy ra trên code. Rebase dùng để đảm bảo cây lịch sử phản ánh sự tuần tự trong quá trình thay đổi code của mình.md",
+    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Đồng bộ, sao lưu/Git/Git tag.md",
+    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Đồng bộ, sao lưu/Git/Facebook chuyển sang Mercurial vì nhóm phát triển Git năm 2012 không mặn mà với monorepo.md",
+    "✍️Lập trình/CICD/Lifecycle script.md",
+    "✍️Lập trình/CICD/~syncthing~Lifecycle script.md.tmp",
+    "✍️Lập trình/Công cụ/Log, test, debug/Log/LogTape",
+    "✍️Lập trình/Khái niệm cơ bản và nguyên lý lập trình/Nguyên lý/Giao diện, giao thức",
+    "✍️Lập trình/Khái niệm cơ bản và nguyên lý lập trình/Nguyên lý/New folder",
+    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Đồng bộ, sao lưu/Git/Repo/Merge, rebase",
+    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Đồng bộ, sao lưu/Git/Repo/Merge và rebase",
+    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Đồng bộ, sao lưu/Git/Repo/New folder",
     "`.canvas",
     "Ξ Thiết lập/Ảnh/SubstitutionPermutationNetwork-en.svg 1.png",
     "Ξ Thiết lập/Ảnh/SubstitutionPermutationNetwork-en.svg.png",
@@ -319,7 +246,6 @@
     "Ξ Thiết lập/Ảnh/cdn-and-serverless.png",
     "Ξ Thiết lập/Ảnh/Kiến trúc giữa Node và Deno.png",
     "Ξ Thiết lập/Ảnh/Proxy không ẩn danh 1.png",
-    "Ξ Thiết lập/Ảnh/Proxy ẩn danh.png",
-    "Ξ Thiết lập/Ảnh/origin.png"
+    "Ξ Thiết lập/Ảnh/Proxy ẩn danh.png"
   ]
 }

@@ -37,7 +37,7 @@
           "commitMessage": "[skip netlify] PUBLISHER"
         },
         "verifiedRepo": false,
-        "rateLimit": 0
+        "rateLimit": 5000
       }
     ],
     "verifiedRepo": true,
@@ -101,7 +101,9 @@
       "unshared": false,
       "wiki": true,
       "slugify": true,
-      "unlink": false
+      "unlink": false,
+      "relativePath": true,
+      "textPrefix": "/"
     }
   },
   "embed": {

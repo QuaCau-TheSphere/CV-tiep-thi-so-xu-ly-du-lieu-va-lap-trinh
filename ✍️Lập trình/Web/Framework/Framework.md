@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-01-12T17:36
-updated: 2024-08-18T15:05
+updated: 2025-03-20T14:56
 ---
 
 ```dataview
@@ -12,3 +12,7 @@ GROUP BY split(file.folder, "/")[3]
 ```
 
 ![Every React Concept Explained in 12 Minutes - YouTube](https://www.youtube.com/watch?v=wIyHSOugGGw)
+
+![Maggie Appleton—Drawing the Invisible—Women of React 2020 - YouTube](https://youtu.be/MQGe9zxlRdk?si=-qaAYgM5P9qqu66j)
+
+[Illustrated explanations of web development, technology and anthropology](https://illustrated.dev/)

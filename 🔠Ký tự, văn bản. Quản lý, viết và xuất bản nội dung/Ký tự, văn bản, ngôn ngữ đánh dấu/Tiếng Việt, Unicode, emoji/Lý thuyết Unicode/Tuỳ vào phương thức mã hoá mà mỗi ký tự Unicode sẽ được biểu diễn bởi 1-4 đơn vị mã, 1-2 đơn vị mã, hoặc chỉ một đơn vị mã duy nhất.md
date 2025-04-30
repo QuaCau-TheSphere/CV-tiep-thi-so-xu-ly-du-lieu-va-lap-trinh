@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-24T18:26
-updated: 2025-03-03T18:48
+updated: 2025-04-22T14:21
 ---
 | Phương thức mã hoá | Số đơn vị mã (code unit) cần để biểu diễn một ký tự bất kỳ | Số byte cần cho một đơn vị mã |
 | ------------------ | ---------------------------------------------------------- | ----------------------------- |
@@ -18,7 +18,7 @@ Có thể kiểm tra điều này bằng lệnh
 ```
 "à".length //kết quả là 2 😲
 ```
-Tuy nhiên, `a` cũng có thể có 1 điểm mã là `U+00E0`.
+Tuy nhiên, `à` cũng có thể có 1 điểm mã là `U+00E0`.
 [[UTF là cách thức để chuyển đổi từ điểm mã sang hệ nhị phân]]. [[Mỗi điểm mã được biểu diễn dưới dạng U+XXYYYY]]
 
 ```js

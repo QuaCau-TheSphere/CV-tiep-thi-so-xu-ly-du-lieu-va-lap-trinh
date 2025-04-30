@@ -1,27 +1,31 @@
 ---
 share: true
 created: 2023-05-26T14:51
-updated: 2025-03-03T18:48
+updated: 2025-03-26T16:21
 ---
 [GitHub - GitAlias/gitalias: Git alias commands for faster easier version control](https://github.com/GitAlias/gitalias)
 [GitHub - initialcommit-com/git-sim: Visually simulate Git operations in your own repos with a single terminal command.](https://github.com/initialcommit-com/git-sim)
+
 ## Xem danh sách tất cả commit
 ```bash
 git log --oneline
 git log --oneline --graph
 git log --pretty='%C(yellow)%h %C(cyan)%cd%C(auto)%d %Creset%s' --graph --date=relative --date-order
 ```
+
 ## Xem những thay đổi của một commit
 ```
 git show --stat <commit>
 git diff <commit>^!
 ```
+
 ## Xem danh sách tất cả file trong commit mình chọn
 ```bash
 git ls-tree --name-only -r <commitHash>
 git ls-tree --name-only 9dea936:"Tài nguyên hỗ trợ/Công việc thời vụ kiếm tiền nhanh"
 ```
 - Bỏ `-r` để không recurse 
+
 ## Đọc nội dung một file trong một commit cũ
 ```
 git show <commitHash>:/path/to/file
@@ -33,6 +37,11 @@ git show <commitHash>:/path/to/file | vim -
 Nhược điểm của việc này là vì vim đọc trực tiếp từ stdin, nên không biết định dạng file là gì để mà tô màu. Có thể sửa việc này bằng:
 ```
 git show <commitHash>:/path/to/file | vim -c 'set filetype=python' -
+```
+
+## Tìm commit sớm nhất chứa file
+```PowerShell
+git log --follow --diff-filter=A --find-renames=40% --pretty=reference -- "**Thông tin cho đại lý.md" 
 ```
 
 ## Khởi tạo repo mới và đẩy lên GitHub

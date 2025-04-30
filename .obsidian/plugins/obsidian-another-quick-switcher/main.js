@@ -4956,6 +4956,10 @@ var AppHelper = class {
     const editor = activeMarkdownView.editor;
     editor.replaceSelection(str);
   }
+  /**
+   * Insert a link to the active file.
+   * @param file The file to be linked.
+   */
   insertLinkToActiveFileBy(file, opts) {
     var _a;
     const activeMarkdownView = this.unsafeApp.workspace.getActiveViewOfType(import_obsidian.MarkdownView);
@@ -4992,9 +4996,10 @@ var AppHelper = class {
         );
       }
       linkText = text === dispTxt ? `[[${text}]]` : `[[${text}|${dispTxt}]]`;
-    }
-    if (opts == null ? void 0 : opts.phantom) {
-      linkText = linkText.replace(/\[\[.*\/([^\]]+)]]/, "[[$1]]");
+      if (opts == null ? void 0 : opts.phantom) {
+        const phantomLinkText = linkText.replace("[[", "").replace("]]", "").split("|").map((x) => x.replace(/.*\/([^\]]+)/, "$1")).unique().join("|");
+        linkText = `[[${phantomLinkText}]]`;
+      }
     }
     const editor = activeMarkdownView.editor;
     editor.replaceSelection(
@@ -5354,7 +5359,7 @@ function matchQuery(item, query, options) {
 function matchQueryAll(item, queries, options) {
   return queries.flatMap((q) => {
     var _a;
-    const [query, negative] = q.startsWith("-") ? [q.slice(1), true] : [q, false];
+    const [query, negative] = options.excludePrefix && q.startsWith(options.excludePrefix) ? [q.slice(options.excludePrefix.length), true] : [q, false];
     const matched = matchQuery(item, query, options);
     if (((_a = matched[0]) == null ? void 0 : _a.type) === "not found") {
       return negative ? [] : matched;
@@ -6004,7 +6009,6 @@ var createPreSettingSearchCommands = () => [
     excludePrefixPathPatterns: [],
     expand: false
   },
-  createDefaultLinkSearchCommand(),
   createDefault2HopLinkSearchCommand()
 ];
 var DEFAULT_SETTINGS = {
@@ -6019,6 +6023,7 @@ var DEFAULT_SETTINGS = {
   showFullPathOfDirectory: false,
   showAliasesOnTop: false,
   displayAliaseAsTitle: false,
+  displayDescriptionBelowTitle: false,
   showExistingFilesOnly: false,
   hideGutterIcons: false,
   hideHotkeyGuides: false,
@@ -6027,6 +6032,7 @@ var DEFAULT_SETTINGS = {
   hotkeys: createDefaultHotkeys(),
   // Searches
   searchCommands: createPreSettingSearchCommands(),
+  searchesExcludePrefix: "-",
   searchesAutoAliasTransform: {
     enabled: false,
     aliasPattern: "",
@@ -6167,10 +6173,20 @@ var AnotherQuickSwitcherSettingTab = class extends import_obsidian3.PluginSettin
         }
       );
     });
-    new import_obsidian3.Setting(containerEl).setName("Display the alias as the title.").addToggle((tc) => {
+    new import_obsidian3.Setting(containerEl).setName("Display the alias as the title").addToggle((tc) => {
       tc.setValue(this.plugin.settings.displayAliaseAsTitle).onChange(
         async (value) => {
           this.plugin.settings.displayAliaseAsTitle = value;
+          await this.plugin.saveSettings();
+        }
+      );
+    });
+    new import_obsidian3.Setting(containerEl).setName("Display the 'description' property below the title").setDesc(
+      "When enabled, it will no longer appear in the property display area of the search results."
+    ).addToggle((tc) => {
+      tc.setValue(this.plugin.settings.displayDescriptionBelowTitle).onChange(
+        async (value) => {
+          this.plugin.settings.displayDescriptionBelowTitle = value;
           await this.plugin.saveSettings();
         }
       );
@@ -6355,6 +6371,16 @@ ${invalidValues.map((x) => `- ${x}`).join("\n")}
       if (!this.resetLock) {
         btn.setCta();
       }
+    });
+    new import_obsidian3.Setting(containerEl).setName("Exclude prefix").setDesc(
+      "Adding this at the beginning of a query excludes matching results."
+    ).addText((cb) => {
+      cb.setValue(this.plugin.settings.searchesExcludePrefix).onChange(
+        async (value) => {
+          this.plugin.settings.searchesExcludePrefix = value;
+          await this.plugin.saveSettings();
+        }
+      );
     });
     new import_obsidian3.Setting(containerEl).setName("Auto alias transform").setDesc(
       "Transforms a selected link candidate into an internal link with an aliase based on a regex-defined rule when using the insert to editor command."
@@ -6803,7 +6829,10 @@ function createItemDiv(item, aliasesDisplayedAsTitle, options) {
   });
   const shouldShowAliasAsTitle = aliasesDisplayedAsTitle.length > 0 && (options.displayAliaseAsTitle || options.displayAliasAsTitleOnKeywordMatched);
   const titleDiv = createDiv({
-    cls: "another-quick-switcher__item__title",
+    cls: [
+      "another-quick-switcher__item__title",
+      "another-quick-switcher__custom__item__title"
+    ],
     text: shouldShowAliasAsTitle ? aliasesDisplayedAsTitle.join(" / ") : item.file.basename
   });
   entryDiv.appendChild(titleDiv);
@@ -6844,6 +6873,17 @@ function createMetaDiv(args) {
   const metaDiv = createDiv({
     cls: "another-quick-switcher__item__metas"
   });
+  if (options.displayDescriptionBelowTitle && frontMatter.description) {
+    const descriptionDiv = createDiv({
+      cls: "another-quick-switcher__item__meta"
+    });
+    const descriptionSpan = createSpan({
+      cls: "another-quick-switcher__item__meta__description",
+      text: String(frontMatter.description)
+    });
+    descriptionDiv.appendChild(descriptionSpan);
+    metaDiv.appendChild(descriptionDiv);
+  }
   if (options.showFuzzyMatchScore && args.score > 0) {
     const scoreDiv = createDiv({
       cls: "another-quick-switcher__item__meta"
@@ -6861,6 +6901,9 @@ function createMetaDiv(args) {
       cls: "another-quick-switcher__item__meta"
     });
     for (const [key, value] of Object.entries(frontMatter)) {
+      if (key === "description" && options.displayDescriptionBelowTitle) {
+        continue;
+      }
       const frontMatterDiv = createDiv({
         cls: "another-quick-switcher__item__meta__front_matter",
         title: `${key}: ${value}`
@@ -7292,7 +7335,8 @@ var AnotherQuickSwitcherModal = class _AnotherQuickSwitcherModal extends import_
         searchByTags: this.command.searchBy.tag,
         keysOfPropertyToSearch: this.command.searchBy.property ? this.command.keysOfPropertyToSearch : [],
         fuzzyTarget: this.command.allowFuzzySearchForSearchTarget,
-        minFuzzyScore: this.command.minFuzzyMatchScore
+        minFuzzyScore: this.command.minFuzzyMatchScore,
+        excludePrefix: this.settings.searchesExcludePrefix
       })
     ).filter((x) => x.matchResults.every((x2) => x2.type !== "not found"));
     const items = sort(
@@ -7375,6 +7419,7 @@ var AnotherQuickSwitcherModal = class _AnotherQuickSwitcherModal extends import_
       showFullPathOfDirectory: this.settings.showFullPathOfDirectory,
       displayAliasAsTitleOnKeywordMatched: this.settings.showAliasesOnTop,
       displayAliaseAsTitle: this.settings.displayAliaseAsTitle,
+      displayDescriptionBelowTitle: this.settings.displayDescriptionBelowTitle,
       hideGutterIcons: this.settings.hideGutterIcons,
       showFuzzyMatchScore: this.settings.showFuzzyMatchScore
     });
@@ -7646,10 +7691,22 @@ var AnotherQuickSwitcherModal = class _AnotherQuickSwitcherModal extends import_
         aliasTranformer: saat.enabled ? { pattern: saat.aliasPattern, format: saat.aliasFormat } : void 0
       });
     };
+    const insertPhantomLinkToActiveMarkdownFile = (text) => {
+      const saat = this.settings.searchesAutoAliasTransform;
+      this.appHelper.insertLinkToActiveFileBy(
+        this.appHelper.createPhantomFile(text),
+        {
+          phantom: true,
+          aliasTranformer: saat.enabled ? { pattern: saat.aliasPattern, format: saat.aliasFormat } : void 0
+        }
+      );
+    };
     this.registerKeys("insert to editor", async () => {
       var _a;
       const item = (_a = this.chooser.values) == null ? void 0 : _a[this.chooser.selectedItem];
       if (!item) {
+        insertPhantomLinkToActiveMarkdownFile(this.searchQuery);
+        await this.safeClose();
         return;
       }
       const file = item.file;

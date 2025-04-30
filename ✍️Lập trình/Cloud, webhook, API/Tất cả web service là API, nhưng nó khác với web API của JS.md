@@ -1,10 +1,10 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2025-03-03T18:48
+updated: 2025-03-04T15:47
 ---
 [[HTTP là ngôn ngữ để trình duyệt và webserver nói chuyện với nhau]]
-Web service là các API của các dịch vụ trên mạng, cần phải có internet mới dùng được nó. Gọi là là web API cũng được. Nhưng cần phân biệt với [[Web API là những API được trình duyệt cung cấp, không phải của bộ máy|web API của JS]]. Nó là API của trình duyệt, chứ không phải của dịch vụ trên mạng nào. Không có internet vẫn dùng được.
+Web service là các API của các dịch vụ trên mạng, cần phải có internet mới dùng được nó. Gọi là là web API cũng được. Nhưng cần phân biệt với [[Web API là những API được trình duyệt cung cấp, không phải của động cơ|web API của JS]]. Nó là API của trình duyệt, chứ không phải của dịch vụ trên mạng nào. Không có internet vẫn dùng được.
 
 ## What is Web API?
 - An API (Application Programming Interface) is the means by which third parties can write code that interfaces with other code.

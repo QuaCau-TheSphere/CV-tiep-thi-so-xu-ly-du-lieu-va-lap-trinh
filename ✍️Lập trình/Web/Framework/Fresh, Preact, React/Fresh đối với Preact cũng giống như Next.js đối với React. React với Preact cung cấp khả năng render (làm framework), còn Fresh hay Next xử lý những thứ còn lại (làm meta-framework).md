@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2024-08-18T15:05
+updated: 2025-03-20T14:55
 ---
 Fresh is a website framework designed to be used with Deno
 Preact is essentially a reactive rendering library

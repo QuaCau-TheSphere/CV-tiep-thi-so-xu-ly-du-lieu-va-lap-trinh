@@ -1,10 +1,10 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2025-03-03T18:48
+updated: 2025-03-27T12:47
 ---
 ## Callback là những hàm được dùng như đối số của hàm khác
-Khi viết hàm ta có thể viết hàm con
+Khi viết một hàm ta có thể viết hàm con trong nó:
 ```js
 function hàmMẹ() {
     const a = 1
@@ -80,4 +80,6 @@ function hàmGọi(callback){
 } 
 ```
 
-Điều này cũng có nghĩa là callback bắt buộc phải có đúng thứ tự và kiểu biến được hàm gọi cho trước
+Điều này cũng có nghĩa là callback bắt buộc phải có đúng thứ tự và kiểu biến được hàm gọi cho trước.
+
+![Filter, Map, Reduce from first principles - YouTube](https://youtu.be/5ghWnXp3aAY?si=OBHrs6oIaRi8CoWh)

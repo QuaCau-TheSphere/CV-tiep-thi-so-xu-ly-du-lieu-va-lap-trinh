@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2025-03-03T18:48
+updated: 2025-03-04T15:47
 description: Thứ gì được truyền vào `resolve()` sẽ được truyền vào `result` và vào `then()`. Thứ gì được truyền vào `reject()` sẽ được truyền vào `result` và vào `catch()`
 ---
 [[Vật thể là dạng dữ liệu có những thuộc tính thành phần]]. [[Lớp là một cái khuôn để tạo các vật thể cho nhanh]]. `Promise` vừa là tên của một lớp được định nghĩa sẵn trong JS, vừa là tên hay được đặt cho các vật thể được tạo ra từ lớp đó:
@@ -30,7 +30,7 @@ function hàmThựcThi(hàmGiảiQuyết, hàmTừChối){
 }
 ```
 
-Khi [[Code giống như các nốt nhạc, bộ máy giống như nhạc công, còn môi trường thực thi giống như nhạc cụ|bộ máy]] của JS đọc tới dòng này:
+Khi [[Code giống như các nốt nhạc, động cơ giống như nhạc công, còn môi trường thực thi giống như nhạc cụ|bộ máy]] của JS đọc tới dòng này:
 ```js
 const promise = new Promise(hàmThựcThi);
 ```
@@ -65,7 +65,7 @@ Ngược lại, khi hàm từ chối được gọi:
 ## Vật thể `promise`
 [[Vật thể promise có 2 thuộc tính là state và result, và 3 phương thức là then, catch, và finally|Vật thể promise có 2 thuộc tính và 3 phương thức]]. 2 thuộc tính đó là `state` và `result`. 3 phương thức đó là `then()`, `catch()` và `finally()`. 
 
-Khi [[Code giống như các nốt nhạc, bộ máy giống như nhạc công, còn môi trường thực thi giống như nhạc cụ|engine]] của JS đọc tới dòng này:
+Khi [[Code giống như các nốt nhạc, động cơ giống như nhạc công, còn môi trường thực thi giống như nhạc cụ|engine]] của JS đọc tới dòng này:
 ```js
 const promise = new Promise(hàmThựcThi);
 ```

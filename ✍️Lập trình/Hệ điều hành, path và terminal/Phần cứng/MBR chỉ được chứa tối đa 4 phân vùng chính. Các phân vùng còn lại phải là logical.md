@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2025-03-03T18:48
+updated: 2025-04-24T13:40
 ---
 - **Phân vùng chính (Primary Partition):** Là phân vùng có thể khởi động được, tức là có thể cài đặt hệ điều hành và chạy nó. Mỗi ổ đĩa cứng chỉ có thể có tối đa 4 phân vùng chính hoặc 3 phân vùng chính và 1 phân vùng mở rộng.
 - **Phân vùng mở rộng (Extended Partition):** Là phân vùng không thể khởi động được, chỉ có thể chứa dữ liệu và các tập tin. Phân vùng mở rộng được tạo ra để giải quyết giới hạn số lượng phân vùng chính. Mỗi ổ đĩa cứng chỉ có thể có 1 phân vùng mở rộng, và trong đó có thể tạo ra nhiều phân vùng logic.

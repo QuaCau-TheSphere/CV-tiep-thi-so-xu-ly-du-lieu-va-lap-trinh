@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2025-03-30T16:33
+updated: 2025-05-02T17:02
 ---
 [[Giao diện là cách để sử dụng vật thể mà không cần biết bên trong nó có gì]]. Đây là một ví dụ về giao diện (interface):
 

@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "b1d02a6f112c9499",
+    "id": "e7800ebf4ce73dc8",
     "type": "split",
     "children": [
       {
-        "id": "d72c2215b1f686c0",
+        "id": "bbba8c35a64f6822",
         "type": "tabs",
         "children": [
           {
-            "id": "739d7b3005fb5de5",
+            "id": "6bc628884e038b85",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "✍️Lập trình/Hệ điều hành, path và terminal/Unix, Linux/Nên cài Linux hay dùng WSL.md",
+                "file": "✍️Lập trình/Công cụ/IDE (VS Code)/Bấm dấu . để mở VS Code bản web ngay trên GitHub.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,31 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Nên cài Linux hay dùng WSL"
-            }
-          },
-          {
-            "id": "1a7bdb61f972d254",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "👏Sản phẩm/Các vấn đề về dịch thuật ngữ.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Các vấn đề về dịch thuật ngữ"
+              "title": "Bấm dấu . để mở VS Code bản web ngay trên GitHub"
             }
           }
         ]
@@ -61,15 +37,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "d62c5917c65b9813",
+    "id": "9ea22bc56e4c00e3",
     "type": "split",
     "children": [
       {
-        "id": "4ba5a7dc9c7a4276",
+        "id": "6f0294d150a93155",
         "type": "tabs",
         "children": [
           {
-            "id": "29b2846c32d2f122",
+            "id": "4c92c6bb75f06a90",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -82,12 +58,12 @@
             }
           },
           {
-            "id": "57295f66442b4930",
+            "id": "f0c1213ec937e57b",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "diff",
+                "query": "=====",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,7 +75,7 @@
             }
           },
           {
-            "id": "79b3f022639622cb",
+            "id": "c760d1c49d00641b",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -108,27 +84,28 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
   "right": {
-    "id": "e37647732be727e3",
+    "id": "5d04946789dd017a",
     "type": "split",
     "children": [
       {
-        "id": "19655b9de87bb64f",
+        "id": "3dd31d33afcd5bc7",
         "type": "tabs",
         "children": [
           {
-            "id": "e19a95641df2d37f",
+            "id": "0e57bb7d738e2e30",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✍️Lập trình/Công cụ/IDE (VS Code)/Phím tắt trong VS Code.md",
+                "file": "✍️Lập trình/Công cụ/IDE (VS Code)/Bấm dấu . để mở VS Code bản web ngay trên GitHub.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,43 +115,51 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Phím tắt trong VS Code"
+              "title": "Backlinks for Bấm dấu . để mở VS Code bản web ngay trên GitHub"
             }
           },
           {
-            "id": "b1ae1669e7e91dc8",
+            "id": "66c82aa2ef064010",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "✍️Lập trình/Công cụ/IDE (VS Code)/Bấm dấu . để mở VS Code bản web ngay trên GitHub.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Bấm dấu . để mở VS Code bản web ngay trên GitHub"
             }
           },
           {
-            "id": "8b7e42292d8a2c99",
+            "id": "2636f4229e0aa6e1",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
           },
           {
-            "id": "bbd55ab890dee9e9",
+            "id": "729a019415b6be35",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "✍️Lập trình/Công cụ/IDE (VS Code)/Bấm dấu . để mở VS Code bản web ngay trên GitHub.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Bấm dấu . để mở VS Code bản web ngay trên GitHub"
             }
           }
         ]
@@ -186,66 +171,45 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian42-brat:BRAT": false,
       "templater-obsidian:Templater": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
-      "open-vscode:VSCode": false,
-      "obsidian42-brat:BRAT": false
+      "open-vscode:VSCode": false
     }
   },
-  "active": "739d7b3005fb5de5",
+  "active": "6bc628884e038b85",
   "lastOpenFiles": [
-    "👏Sản phẩm/Template tạo vault và website mới.md",
-    "👏Sản phẩm/Untitled.md",
-    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Đồng bộ, sao lưu/Git/Git.md",
-    "Ξ Thiết lập/Ảnh/Linux.conf.au 2013 -- Canberra, Australia - Git For Ages 4 And Up [3m7BgIvC-uQ - 963x722 - 21m44s].png",
-    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Đồng bộ, sao lưu/Git/GitHub/Website GitHub giống như là để teamview máy tính của GitHub.md",
-    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Đồng bộ, sao lưu/Git/Blob, tree, ref. Git internals/Lệnh sứ là các lệnh dành cho người dùng. Lệnh ống nước là các lệnh lõi để dùng kèm với các lệnh Unix khác.md",
-    "✍️Lập trình/Hệ điều hành, path và terminal/Unix, Linux/Các chương trình trên Linux hướng đến việc làm tốt đúng một nhiệm vụ duy nhất, và làm tốt việc làm cùng nhau.md",
+    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Đồng bộ, sao lưu/GitHub/Website GitHub giống như là để teamview máy tính của GitHub.md",
+    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Đồng bộ, sao lưu/Git/Lưu trữ (snapshotting)/Stage, index, cache/Untracked, staged, unchanged và unstaged là 4 trạng thái chính của một file.md",
+    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Sắp chữ, thiết kế/Sắp chữ/TeX/Động cơ (TeX, pdfTeX, LuaTeX, XeTeX)/pdfTeX, pdfLaTeX không hỗ trợ unicode tốt bằng LuaTex, LuaLaTex, XeTex, XeLaTex.md",
+    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Đồng bộ, sao lưu/Git/Tách, gộp, chuyển nhánh/Merge, rebase/Khi merge, ours là branch hiện tại. Khi rebase, theirs là branch hiện tại.md",
+    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Đồng bộ, sao lưu/Git/Chia sẻ, cập nhật dự án/Cây lịch sử có thể được dùng như là bản lưu những gì đã diễn ra, hoặc là một câu chuyện kể về chúng.md",
+    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Đồng bộ, sao lưu/Git/Chia sẻ, cập nhật dự án/Merge, rebase/Khi merge, ours là branch hiện tại. Khi rebase, theirs là branch hiện tại.md",
     "✍️Lập trình/Hệ điều hành, path và terminal/Unix, Linux/Nên cài Linux hay dùng WSL.md",
-    "✍️Lập trình/Hệ điều hành, path và terminal/Unix, Linux/Dùng chương trình Linux cho người không biết gì về nó.md",
-    "✍️Lập trình/Hệ điều hành, path và terminal/Unix, Linux",
-    "✍️Lập trình/Hệ điều hành, path và terminal/Các chương trình trên Linux hướng đến việc làm tốt duy nhất một nhiệm vụ, và làm tốt việc làm cùng nhau.md",
-    "✍️Lập trình/Hệ điều hành, path và terminal/Linux/Nên cài Linux hay dùng WSL.md",
-    "✍️Lập trình/Hệ điều hành, path và terminal/Linux/Dùng chương trình Linux cho người không biết gì về nó.md",
-    "✍️Lập trình/Hệ điều hành, path và terminal/Linux/Các chương trình trên Linux hướng đến việc làm tốt duy nhất một nhiệm vụ, và làm tốt việc làm cùng nhau.md",
-    "✍️Lập trình/Hệ điều hành, path và terminal/Linux",
-    "✍️Lập trình/Hệ điều hành, path và terminal/New folder",
-    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Đồng bộ, sao lưu/Git/Git được sinh ra để giải quyết nhu cầu của Linus, một người viết nhân hệ điều hành.md",
+    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Đồng bộ, sao lưu/Git/Lưu trữ (snapshotting)/Khi amend, rebase, push force thì author date vẫn giữ nguyên, còn commit date mới cập nhật.md",
+    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Đồng bộ, sao lưu/Git/Tách, gộp, chuyển nhánh/Git tag.md",
+    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Đồng bộ, sao lưu/Git/Blob, tree, ref. Bên trong Git/Ref/git reflog là phao cứu sinh cho những lỗi lầm khi dùng Git.md",
+    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Đồng bộ, sao lưu/Git/Blob, tree, ref. Bên trong Git/Ref/git reflog giúp xem lại các ref không có trong lịch sử commit.md",
+    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Đồng bộ, sao lưu/Git/Blob, tree, ref. Git internals/Ref/git reflog giúp xem lại các ref không có trong lịch sử commit.md",
+    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Đồng bộ, sao lưu/Git/Blob, tree, ref. Git internals/Blob, tree, commit và annotated tag là các object chính.md",
+    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Đồng bộ, sao lưu/Git/Blob, tree, ref. Git internals/Bản chất của Git chỉ là những cặp giá trị key – value.md",
+    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Đồng bộ, sao lưu/Git/Blob, tree, ref. Git internals/Ref/Ref là hệ thống đặt tên các object.md",
+    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Đồng bộ, sao lưu/Git/Blob, tree, ref. Git internals/Ref/git reflog là phao cứu sinh cho những lỗi lầm khi dùng Git.md",
+    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Đồng bộ, sao lưu/Git/Blob, tree, ref. Git internals/Ref/Có 2 chỗ để lưu ref.md",
+    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Đồng bộ, sao lưu/Git/Thăm dò, so sánh/log/git log --all chỉ hiện những commit nào tiếp cận được từ ref cung cấp.md",
+    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Đồng bộ, sao lưu/Git/Thăm dò, so sánh/diff/git diff thường dùng.md",
+    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Đồng bộ, sao lưu/Git/Các lệnh Git thường dùng.md",
+    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Đồng bộ, sao lưu/Git/Git.md",
+    "🖥️Mạng máy tính/Giao thức/Giao thức là cách để các bên nhận và gửi dữ liệu hiểu nhau.md",
+    "✍️Lập trình/Khái niệm cơ bản và nguyên lý lập trình/Khái niệm cơ bản/Mô đun/Giao diện là cách để sử dụng vật thể mà không cần biết bên trong nó có gì.md",
+    "✍️Lập trình/Khái niệm cơ bản và nguyên lý lập trình/Nguyên lý/Giao diện, giao thức/Giao diện và giao thức đều là những thứ các bên cần tuân thủ để sự giao tiếp được diễn ra, nhưng giao diện nhấn mạnh vào mô hình dữ liệu, còn giao thức nhấn mạnh vào các quy tắc và thủ tục trong quá trình truyền và trao đổi dữ liệu.md",
     "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Đồng bộ, sao lưu/Git/Có thể xem Git là một dạng xích khối.md",
-    "Nơi này là nơi nào.md",
-    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Đồng bộ, sao lưu/Git/Blob, tree, ref. Git internals/Các commit được nối với nhau bằng hash.md",
-    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Đồng bộ, sao lưu/Git/Tất cả những gì Git làm chỉ để làm một việc là điều khiển các đồ thị.md",
-    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Đồng bộ, sao lưu/Git/Repo/Cây lịch sử có thể được dùng như là bản lưu những gì đã diễn ra, hoặc là một câu chuyện kể về chúng.md",
-    "👏Sản phẩm/Các vấn đề về dịch thuật ngữ.md",
-    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Đồng bộ, sao lưu/Git/Repo/Merge, rebase/git merge B nên được hiểu là git merge A with B. git rebase A nên được hiểu là git rebase B to A.md",
-    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Đồng bộ, sao lưu/Git/Repo/Merge, rebase/Rebase thích hợp khi phải merge nhiều branch, do nó làm cây lịch sử gọn hơn.md",
-    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Đồng bộ, sao lưu/Git/Repo/Merge, rebase/Rebase là sự kết hợp giữ.md",
-    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Đồng bộ, sao lưu/Git/Repo/Merge, rebase/Merge dùng để bảo lưu sự song song của các thay đổi đã xảy ra trên code. Rebase dùng để đảm bảo cây lịch sử phản ánh sự tuần tự trong quá trình thay đổi code của mình.md",
-    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Đồng bộ, sao lưu/Git/Git tag.md",
-    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Đồng bộ, sao lưu/Git/Facebook chuyển sang Mercurial vì nhóm phát triển Git năm 2012 không mặn mà với monorepo.md",
-    "✍️Lập trình/CICD/Lifecycle script.md",
-    "✍️Lập trình/CICD/~syncthing~Lifecycle script.md.tmp",
-    "✍️Lập trình/Công cụ/Log, test, debug/Log/LogTape",
-    "✍️Lập trình/Khái niệm cơ bản và nguyên lý lập trình/Nguyên lý/Giao diện, giao thức",
-    "✍️Lập trình/Khái niệm cơ bản và nguyên lý lập trình/Nguyên lý/New folder",
-    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Đồng bộ, sao lưu/Git/Repo/Merge, rebase",
-    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Đồng bộ, sao lưu/Git/Repo/Merge và rebase",
-    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Đồng bộ, sao lưu/Git/Repo/New folder",
-    "`.canvas",
-    "Ξ Thiết lập/Ảnh/SubstitutionPermutationNetwork-en.svg 1.png",
-    "Ξ Thiết lập/Ảnh/SubstitutionPermutationNetwork-en.svg.png",
-    "Ξ Thiết lập/Ảnh/regular_expressions.png",
-    "Ξ Thiết lập/Ảnh/DOM nodes, prototype trong JS.jpg",
-    "Ξ Thiết lập/Ảnh/article html tag.png",
-    "Ξ Thiết lập/Ảnh/cdn-and-serverless.png",
-    "Ξ Thiết lập/Ảnh/Kiến trúc giữa Node và Deno.png",
-    "Ξ Thiết lập/Ảnh/Proxy không ẩn danh 1.png",
-    "Ξ Thiết lập/Ảnh/Proxy ẩn danh.png"
+    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Đồng bộ, sao lưu/Git/Các lỗi Git thường gặp.md"
   ]
 }

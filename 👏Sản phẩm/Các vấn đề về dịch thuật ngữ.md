@@ -1,8 +1,8 @@
 ---
 share: tryue
 created: 2023-10-30T14:29
-updated: 2025-04-30T15:26
 alias: dịch tiếng Anh
+updated: 2025-05-02T17:01
 ---
 ## Những cách dịch lại đề xuất
 - [[Server nên được dịch là máy phục vụ hơn là máy chủ]]

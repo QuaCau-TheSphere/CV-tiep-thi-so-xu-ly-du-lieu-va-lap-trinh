@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-21T17:48
-updated: 2025-03-03T18:48
+updated: 2025-08-01T08:23
 ---
 ## 1. Unions type: |
 
@@ -169,6 +169,7 @@ Thêm dấu ? vào sau thuộc tính để báo rằng value của thuộc tính
 let a = null
 let b =  a ?? "default string";  // default string
 ```
+
 
 Dấu ?? trên có ý nghĩa nếu a có giá trị null thì sẽ b sẽ nhận giá trị "default string " còn ngược lại sẽ nhận giá trị a.
 

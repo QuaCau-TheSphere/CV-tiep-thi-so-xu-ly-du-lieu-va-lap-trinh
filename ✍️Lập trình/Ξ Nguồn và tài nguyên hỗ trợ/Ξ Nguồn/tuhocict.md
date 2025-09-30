@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-24T18:26
-updated: 2024-08-18T15:05
+updated: 2025-05-22T23:40
 ---
 Mình tìm thấy trang này hay. Người viết là giảng viên và có vẻ chú trọng đến sự bao quát hơn là giới thiệu kỹ thuật nói chung. Ở các bài nhập môn  đa phần đều nói về sự thiếu sót của các giáo trình tiếng Việt trước đây. Điều này chứng tỏ rằng họ có sự tách mình ra khỏi sự hối thúc hướng dẫn người khác, để quan sát xem thứ người học nghĩ là họ cần, và thứ người dạy nghĩ là người học cần có đúng là cái mà người học cần hay không.
 

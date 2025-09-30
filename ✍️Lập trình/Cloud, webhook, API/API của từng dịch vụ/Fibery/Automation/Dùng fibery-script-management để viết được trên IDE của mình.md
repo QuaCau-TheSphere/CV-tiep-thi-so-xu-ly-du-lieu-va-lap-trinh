@@ -1,10 +1,10 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2025-03-03T18:48
+updated: 2025-08-06T21:39
 ---
 Nguồn:: [GitHub - mblais/fibery-script-management: Remote script management for Fibery.io automations](https://github.com/mblais/fibery-script-management)
-[[VS Code chỉ là code editor, không phải IDE]]
+[[Do IDE là để compile code, nên chính xác mà nói thì không có IDE cho JS]]
 
 Nếu url có ký tự unicode thì cần unescape nó:
 ```PowerShell

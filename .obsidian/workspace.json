@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "bbba8c35a64f6822",
+        "id": "04ea6ed8f0078c0f",
         "type": "tabs",
         "children": [
           {
-            "id": "6bc628884e038b85",
+            "id": "c51a95318c6fdced",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "✍️Lập trình/Công cụ/IDE (VS Code)/Bấm dấu . để mở VS Code bản web ngay trên GitHub.md",
+                "file": "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Trình soạn thảo (Obsidian)/Ưu tiên dùng API của Obsidian hơn là của Node.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,10 +28,131 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Bấm dấu . để mở VS Code bản web ngay trên GitHub"
+              "title": "Ưu tiên dùng API của Obsidian hơn là của Node"
+            }
+          },
+          {
+            "id": "5757690f780cbf6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "✍️Lập trình/Ngôn ngữ/Ngôn ngữ lập trình/Ngôn ngữ kiểu động/JavaScript/TypeScript/TypeScript.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "TypeScript"
+            }
+          },
+          {
+            "id": "9155abc38213d465",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "✍️Lập trình/Ngôn ngữ/Ngôn ngữ lập trình/Ngôn ngữ kiểu động/JavaScript/Bundler dùng để gom hết tất cả các script lại vào làm một.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Bundler dùng để gom hết tất cả các script lại vào làm một"
+            }
+          },
+          {
+            "id": "c3bcd5eb1b52f7e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "✍️Lập trình/Ngôn ngữ/Ngôn ngữ lập trình/Ngôn ngữ kiểu động/JavaScript/Cái tên ECMAScript là để tránh bị Oracle kiện.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Cái tên ECMAScript là để tránh bị Oracle kiện"
+            }
+          },
+          {
+            "id": "6565d7cdad393879",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "⚒️Nhu cầu công việc/Template tạo vault và website mới.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Template tạo vault và website mới"
+            }
+          },
+          {
+            "id": "d37d8a32a014bbed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "⚒️Nhu cầu công việc/⚒️Nhu cầu công việc.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "⚒️Nhu cầu công việc"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -63,7 +184,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "=====",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,8 +205,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -105,7 +225,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✍️Lập trình/Công cụ/IDE (VS Code)/Bấm dấu . để mở VS Code bản web ngay trên GitHub.md",
+                "file": "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Đồng bộ, sao lưu/Git/Git được sinh ra để giải quyết nhu cầu của Linus, một người viết nhân hệ điều hành.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +235,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Bấm dấu . để mở VS Code bản web ngay trên GitHub"
+              "title": "Backlinks for Git được sinh ra để giải quyết nhu cầu của Linus, một người viết nhân hệ điều hành"
             }
           },
           {
@@ -124,12 +244,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "✍️Lập trình/Công cụ/IDE (VS Code)/Bấm dấu . để mở VS Code bản web ngay trên GitHub.md",
+                "file": "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Đồng bộ, sao lưu/Git/Git được sinh ra để giải quyết nhu cầu của Linus, một người viết nhân hệ điều hành.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Bấm dấu . để mở VS Code bản web ngay trên GitHub"
+              "title": "Outgoing links from Git được sinh ra để giải quyết nhu cầu của Linus, một người viết nhân hệ điều hành"
             }
           },
           {
@@ -153,13 +273,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "✍️Lập trình/Công cụ/IDE (VS Code)/Bấm dấu . để mở VS Code bản web ngay trên GitHub.md",
+                "file": "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Đồng bộ, sao lưu/Git/Git được sinh ra để giải quyết nhu cầu của Linus, một người viết nhân hệ điều hành.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Bấm dấu . để mở VS Code bản web ngay trên GitHub"
+              "title": "Outline of Git được sinh ra để giải quyết nhu cầu của Linus, một người viết nhân hệ điều hành"
             }
           }
         ]
@@ -171,6 +291,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -180,36 +301,47 @@
       "templater-obsidian:Templater": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
-      "open-vscode:VSCode": false
+      "open-vscode:VSCode": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "6bc628884e038b85",
+  "active": "d37d8a32a014bbed",
   "lastOpenFiles": [
-    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Đồng bộ, sao lưu/GitHub/Website GitHub giống như là để teamview máy tính của GitHub.md",
-    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Đồng bộ, sao lưu/Git/Lưu trữ (snapshotting)/Stage, index, cache/Untracked, staged, unchanged và unstaged là 4 trạng thái chính của một file.md",
-    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Sắp chữ, thiết kế/Sắp chữ/TeX/Động cơ (TeX, pdfTeX, LuaTeX, XeTeX)/pdfTeX, pdfLaTeX không hỗ trợ unicode tốt bằng LuaTex, LuaLaTex, XeTex, XeLaTex.md",
-    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Đồng bộ, sao lưu/Git/Tách, gộp, chuyển nhánh/Merge, rebase/Khi merge, ours là branch hiện tại. Khi rebase, theirs là branch hiện tại.md",
-    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Đồng bộ, sao lưu/Git/Chia sẻ, cập nhật dự án/Cây lịch sử có thể được dùng như là bản lưu những gì đã diễn ra, hoặc là một câu chuyện kể về chúng.md",
-    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Đồng bộ, sao lưu/Git/Chia sẻ, cập nhật dự án/Merge, rebase/Khi merge, ours là branch hiện tại. Khi rebase, theirs là branch hiện tại.md",
-    "✍️Lập trình/Hệ điều hành, path và terminal/Unix, Linux/Nên cài Linux hay dùng WSL.md",
-    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Đồng bộ, sao lưu/Git/Lưu trữ (snapshotting)/Khi amend, rebase, push force thì author date vẫn giữ nguyên, còn commit date mới cập nhật.md",
-    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Đồng bộ, sao lưu/Git/Tách, gộp, chuyển nhánh/Git tag.md",
-    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Đồng bộ, sao lưu/Git/Blob, tree, ref. Bên trong Git/Ref/git reflog là phao cứu sinh cho những lỗi lầm khi dùng Git.md",
-    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Đồng bộ, sao lưu/Git/Blob, tree, ref. Bên trong Git/Ref/git reflog giúp xem lại các ref không có trong lịch sử commit.md",
-    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Đồng bộ, sao lưu/Git/Blob, tree, ref. Git internals/Ref/git reflog giúp xem lại các ref không có trong lịch sử commit.md",
-    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Đồng bộ, sao lưu/Git/Blob, tree, ref. Git internals/Blob, tree, commit và annotated tag là các object chính.md",
-    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Đồng bộ, sao lưu/Git/Blob, tree, ref. Git internals/Bản chất của Git chỉ là những cặp giá trị key – value.md",
-    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Đồng bộ, sao lưu/Git/Blob, tree, ref. Git internals/Ref/Ref là hệ thống đặt tên các object.md",
-    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Đồng bộ, sao lưu/Git/Blob, tree, ref. Git internals/Ref/git reflog là phao cứu sinh cho những lỗi lầm khi dùng Git.md",
-    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Đồng bộ, sao lưu/Git/Blob, tree, ref. Git internals/Ref/Có 2 chỗ để lưu ref.md",
-    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Đồng bộ, sao lưu/Git/Thăm dò, so sánh/log/git log --all chỉ hiện những commit nào tiếp cận được từ ref cung cấp.md",
-    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Đồng bộ, sao lưu/Git/Thăm dò, so sánh/diff/git diff thường dùng.md",
-    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Đồng bộ, sao lưu/Git/Các lệnh Git thường dùng.md",
-    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Đồng bộ, sao lưu/Git/Git.md",
-    "🖥️Mạng máy tính/Giao thức/Giao thức là cách để các bên nhận và gửi dữ liệu hiểu nhau.md",
-    "✍️Lập trình/Khái niệm cơ bản và nguyên lý lập trình/Khái niệm cơ bản/Mô đun/Giao diện là cách để sử dụng vật thể mà không cần biết bên trong nó có gì.md",
-    "✍️Lập trình/Khái niệm cơ bản và nguyên lý lập trình/Nguyên lý/Giao diện, giao thức/Giao diện và giao thức đều là những thứ các bên cần tuân thủ để sự giao tiếp được diễn ra, nhưng giao diện nhấn mạnh vào mô hình dữ liệu, còn giao thức nhấn mạnh vào các quy tắc và thủ tục trong quá trình truyền và trao đổi dữ liệu.md",
-    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Đồng bộ, sao lưu/Git/Có thể xem Git là một dạng xích khối.md",
-    "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Đồng bộ, sao lưu/Git/Các lỗi Git thường gặp.md"
+    "⚒️Nhu cầu công việc/Template tạo vault và website mới.md",
+    "⚒️Nhu cầu công việc/⚒️Nhu cầu công việc.md",
+    "Untitled",
+    "⚒️Nhu cầu công việc/Dịch thuật ngữ/Server nên được dịch là máy phục vụ hơn là máy chủ.md",
+    "⚒️Nhu cầu công việc/Dịch thuật ngữ/Chưa rõ lý do vì sao lại dịch object ra thành đối tượng chứ không phải vật thể.md",
+    "⚒️Nhu cầu công việc/Dịch thuật ngữ/Dịch thuật ngữ.md",
+    "🖥️Mạng máy tính/Server là cái máy. Host là cái dịch vụ cung cấp cái máy đó và những thứ liên quan tới nó.md",
+    "Ξ Thiết lập/Ξ Thiết lập.md",
+    "⚒️Nhu cầu công việc/Tiếp thị số/Phân tích web/Facebook/❓Vai trò của các chỉ số trên Facebook trong phân tích web.md",
+    "📊Tổ chức dữ liệu/Việc lưu dữ liệu ở các công cụ khác nhau tạo thành các đảo thông tin.md",
+    "⚒️Nhu cầu công việc/Tiếp thị số/Phân tích web/Facebook/Có những người mình mong họ like nhưng họ lại không phải là người mình cần.md",
+    "⚒️Nhu cầu công việc/Tiếp thị số/Phân tích web/Facebook/Có vẻ như để bài viết dưới dạng link hay dạng ảnh thì Facebook cũng đều phân phối như nhau.md",
+    "⚒️Nhu cầu công việc/Tiếp thị số/Phân tích web/Facebook/Tất cả like, share từ các phiên bản URL khác nhau sẽ được đổ hết về og-url.md",
+    "⚒️Nhu cầu công việc/Tiếp thị số/Phân tích web/Facebook/subdomain m, l, lm.md",
+    "⚒️Nhu cầu công việc/Tiếp thị số/Phân tích web/Facebook/Seeding.md",
+    "⚒️Nhu cầu công việc/Tiếp thị số/Phân tích web/Facebook/Quảng cáo trên Facebook.md",
+    "⚒️Nhu cầu công việc/Tiếp thị số/Phân tích web/Facebook/Để biết được bài đăng của mình tiếp cận được bao nhiêu người, vào Business Suite.md",
+    "⚒️Nhu cầu công việc/Tiếp thị số/Cải thiện tốc độ, tăng khả năng tiếp cận cho người khuyết tật/Nếu không thể làm web nhanh hơn, hãy làm thao tác cuối cùng của người dùng trên web nhanh hơn.md",
+    "⚒️Nhu cầu công việc/Tiếp thị số/Schema/Open Graph và Schema.org là từ vựng. JSON-LD, RDFa và Microdata là ngữ pháp.md",
+    "⚒️Nhu cầu công việc/Tiếp thị số/Schema/Open Graph chuyên cho việc chia sẻ trên mạng xã hội. Schema chuyên cho việc tìm kiếm trên Google.md",
+    "⚒️Nhu cầu công việc/Tiếp thị số/Schema/JSON-LD là một cách để tạo schema.md",
+    "⚒️Nhu cầu công việc/Tiếp thị số/Rút gọn liên kết (đối ⊷ thoại)/Rút gọn liên kết (đối ⊷ thoại).md",
+    "⚒️Nhu cầu công việc/Tiếp thị số/Rút gọn liên kết (đối ⊷ thoại)/Xác định bài đăng giống nhau.md",
+    "⚒️Nhu cầu công việc/Tiếp thị số/Rút gọn liên kết (đối ⊷ thoại)/readme.md",
+    "⚒️Nhu cầu công việc/Tiếp thị số/Tiếp thị số.md",
+    "🔐Bảo mật/Véc tơ khởi tạo (iv) dùng để đảm bảo những bản rõ giống nhau không tạo ra bản mã giống nhau.md",
+    "🔐Bảo mật/Mật mã/Khoá bất đối xứng/Hàm một chiều là hàm giúp sinh ra một bài toán khó giải từ lời giải của nó.md",
+    "Nhu cầu công việc/Dịch thuật",
+    "⚒️Nhu cầu công việc",
+    "✍️Lập trình/Công cụ/IDE/VS Code",
+    "✍️Lập trình/Công cụ/IDE/New folder",
+    "✍️Lập trình/Web/Framework/Server/Island, state",
+    "✍️Lập trình/Web/Framework/Server/Route, handler",
+    "✍️Lập trình/Web/Framework/Server",
+    "✍️Lập trình/Web/Framework/New folder",
+    "✍️Lập trình/Web/Framework/Component, JSX/JSX, props"
   ]
 }

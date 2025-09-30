@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-24T18:26
-updated: 2025-03-03T18:48
+updated: 2025-09-21T22:07
 ---
 Eric Lippert, một trong những implementers của JScript và ở trong hội đồng ECMA vào cuối thập kỷ 90, chia sẻ về lịch sử của JS như sau:
 > Hãy nhớ lại mục đích thiết kế cơ bản của JS vào những năm 1990. **Làm cho con khỉ nhảy múa khi bạn rê chuột.** Chúng tôi coi inline expression script là bình thường, các khối script từ hai đến mười dòng là phổ biến, và cái ý nghĩ rằng sẽ có người viết *hàng trăm dòng* cho một trang thực sự rất bất thường. Tôi nhớ khi tôi lần đầu tiên xem một chương trình JS mười ngàn dòng, câu hỏi đầu tiên của tôi dành cho những người đang cần tôi giúp đỡ vì nó quá chậm so với phiên bản C++ của họ là một phiên bản của "bạn điên à?! 10 ngàn dòng code JS?! "

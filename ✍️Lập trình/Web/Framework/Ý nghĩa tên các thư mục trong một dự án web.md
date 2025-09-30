@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2024-11-24T12:51
+updated: 2025-08-05T22:02
 ---
 Folder structure varies by build system and programming language. Here are some standard conventions:
 - `src/`: "source" files to build and develop the project. This is where the original source files are located, before being compiled into fewer files to `dist/`, `public/` or `build/`.

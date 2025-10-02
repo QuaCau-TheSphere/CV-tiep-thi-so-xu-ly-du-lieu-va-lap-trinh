@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:31
-updated: 2025-03-04T16:01
+updated: 2025-10-02T14:25
 alias:
   - Môi trường thực thi đối với code cũng giống như nhạc cụ đối với nốt nhạc
   - Động cơ đối với code cũng giống như nhạc công đối với nốt nhạc
@@ -25,3 +25,13 @@ Node là một môi trường thực thi cho JavaScript. [[Sau một thập kỷ
 Xem thêm:: [[Stack Overflow]], [What is the difference between JavaScript Engine and JavaScript Runtime Environment - Stack Overflow](https://stackoverflow.com/questions/29027845/what-is-the-difference-between-javascript-engine-and-javascript-runtime-environm)
 
 [[Runtime là lúc chạy, runtime environment là môi trường thực thi. Nhưng nhiều lúc runtime environment được gọi tắt là runtime]]
+
+## Các động cơ được bàn trong kho này
+[[Ngôn ngữ và động cơ thường trùng tên]]
+
+| Ngôn ngữ   | Động cơ       |
+| ---------- | ------------- |
+| JavaScript | V8, Gecko     |
+| Python     | Python        |
+| TeX        | TeX           |
+| bib        | BibTex, Biber |

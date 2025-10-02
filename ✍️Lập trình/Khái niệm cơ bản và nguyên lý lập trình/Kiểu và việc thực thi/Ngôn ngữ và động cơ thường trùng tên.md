@@ -1,6 +1,10 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2025-03-05T18:33
+updated: 2025-10-02T14:24
 ---
-Nguồn:: 
+VD: Python, TeX vừa là tên của ngôn ngữ, vừa là tên của động cơ đọc các ngôn ngữ đó
+
+Nguồn:: [[Tự ngẫm nghĩ, trải nghiệm]]
+
+[[Code giống như các nốt nhạc, động cơ giống như nhạc công, còn môi trường thực thi giống như nhạc cụ]]

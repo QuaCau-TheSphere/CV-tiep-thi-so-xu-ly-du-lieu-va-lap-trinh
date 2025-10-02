@@ -8,7 +8,7 @@ updated: 2025-03-03T18:48
 LIST rows.file.link
 FROM "✍️Lập trình/Công cụ/Docker" 
 WHERE file.name!=this.file.name
-GROUP BY split(file.folder, "/")[2]
+GROUP BY split(file.folder, "/")[3]
 ```
 
 [Hết dung lượng disk do chạy Docker trong thời gian dài](https://viblo.asia/p/het-dung-luong-disk-do-chay-docker-trong-thoi-gian-dai-oK9Vyze94QR#comment-bXP4WgPr47G)

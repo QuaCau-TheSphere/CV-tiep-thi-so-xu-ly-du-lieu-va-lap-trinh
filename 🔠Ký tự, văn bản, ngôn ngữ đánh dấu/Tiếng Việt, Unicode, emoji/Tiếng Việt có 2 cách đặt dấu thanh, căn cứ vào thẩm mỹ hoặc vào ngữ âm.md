@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-08-25T14:20
-updated: 2024-08-31T15:06
+updated: 2025-10-02T14:02
 ---
 - Quy tắc kiểu cũ có phần căn cứ trên nhãn quan, giữ vị trí dấu ở giữa hay gần giữa mỗi từ cho cân bằng. VD: `hòa`
 - Quy tắc kiểu mới căn cứ trên [ngữ âm học](https://vi.wikipedia.org/wiki/Ng%E1%BB%AF_%C3%A2m_h%E1%BB%8Dc "Ngữ âm học") muốn đối chiếu chữ và âm. VD `hoà`
@@ -10,7 +10,7 @@ Nguồn:: [[Wikipedia]], [Quy tắc đặt dấu thanh trong chữ quốc ngữ 
 
 Quy tắc cũ chỉ khác với quy tắc mới ở những từ không có phụ âm cuối. Nếu có phụ âm cuối thì giống như nhau
 
-# Snippet đổi tất cả kiểu cũ sang kiểu mới
+## Snippet đổi tất cả kiểu cũ sang kiểu mới
 ```js
 const kiểuCũ = ['òa', 'óa', 'ỏa', 'õa', 'ọa', 'òe', 'óe', 'ỏe', 'õe', 'ọe', 'ùy', 'úy', 'ủy', 'ũy', 'ụy']
 const kiểuMới = ['oà', 'oá', 'oả', 'oã', 'oạ', 'oè', 'oé', 'oẻ', 'oẽ', 'oẹ', 'uỳ', 'uý', 'uỷ', 'uỹ', 'uỵ']

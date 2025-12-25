@@ -1,12 +1,11 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2025-06-20T14:31
+updated: 2025-10-02T15:36
 ---
-
-# Hướng dẫn sử dụng
-## Viết cấu hình chung
-## Viết cấu hình nơi đăng
+## Hướng dẫn sử dụng
+### Viết cấu hình chung
+### Viết cấu hình nơi đăng
 - 3 cấp bậc đầu: không có dấu `-` phía trước
 - Tất cả các cấp sau: luôn có dấu `-` phía trước. Nếu dưới nó còn có cấp nhỏ hơn thì phải có dấu `:` phía sau
 
@@ -73,7 +72,7 @@ Dùng F G vì cú pháp tiếng Anh cho phép để F ở trước, G ở sau.
 Diễn đàn là đăng và người khác có thể đọc được và có cơ chế xếp hạng bài đăng. Tương tác cao thì sẽ được đẩy lên cao hơn. Chat là chỉ những người vào đó mới đọc được, và không có cơ chế xếp hạng tin nhắn.
 
 Bạn có thể ghi từ khác (VD: subreddit), nhưng sẽ mặc định là giống như nhóm
-# Liên kết rút gọn
+## Liên kết rút gọn
 Nếu có viết tắt thì dùng tên viết tắt, còn không thì lấy ký tự đầu tiên mỗi chữ
 
 - [ ] Convert bài viết thành định dạng phù hợp
@@ -100,7 +99,7 @@ Diễn đàn
 
 
 
-# Hướng dẫn sử dụng
+## Hướng dẫn sử dụng
 Dán liên kết. Bấm <kbd>Ctrl+Enter</kbd>
 Bối cảnh có thể là 
 Để xem nhanh 
@@ -123,7 +122,7 @@ Bạn có thể ghi từ khác (VD: subreddit), nhưng sẽ mặc định là gi
 | 17:56 | 2024-06-02 | 409     | 85.1                    | 65.4             |
 | 20:32 |            | 423     | 98.7                    | 81.3                 |
 
-# Test
+## Test
 | Time  | Request Count | Transferred Bytes (MiB) | KV Read Unit | KV Write Unit | Note             |
 | ----- | ------------- | ----------------------- | ------------ | ------------- | ---------------- |
 | 00:41 | 19            | 14.9                    | 21           | 220           | Start from here  |

@@ -1,14 +1,14 @@
 ---
 share: true
 created: 2023-08-25T14:38
-updated: 2025-04-22T13:29
+updated: 2025-10-02T15:40
 ---
 ![Điều gì xảy ra khi bạn vào một trang web | Cách hoạt động của Browser | TechMely - YouTube](https://youtu.be/II36vixCITs)
 [Networking comic](https://jvns.ca/networking-zine.pdf) 
 
 ```dataview
 LIST rows.file.link
-FROM "🖥️Mạng máy tính" 
+FROM "🛜Mạng máy tính" 
 WHERE file.name!=this.file.name
 group by split(file.folder, "/" )[1] 
 ```

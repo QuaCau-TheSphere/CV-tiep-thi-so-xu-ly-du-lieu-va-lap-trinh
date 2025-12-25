@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-06-10T12:00
-updated: 2025-03-03T18:48
+updated: 2025-10-11T10:07
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_etXec6hBvA?si=cLkyKU_k6xYdsV1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

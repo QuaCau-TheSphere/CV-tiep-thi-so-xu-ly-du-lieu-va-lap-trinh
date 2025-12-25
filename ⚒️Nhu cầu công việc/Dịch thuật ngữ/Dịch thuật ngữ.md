@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2025-09-30T08:04
+updated: 2025-11-05T11:44
 title: Các vấn đề về dịch thuật ngữ
 alias: dịch tiếng Anh
 ---
@@ -83,15 +83,17 @@ Có khi là ở tiếng Anh phân biệt được nhưng tiếng Việt thì kh�
 - `log`
 - `blob`, `hash`
 
+### Để nguyên để lúc đọc tài liệu tiếng Anh thì còn biết
+Ví dụ:
+- [[Server là cái máy. Host là cái dịch vụ cung cấp cái máy đó và những thứ liên quan tới nó]]
+- [[Client gửi token truy cập đến máy cấp quyền để được truy cập tài nguyên]]
+- [[Khi merge, ours là branch hiện tại. Khi rebase, theirs là branch hiện tại]]
+- [[Map trong JS tương đương với dictionary trong Python]]
+- [[Compile time là lúc chuyển từ ngôn ngữ lập trình mà người hiểu sang ngôn ngữ máy chỉ có máy mới hiểu. Runtime là lúc máy chạy mã máy]]
+
 ### Có những cái sai chỉ xuất hiện trong tiếng Anh
 - [[Runtime là lúc chạy, runtime environment là môi trường thực thi. Nhưng nhiều lúc runtime environment được gọi tắt là runtime]]
 - [[Trong JavaScript, khi nói đến runtime thường mọi người chỉ nghĩ đến Node hoặc Deno, và đối lập với trình duyệt. Dù tất cả đều không phải là runtime mà là runtime environment]]
-
-### Để nguyên để còn định nghĩa, để lúc đọc tài liệu tiếng Anh thì còn biết
-- [[Server là cái máy. Host là cái dịch vụ cung cấp cái máy đó và những thứ liên quan tới nó]]
-- [[Client gửi token truy cập đến máy cấp quyền để được truy cập tài nguyên]]
-- `merge`
-- [[Map trong JS tương đương với dictionary trong Python]]
 
 ### Thêm được các tiền tố, hậu tố
 - Số nhiều thêm `s`
@@ -102,11 +104,13 @@ Có khi là ở tiếng Anh phân biệt được nhưng tiếng Việt thì kh�
 - `internet`
 - `lap`, `mic`, `cam`
 - `file`, `folder`
+- `test`
 
 ### Người dùng Tiếng Anh phải chịu đựng sự mơ hồ do đa nghĩa. Tiếng Việt tội gì phải thế?
-- `comment`
+- `comment`: comment là phần chữ được bỏ qua trong code và thường được dùng để giải thích, hay là đưa ra đánh giá, bình luận nói chung?
+
 ### Tiếng Anh dùng bình thường nhưng tiếng Việt dịch ra hơi tệ
-- `manipulation`
+- `manipulation`: thao túng
 
 ## Dịch được
 - `raw`: thô

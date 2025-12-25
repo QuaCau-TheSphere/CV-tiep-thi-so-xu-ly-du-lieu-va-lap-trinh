@@ -4,112 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "04ea6ed8f0078c0f",
+        "id": "1f7376e3ae844946",
         "type": "tabs",
         "children": [
           {
-            "id": "c51a95318c6fdced",
+            "id": "060cbc46468028c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Trình soạn thảo (Obsidian)/Ưu tiên dùng API của Obsidian hơn là của Node.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Ưu tiên dùng API của Obsidian hơn là của Node"
-            }
-          },
-          {
-            "id": "5757690f780cbf6f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "✍️Lập trình/Ngôn ngữ/Ngôn ngữ lập trình/Ngôn ngữ kiểu động/JavaScript/TypeScript/TypeScript.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "TypeScript"
-            }
-          },
-          {
-            "id": "9155abc38213d465",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "✍️Lập trình/Ngôn ngữ/Ngôn ngữ lập trình/Ngôn ngữ kiểu động/JavaScript/Bundler dùng để gom hết tất cả các script lại vào làm một.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Bundler dùng để gom hết tất cả các script lại vào làm một"
-            }
-          },
-          {
-            "id": "c3bcd5eb1b52f7e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "✍️Lập trình/Ngôn ngữ/Ngôn ngữ lập trình/Ngôn ngữ kiểu động/JavaScript/Cái tên ECMAScript là để tránh bị Oracle kiện.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Cái tên ECMAScript là để tránh bị Oracle kiện"
-            }
-          },
-          {
-            "id": "6565d7cdad393879",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "⚒️Nhu cầu công việc/Template tạo vault và website mới.md",
+                "file": "🤖Đường dẫn, tiến trình, terminal, hệ điều hành/Terminal, shell, console/PowerShell/Các lệnh PowerShell thường dùng.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -124,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Template tạo vault và website mới"
-            }
-          },
-          {
-            "id": "d37d8a32a014bbed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "✍️Lập trình/✍️Lập trình.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "✍️Lập trình"
+              "title": "Các lệnh PowerShell thường dùng"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -205,7 +84,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -305,43 +185,44 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d37d8a32a014bbed",
+  "active": "060cbc46468028c5",
   "lastOpenFiles": [
-    "🗄️Tổ chức dữ liệu/Định dạng dữ liệu/Định dạng văn bản/Ngôn ngữ đánh dấu/RDF có thể được biểu diễn bằng JSON-LD.md",
-    "⚒️Nhu cầu công việc/Phân tích dữ liệu/Phân tích mạng lưới/Thế mạnh của RDF triplestore là tạo ra những liên kết mới không có sẵn lúc nhập vào.md",
-    "🗄️Tổ chức dữ liệu/Định dạng dữ liệu/Định dạng dữ liệu.md",
-    "🗄️Tổ chức dữ liệu/Định dạng dữ liệu/Mở rộng quy mô bằng việc nâng cấp RAM, CPU dễ hơn với SQL. Mở rộng quy mô bằng việc chạy cùng lúc nhiều máy dễ hơn với NoSQL.md",
-    "🗄️Tổ chức dữ liệu/Định dạng dữ liệu/Định dạng văn bản/Parser là chương trình để biến dữ liệu dạng chữ thành dữ liệu có cấu trúc.md",
-    "🗄️Tổ chức dữ liệu/Định dạng dữ liệu/Định dạng bảng/Dữ liệu dưới dạng cơ sở dữ liệu đảm bảo các bên tham gia nhập dữ liệu cùng một định dạng.md",
-    "🔠Ký tự, văn bản, ngôn ngữ đánh dấu/Ngôn ngữ đánh dấu/Cây cú pháp trừu tượng (AST) là kết quả của việc phân tích cú pháp một tài liệu có đánh dấu.md",
-    "🗄️Tổ chức dữ liệu/Định dạng dữ liệu/Định dạng văn bản/Ngôn ngữ đánh dấu/Ngôn ngữ đánh dấu.md",
-    "🗄️Tổ chức dữ liệu/Định dạng dữ liệu/Định dạng khối/Khó có thể copy dữ liệu dạng block giữa các app khác nhau.md",
-    "🗄️Tổ chức dữ liệu/Định dạng dữ liệu/Định dạng khối/Giao diện block cho phép người dùng linh hoạt hơn mà vẫn giữ được sự cấu trúc.md",
-    "🗄️Tổ chức dữ liệu/Định dạng dữ liệu/Định dạng khối",
-    "🗄️Tổ chức dữ liệu/Định dạng dữ liệu/Định dạng bảng",
-    "🗄️Tổ chức dữ liệu/Định dạng dữ liệu/New folder",
-    "🗄️Tổ chức dữ liệu/Định dạng dữ liệu/Định dạng văn bản/YAML/YAML được sinh ra để con người đọc và viết metadata một cách dễ dàng.md",
-    "🗄️Tổ chức dữ liệu/Định dạng dữ liệu/Định dạng văn bản/YAML/YAML thì để con người dễ đọc, còn JSON là để máy dễ đọc.md",
-    "🗄️Tổ chức dữ liệu/Định dạng dữ liệu/Định dạng văn bản/YAML/Chuyển từ YAML sang JSON.md",
-    "🗄️Tổ chức dữ liệu/Định dạng dữ liệu/Định dạng văn bản/Ngôn ngữ đánh dấu/XML là dạng dữ liệu bán cấu trúc.md",
-    "🗄️Tổ chức dữ liệu/Định dạng dữ liệu/Định dạng văn bản/Ngôn ngữ đánh dấu/Ngôn ngữ đánh dấu mạnh có thể sử dụng cho dữ liệu có cấu trúc vì spec của nó có nói rõ dữ liệu nên được lưu thế nào.md",
-    "🗄️Tổ chức dữ liệu/Định dạng dữ liệu/Định dạng văn bản/Ngôn ngữ đánh dấu/Chữ ML trong HTML, XML, YAML, TOML là viết tắt của markup language.md",
-    "🗄️Tổ chức dữ liệu/Định dạng dữ liệu/Định dạng văn bản/JSON/JSON Schema dùng để đảm bảo file JSON được viết đúng.md",
-    "🗄️Tổ chức dữ liệu/Định dạng dữ liệu/Định dạng văn bản/JSON/JSON là cách để biểu diễn vật thể ra chữ, chứ tự nó không phải là vật thể.md",
-    "🗄️Tổ chức dữ liệu/Định dạng dữ liệu/Định dạng văn bản/JSON/JSON không cho phép để dư dấu phẩy, không có comment, thuộc tính phải được đóng trong ngoặc kép.md",
-    "🗄️Tổ chức dữ liệu/Định dạng dữ liệu/Định dạng văn bản/JSON/JSON hữu ích trong việc truyền dữ liệu vì nó hướng đến việc trở thành phần giao của các ngôn ngữ, chứ không phải phần hợp của chúng.md",
-    "🗄️Tổ chức dữ liệu/Định dạng dữ liệu/Định dạng văn bản/YAML",
-    "🗄️Tổ chức dữ liệu/Định dạng dữ liệu/Định dạng văn bản/Ngôn ngữ đánh dấu",
-    "🗄️Tổ chức dữ liệu/Định dạng dữ liệu/Định dạng văn bản/JSON",
-    "🗄️Tổ chức dữ liệu/Định dạng dữ liệu/Định dạng văn bản",
-    "🗄️Tổ chức dữ liệu/Định dạng dữ liệu/Văn bản/Ngôn ngữ đánh dấu/XML là dạng dữ liệu bán cấu trúc.md",
-    "🗄️Tổ chức dữ liệu/Định dạng dữ liệu/Văn bản/Ngôn ngữ đánh dấu/RDF có thể được biểu diễn bằng JSON-LD.md",
-    "🗄️Tổ chức dữ liệu/Định dạng dữ liệu/Văn bản/Ngôn ngữ đánh dấu/Ngôn ngữ đánh dấu mạnh có thể sử dụng cho dữ liệu có cấu trúc vì spec của nó có nói rõ dữ liệu nên được lưu thế nào.md",
-    "🗄️Tổ chức dữ liệu/Định dạng dữ liệu/Văn bản/Ngôn ngữ đánh dấu/Ngôn ngữ đánh dấu.md",
-    "🗄️Tổ chức dữ liệu/Định dạng dữ liệu/Văn bản/Ngôn ngữ đánh dấu/Chữ ML trong HTML, XML, YAML, TOML là viết tắt của markup language.md",
-    "🗄️Tổ chức dữ liệu/Định dạng dữ liệu/Văn bản/Ngôn ngữ đánh dấu",
-    "🗄️Tổ chức dữ liệu/Định dạng dữ liệu/Văn bản/Parser là chương trình để biến dữ liệu dạng chữ thành dữ liệu có cấu trúc.md",
-    "🗄️Tổ chức dữ liệu/Định dạng dữ liệu/Block",
-    "🗄️Tổ chức dữ liệu/Định dạng dữ liệu/Văn bản/YAML"
+    "⚒️Nhu cầu công việc/Tiếp thị số/Tạo website/WordPress/WordPress.md",
+    "⚒️Nhu cầu công việc/Tiếp thị số/Tạo website/WordPress/WordPress là một hệ thống quản lý nội dung.md",
+    "⚒️Nhu cầu công việc/Tiếp thị số/Tạo website/WordPress/Untitled.md",
+    "✍️Lập trình/Công cụ/Docker/Docker.md",
+    "✍️Lập trình/Công cụ/Docker/Container là phù du.md",
+    "✍️Lập trình/Công cụ/Docker/Container chỉ là một process.md",
+    "✍️Lập trình/Công cụ/Docker/Việc dựng image được thiết lập qua dockerfile.md",
+    "✍️Lập trình/Công cụ/Docker/Image là template để chạy container.md",
+    "✍️Lập trình/Công cụ/Docker/Docker không dạy bạn cách network hoạt động. Nó chỉ giúp bạn trốn tránh việc phải hiểu nó.md",
+    "✍️Lập trình/Ngôn ngữ/Các ký tự đặc biệt trong các ngôn ngữ khác nhau.md",
+    "🤖Đường dẫn, tiến trình, terminal, hệ điều hành/Terminal, shell, console/PowerShell/Các lệnh PowerShell thường dùng.md",
+    "🗄️Tổ chức dữ liệu/Đồng bộ, sao lưu/Git/Git.md",
+    "🗄️Tổ chức dữ liệu/Đồng bộ, sao lưu/Git/Có thể xem Git là một dạng xích khối.md",
+    "✍️Lập trình/Ngôn ngữ/Ngôn ngữ lập trình/Ý đồ thiết kế/JavaScript và Python/Python tập trung vào việc cung cấp một ngôn ngữ lập trình tổng quát, dễ đọc và dễ viết.md",
+    "✍️Lập trình/Ngôn ngữ/Ngôn ngữ lập trình/Ngôn ngữ kiểu động/JavaScript/Môi trường thực thi (runtime)/Deno/Sau một thập kỷ phát triển, tác giả của Node đã viết Deno để khắc phục những thiếu sót của Node.md",
+    "⚒️Nhu cầu công việc/Sắp chữ, thiết kế/Sắp chữ/Quản lý trích dẫn/CSL và bib là các định dạng lưu trữ trích dẫn khác nhau.md",
+    "⚒️Nhu cầu công việc/Sắp chữ, thiết kế/Sắp chữ/Quản lý trích dẫn/Juris-M dựa trên Zotero và tập trung hơn vào việc đa ngôn ngữ và cho ngành luật.md",
+    "⚒️Nhu cầu công việc/Phân tích dữ liệu/Phân tích dữ liệu.md",
+    "🛜Mạng máy tính/Server là cái máy. Host là cái dịch vụ cung cấp cái máy đó và những thứ liên quan tới nó.md",
+    "🔐Bảo mật/Captcha.md",
+    "🔠Ký tự, văn bản, ngôn ngữ đánh dấu/Ngôn ngữ scripting sinh ra là để xử lý văn bản, không nhấn mạnh về kiểu, khai báo.md",
+    "✍️Lập trình/Ngôn ngữ/Ngôn ngữ lập trình/Ngôn ngữ kiểu động/JavaScript/Cú pháp/Biến được tạo mà không có từ khoá khai báo (var, let, const) luôn là biến toàn cục, kể cả khi được tạo trong hàm.md",
+    "💽Phần cứng/CPU.md",
+    "⚒️Nhu cầu công việc/Quản lý kiến thức/Obsidian/Hộp cát của Lithou tốt hơn hộp cát chính thức của Obsidian.md",
+    "⚒️Nhu cầu công việc/Quản lý kiến thức/Obsidian/Không dùng thẻ style được vì nó đi ngược lại quy định của HTML.md",
+    "🔠Ký tự, văn bản, ngôn ngữ đánh dấu/Ngôn ngữ đánh dấu/Markdown/Markdown phiên bản gốc rất mù mờ, vì tác giả của nó không ngờ rằng nó lại được phổ biến đến vậy.md",
+    "Ξ Thiết lập/Ảnh/origin.png",
+    "💽Phần cứng/Ổ đĩa",
+    "⚒️Nhu cầu công việc/Tiếp thị số/Phân tích web/Facebook/API/~syncthing~Pfbid.md.tmp",
+    "⚒️Nhu cầu công việc/Tiếp thị số/Phân tích web/Facebook/API/~syncthing~Fb hạn chế rất nhiều API để tránh việc làm nhái page.md.tmp",
+    "⚒️Nhu cầu công việc/Tiếp thị số/Mạng xã hội (Facebook)/API",
+    "⚒️Nhu cầu công việc/Ghi chú/Obsidian/Dataview/~syncthing~Dataview.md.tmp",
+    "⚒️Nhu cầu công việc/Quản lý kiến thức/Obsidian/Dataview",
+    "⚒️Nhu cầu công việc/Quản lý kiến thức/Fibery/Automation",
+    "⚒️Nhu cầu công việc/Quản lý kiến thức/Obsidian",
+    "⚒️Nhu cầu công việc/Quản lý kiến thức/Fibery",
+    "⚒️Nhu cầu công việc/Quản lý kiến thức"
   ]
 }

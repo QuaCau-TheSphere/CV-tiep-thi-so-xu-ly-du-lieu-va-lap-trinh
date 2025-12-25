@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2025-06-18T11:26
+updated: 2025-10-02T15:37
 ---
 
 ![The Ultimate Scraper Tutorial | Extract Data Without Code - YouTube](https://youtu.be/26Gt_9kFVok?si=4jzHc0Ni0UEcHZ-p)
@@ -13,7 +13,7 @@ updated: 2025-06-18T11:26
 
 ```dataview
 LIST rows.file.link
-FROM "🔊Tiếp thị số/Tự động hoá trình duyệt"
-GROUP BY split(file.folder, "/")[2]
+FROM "⚒️Nhu cầu công việc/Tiếp thị số/Tự động hoá trình duyệt"
+GROUP BY split(file.folder, "/")[3]
 WHERE file.name != this.file.name
 ```

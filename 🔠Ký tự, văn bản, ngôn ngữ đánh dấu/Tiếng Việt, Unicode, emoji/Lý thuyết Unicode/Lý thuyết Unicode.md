@@ -1,12 +1,12 @@
 ---
 share: true
 created: 2023-09-22T14:54
-updated: 2024-12-02T13:59
+updated: 2025-10-02T15:38
 ---
 ```dataview
 LIST rows.file.link
-FROM "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Ký tự, văn bản, ngôn ngữ đánh dấu/Tiếng Việt, Unicode, emoji/Lý thuyết Unicode" 
-GROUP BY split(file.folder, "/")[4]
+FROM "🔠Ký tự, văn bản, ngôn ngữ đánh dấu/Tiếng Việt, Unicode, emoji/Lý thuyết Unicode" 
+GROUP BY split(file.folder, "/")[3]
 WHERE file.name != this.file.name
 ```
 

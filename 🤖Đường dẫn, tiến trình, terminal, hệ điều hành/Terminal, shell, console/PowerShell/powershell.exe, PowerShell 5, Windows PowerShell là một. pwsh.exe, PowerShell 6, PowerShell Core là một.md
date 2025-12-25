@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2025-03-03T18:48
+updated: 2025-11-11T11:56
 ---
 | Tên phiên bản      | Windows PowerShell | PowerShell Core |
 | ------------------ | ------------------ | --------------- |

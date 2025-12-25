@@ -1,19 +1,27 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2025-05-09T16:12
+updated: 2025-11-11T18:33
 ---
+[[PowerShell là một ngôn ngữ shell]]. [[Shell là cái vỏ bảo vệ nhân của hệ điều hành]]
+
 ## Lịch sử
 | Lệnh                        | Cách dùng                          |
 | --------------------------- | ---------------------------------- |
 | Cuộn lên, cuộn xuống        | <kbd>Alt+↑</kbd>, <kbd>Alt+↓</kbd> |
 | Xem lịch sử các lệnh        | `get-history` hoặc `h`             |
-| Tìm một lệnh mình từng dùng | gõ lệnh đó rồi nhấn `F8`           |
+| Tìm một lệnh mình từng dùng | Gõ lệnh đó rồi nhấn <kbd>F8</kbd>  |
 Nguồn:: [about History - PowerShell | Microsoft Learn](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_history?view=powershell-7.3)
 
-[[PowerShell là một ngôn ngữ shell]]. [[Shell là cái vỏ bảo vệ nhân của hệ điều hành]]
 [The Complete Guide to PowerShell Punctuation - Simple Talk](https://www.red-gate.com/simple-talk/sysadmin/powershell/the-complete-guide-to-powershell-punctuation/)
-## Tạo nhiều folder
+
+| Lệnh                  | Cách dùng                                      |
+| --------------------- | ---------------------------------------------- |
+| Markmode              | <kbd>Ctrl+Shift+M</kbd>                        |
+| Tạo pane mới          | <kbd>Alt+Shift+-</kbd>, <kbd>Alt+Shift++</kbd> |
+| Thay đổi kích cỡ pane | <kbd>Alt+Shift+↑</kbd>, <kbd>Alt+Shift+↓</kbd> |
+
+## Tạo nhiều thư mục
 ```PowerShell
 $list=(ls -name -directory).substring(1)
 foreach ($i in $list) {

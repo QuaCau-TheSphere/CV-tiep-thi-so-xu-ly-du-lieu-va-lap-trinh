@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2025-03-04T15:47
+updated: 2025-10-09T15:55
 alias:
   - Runtime là lúc chạy
   - Runtime environment là môi trường thực thi

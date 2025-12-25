@@ -1,10 +1,10 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2025-05-22T23:45
+updated: 2025-10-02T15:36
 ---
 ```dataview
 LIST
-FROM "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Tạo website/Lume"
+FROM "⚒️Nhu cầu công việc/Tiếp thị số/Tạo website/Lume"
 WHERE file.name != this.file.name
 ```

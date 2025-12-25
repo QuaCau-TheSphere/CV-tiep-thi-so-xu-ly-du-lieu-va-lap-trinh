@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2024-08-18T15:05
+updated: 2025-10-27T16:22
 ---
 Mô tả vấn đề: có nhiều loại thông tin không phải lúc nào cũng được ghi, và không phải cứ thay đổi là khác nhau. VD: cùng một bài đăng, nhưng URL có thể đã thay đổi khi đổi đường dẫn, tiêu đề có thể đã được viết lại, nội dung có thể đã được cập nhật, vault và dự án có thể đã được cấu trúc lại. Tất cả mọi thứ đều có thể đã khác, nhưng ta vẫn xem chúng là giống nhau. Đây là nghịch lý con tàu Theseus điển hình.
  

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2025-03-03T18:48
+updated: 2025-11-14T19:22
 ---
 Hãy tưởng tượng về một thế giới đằng sau một tấm gương thần. Bạn nhìn thấy thế giới đó, nhưng không thể tới được nó. Nhưng bạn có thể nói chuyện với người trực gương ở thế giới bên kia, và họ sẽ chuyển lời của bạn đến những người khác trong thế giới trong gương, cũng như nói cho bạn biết chuyện gì đang xảy ra ở đó. Nhưng thực ra bạn cũng không thể nói chuyện với người đó bằng lời được, mà phải chat bằng bàn phím.
 

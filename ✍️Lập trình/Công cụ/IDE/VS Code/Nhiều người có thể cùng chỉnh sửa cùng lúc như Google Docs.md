@@ -1,8 +1,8 @@
 ---
 share: true
 created: 2023-10-05T17:40
-updated: 2025-08-06T21:37
+updated: 2025-10-09T09:11
 ---
 ![](https://youtu.be/I7TZdfSaAhk?si=P93mHushcBJ095hY) 
 
-[[File Google Docs không thực sự là file]]
+[[Tệp Google Docs không thực sự là tệp]]

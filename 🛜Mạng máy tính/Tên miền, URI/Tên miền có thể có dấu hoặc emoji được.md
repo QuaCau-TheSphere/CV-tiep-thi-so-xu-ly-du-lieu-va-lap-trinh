@@ -1,8 +1,10 @@
 ---
 share: true
 created: 2023-10-24T18:26
-updated: 2024-09-09T20:48
+updated: 2026-03-06T15:52
+blog: true
 ---
+# Tên miền có dấu?
 Tên miền mà cũng có thể có dấu ư? Nói thiệt là cái này nhiều người hỏi lắm. Nhiều người chắc vẫn nghĩ là tên miền thì bắt buộc phải là không dấu. Nhưng tên miền có dấu (hay nói chính xác hơn là tên miền có ký tự Unicode) đã được triển khai từ năm 2010 rồi. Thậm chí emoji còn có thể dùng cho tên miền được luôn. Có hẳn một trang web thống kê các tên miền dùng emoji trong tên miền luôn: [i❤️.ws](https://xn--i-7iq.ws/)
 
 Còn tại sao website này dùng tên miền có dấu? Lý do đơn giản là vì đọc chữ có dấu vẫn thích hơn chữ không dấu chứ. Nó cũng giống như việc ai cũng nói được tiếng Anh cả, nhưng được nói tiếng Việt là một điều sung sướng vậy. Việc dùng nó cũng có ưu điểm là tạo được ấn tượng ban đầu mạnh (chắc là với nhiều người đây là lần đầu tiên họ biết là tên miền cũng có thể có dấu). Và miễn là bài viết có chất lượng thì những nhược điểm của nó sẽ thành không quá lớn.

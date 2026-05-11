@@ -1,9 +1,9 @@
 ---
 share: true
 created: 2023-09-22T21:08
-updated: 2025-03-03T18:48
+updated: 2026-02-05T17:13
 ---
-Nguồn:: ![](https://www.youtube.com/watch?v=qOcxwRc2Epg&t=0s) 
+Nguồn:: ![Why You Can Tweet More In Japanese: What Counts As A Character? - YouTube](https://www.youtube.com/watch?v=qOcxwRc2Epg)
 
 [[Điểm mã không phải là cách để máy tính lưu ký tự]]
 [[Điểm mã liên quan đến việc con người đánh số thứ tự của ký tự thế nào. Đơn vị mã liên quan đến việc máy tính dùng phương thức nào để biết tìm ký tự đó ở đâu]]

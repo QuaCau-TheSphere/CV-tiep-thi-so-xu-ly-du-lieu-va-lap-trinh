@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-05-26T14:51
-updated: 2025-06-10T11:34
+updated: 2026-01-08T13:07
 ---
 [GitHub - GitAlias/gitalias: Git alias commands for faster easier version control](https://github.com/GitAlias/gitalias)
 [GitHub - initialcommit-com/git-sim: Visually simulate Git operations in your own repos with a single terminal command.](https://github.com/initialcommit-com/git-sim)
@@ -64,3 +64,12 @@ Xem thêm:: [GitHub - git-tips/tips: Most commonly used git tips and tricks.](ht
 ```PowerShell
 Get-ChildItem deploy.yml -recurse | ForEach-Object { (Get-Content $_).Replace('actions/checkout@v3','actions/checkout@v4').Replace('actions/configure-pages@v3','actions/configure-pages@v4').Replace('actions/upload-pages-artifact@v2','actions/upload-pages-artifact@v3').Replace('actions/deploy-pages@v1','actions/deploy-pages@v4') | Set-Content $_ }
 ```
+
+
+git config --global core.quotePath false
+git config --global core.longpaths true
+git config --global core.autocrlf true
+git config --global core.safecrlf false
+//`autocrlf` is to control whether transform line endings when `add`/`checkout`, while `safecrlf` is to control whether warn users when doing such transformations.
+git pull origin branchname --allow-unrelated-histories
+git config --global alias.add-commit '!git add -A && git commit'

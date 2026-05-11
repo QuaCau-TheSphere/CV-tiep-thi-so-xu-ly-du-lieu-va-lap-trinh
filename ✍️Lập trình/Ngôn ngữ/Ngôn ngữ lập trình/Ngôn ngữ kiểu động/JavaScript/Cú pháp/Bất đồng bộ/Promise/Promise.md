@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2025-03-04T15:47
+updated: 2026-03-31T14:37
 description: Thứ gì được truyền vào `resolve()` sẽ được truyền vào `result` và vào `then()`. Thứ gì được truyền vào `reject()` sẽ được truyền vào `result` và vào `catch()`
 ---
 [[Vật thể là dạng dữ liệu có những thuộc tính thành phần]]. [[Lớp là một cái khuôn để tạo các vật thể cho nhanh]]. `Promise` vừa là tên của một lớp được định nghĩa sẵn trong JS, vừa là tên hay được đặt cho các vật thể được tạo ra từ lớp đó:
@@ -109,4 +109,5 @@ FROM "✍️Lập trình/Ngôn ngữ/Ngôn ngữ lập trình/JavaScript và Pyt
 group by split(file.folder, "/")[8]
 WHERE file.name != this.file.name
 ```
+
 

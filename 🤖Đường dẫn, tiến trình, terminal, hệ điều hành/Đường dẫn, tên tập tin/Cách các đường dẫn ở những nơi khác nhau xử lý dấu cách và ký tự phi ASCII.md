@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2025-03-03T18:48
+updated: 2026-02-04T13:06
 alias:
   - markdown, URL, domain xử lý
 ---
@@ -23,3 +23,6 @@ Nên tránh dùng ký tự `%` trong tên tập tin, nhất là nếu sau này s
 [[Sự khác biệt giữa Windows và Android, Mac trong tên file]]
 
 [[Các ký tự ASCII có 1 điểm mã]]
+[[decodeURI không giải mã được dấu %]]
+
+![The Link That Can Crash Chrome: http://a/%%30%30 - YouTube](https://www.youtube.com/watch?v=0fw5Cyh21TE)

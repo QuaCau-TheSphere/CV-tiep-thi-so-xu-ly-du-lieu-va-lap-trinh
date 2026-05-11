@@ -1,11 +1,11 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2025-11-11T18:33
+updated: 2026-04-21T20:05
 ---
 [[PowerShell là một ngôn ngữ shell]]. [[Shell là cái vỏ bảo vệ nhân của hệ điều hành]]
 
-## Lịch sử
+## Xem lịch sử
 | Lệnh                        | Cách dùng                          |
 | --------------------------- | ---------------------------------- |
 | Cuộn lên, cuộn xuống        | <kbd>Alt+↑</kbd>, <kbd>Alt+↓</kbd> |

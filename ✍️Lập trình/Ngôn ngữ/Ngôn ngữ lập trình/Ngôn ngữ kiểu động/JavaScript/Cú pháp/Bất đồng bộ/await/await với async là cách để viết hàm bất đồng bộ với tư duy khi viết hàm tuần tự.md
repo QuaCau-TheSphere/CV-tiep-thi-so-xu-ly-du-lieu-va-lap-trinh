@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2025-03-03T18:48
+updated: 2026-03-21T23:44
 ---
 [Why is my variable unaltered after I modify it inside of a function? - Asynchronous code reference](https://stackoverflow.com/q/23667086/3416774)
 ![](https://wizardzines.com/images/uploads/async-functions.png) 

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2026-05-10T22:56
+updated: 2026-07-06T21:40
 title: Các vấn đề về dịch thuật ngữ
 alias: dịch tiếng Anh
 ---
@@ -35,6 +35,7 @@ VD như cú pháp, tên thư viện, v.v.
 - `pass`
 - `enter`, `escape`, `home`, `end`
 - `tab`
+- `framework`
 
 ### Chưa biết dịch làm sao
 Có khi là ở tiếng Anh phân biệt được nhưng tiếng Việt thì không:

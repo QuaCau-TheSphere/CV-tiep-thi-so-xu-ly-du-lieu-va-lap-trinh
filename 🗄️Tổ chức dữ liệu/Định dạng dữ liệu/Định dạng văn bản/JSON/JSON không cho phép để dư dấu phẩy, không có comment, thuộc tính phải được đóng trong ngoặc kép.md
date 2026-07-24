@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-01-12T14:31
-updated: 2025-10-02T14:49
+updated: 2026-07-06T21:41
 ---
 JSON là để cho máy viết, không phải cho người viết. Người muốn viết thì dùng YAML sẽ tốt hơn.
 - Thuộc tính phải được đóng trong ngoặc kép để:

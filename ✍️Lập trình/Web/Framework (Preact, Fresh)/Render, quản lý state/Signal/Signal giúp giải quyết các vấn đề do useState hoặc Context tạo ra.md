@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2025-08-05T22:03
+updated: 2026-07-06T21:40
 ---
 Vấn đề từ `useState`:
 ![Image showing how the depth of the component tree directly affects rendering performance when using standard state updates.](https://preactjs.com/signals/state-updates.png) 

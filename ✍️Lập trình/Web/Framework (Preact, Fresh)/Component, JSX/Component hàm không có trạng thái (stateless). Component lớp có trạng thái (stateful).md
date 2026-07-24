@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2025-08-05T22:04
+updated: 2026-07-06T21:40
 ---
 Component hàm chỉ hữu ích khi dùng hook
 Nguồn:: ![#13 Stateless/StateFull Components | React Cơ Bản Cho Beginners Từ A đến Z](https://youtu.be/geRMeU1JExk?si=WrqoU8GRdyT7po1S)

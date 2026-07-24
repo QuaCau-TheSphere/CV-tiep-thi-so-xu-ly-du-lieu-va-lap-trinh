@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2025-06-18T11:27
+updated: 2026-07-06T21:41
 title: "Có 4 loại vật thể (4 lớp): Tag, NavigableString, BeautifulSoup, và Comment"
 ---
 [[Tag là từ điển]]. [[NavigableString là những chữ có trong tag]]

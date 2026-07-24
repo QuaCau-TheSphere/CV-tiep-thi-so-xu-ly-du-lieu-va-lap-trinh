@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2025-03-05T11:33
+updated: 2026-07-06T21:41
 ---
 The behavior of some of the readers and writers can be adjusted by enabling or disabling various extensions.
 

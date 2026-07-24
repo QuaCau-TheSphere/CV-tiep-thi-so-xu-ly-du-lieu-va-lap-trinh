@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2025-08-05T22:03
+updated: 2026-07-06T21:40
 ---
 
 `side-effect` có thể hiểu là một khái niệm miêu tả các tính toán bên trong một hàm ảnh hưởng đến các đối tượng bên ngoài không thông qua đối số. Mình cho một ví dụ như thế này

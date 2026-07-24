@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2024-08-18T15:05
+updated: 2026-07-06T21:40
 ---
 # Thử nhanh
 Sau khi cài đặt Git, Deno và clone repo này về thì chạy lệnh sau trên terminal:

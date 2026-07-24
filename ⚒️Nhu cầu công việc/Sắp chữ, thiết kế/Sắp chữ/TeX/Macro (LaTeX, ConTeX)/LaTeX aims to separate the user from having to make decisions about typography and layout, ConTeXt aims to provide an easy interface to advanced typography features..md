@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2025-03-06T22:27
+updated: 2026-07-06T21:40
 ---
 LaTeX aims to separate the user from having to make decisions about typography and layout (you type `\section` and `\emph` but you don't worry about what these do - that's left to the document class or layout). On the other hand, ConTeXt aims to provide an easy interface to advanced typography features.
 

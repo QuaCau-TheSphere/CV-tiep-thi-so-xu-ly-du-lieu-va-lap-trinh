@@ -1,10 +1,10 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2025-08-06T21:39
+updated: 2026-07-08T15:32
 ---
 Nguồn:: [GitHub - mblais/fibery-script-management: Remote script management for Fibery.io automations](https://github.com/mblais/fibery-script-management)
-[[Do IDE là để compile code, nên chính xác mà nói thì không có IDE cho JS]]
+[[Sự khác biệt giữa IDE và trình soạn thảo văn bản nằm ở việc compile code. Nên chính xác mà nói thì không có IDE để viết JS cho máy khách]]
 
 Nếu url có ký tự unicode thì cần unescape nó:
 ```PowerShell

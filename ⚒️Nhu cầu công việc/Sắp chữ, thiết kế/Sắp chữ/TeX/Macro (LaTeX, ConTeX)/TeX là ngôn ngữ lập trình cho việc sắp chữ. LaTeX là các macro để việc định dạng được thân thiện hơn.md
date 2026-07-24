@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2025-03-06T22:27
+updated: 2026-07-06T21:40
 ---
 
 In TeX, you learn the **basic things** and use that to do what you want.

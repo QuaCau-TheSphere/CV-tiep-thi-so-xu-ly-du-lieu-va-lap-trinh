@@ -1,6 +1,6 @@
 ---
 created: 2023-05-26T14:51
-updated: 2024-01-29T20:05
+updated: 2026-07-06T21:41
 ---
 [![Netlify Status](https://api.netlify.com/api/v1/badges/d9336299-edda-48bd-8730-31157c65758e/deploy-status)](https://app.netlify.com/sites/obsidian-thesphere/deploys)
 

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2025-09-28T17:09
+updated: 2026-07-06T21:40
 ---
 .htaccess không chứa mã độc. Nhưng nó mở cửa cho việc upload file JS vào thư mục.
 

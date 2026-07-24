@@ -2,7 +2,7 @@
 share: true
 created: 2023-10-30T14:29
 alias: protocol
-updated: 2025-09-12T14:41
+updated: 2026-07-06T21:41
 ---
 Nguồn:: ![What is a Protocol? (Deepdive) - YouTube](https://www.youtube.com/watch?v=d-zn-wv4Di8)
 

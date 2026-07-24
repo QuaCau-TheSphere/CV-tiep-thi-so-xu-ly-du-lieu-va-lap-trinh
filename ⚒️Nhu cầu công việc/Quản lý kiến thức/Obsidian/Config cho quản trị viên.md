@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2025-10-12T16:19
+updated: 2026-07-06T21:40
 ---
 
 |                                                                                             | Thay đổi thường xuyên phía NQT | Bản mới nhất của NQT nên là bản cho người mới cài | Bản mặc định của Obsidian là không đúng ý                            | Cần tiếp tục cập nhật cho những người đã cài rồi | Thay đổi thường xuyên phía người dùng | Người dùng cần cập nhật cho mọi người |

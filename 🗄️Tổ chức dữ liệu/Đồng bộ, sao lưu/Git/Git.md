@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-01-27T13:38
-updated: 2025-10-02T15:39
+updated: 2026-07-06T21:41
 ---
 # Học Git
 Git thật hữu dụng, nhưng với những người mới tập làm quen với Git thì sẽ thấy ngộp nếu phải nhảy ngay vào giao diện dòng lệnh. Các client cung cấp giao diện đồ hoạ cho Git như [Sourcetree](https://www.sourcetreeapp.com/) hoặc [GitKraken](https://www.gitkraken.com/git-client) tuy đã làm tăng sự thân thiện và trực quan lên rất nhiều, nhưng vẫn chưa thể làm bạn hết bối rối vì chúng vẫn phải trưng ra nhiều nút bấm. Dù sao thì chúng được sinh ra để bạn dùng Git, chứ không phải để dạy bạn dùng Git. 

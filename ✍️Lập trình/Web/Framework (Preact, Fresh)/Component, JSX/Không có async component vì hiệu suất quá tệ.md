@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2025-08-06T21:36
+updated: 2026-07-06T21:40
 ---
 Async route components are not really components. They are route handlers which happen to return JSX and then the JSX gets rendered. You cannot pass them to other components and instantiate them as if they were components, because they're not
 

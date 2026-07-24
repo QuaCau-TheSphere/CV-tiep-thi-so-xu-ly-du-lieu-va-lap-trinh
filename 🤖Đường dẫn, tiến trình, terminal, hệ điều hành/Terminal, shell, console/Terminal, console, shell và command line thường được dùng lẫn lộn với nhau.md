@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-24T18:26
-updated: 2025-11-14T19:22
+updated: 2026-07-06T21:41
 ---
 [[Shell là cái vỏ bảo vệ nhân của hệ điều hành]]. [[Terminal là cái chương trình để làm việc với shell]]
 

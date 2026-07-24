@@ -10,6 +10,6 @@
   "filterUsingDescription": false,
   "initializeAfterPluginChanges": true,
   "reloadAfterPluginChanges": false,
-  "disabledStates": "{\"plugins\":[[\"metadata-menu\",\"obsidian-git\",\"folder-note-plugin\",\"obsidian-excalidraw-plugin\",\"obsidian-contextual-typography\"]]}",
-  "snapshots": "{\"plugins\":[\"metadata-menu\",\"obsidian-git\",\"folder-note-plugin\",\"obsidian-excalidraw-plugin\",\"obsidian-contextual-typography\"]}"
+  "disabledStates": "{\"plugins\":[[\"metadata-menu\",\"folder-note-plugin\",\"obsidian-excalidraw-plugin\",\"obsidian-contextual-typography\"]]}",
+  "snapshots": "{\"plugins\":[\"metadata-menu\",\"folder-note-plugin\",\"obsidian-excalidraw-plugin\",\"obsidian-contextual-typography\"]}"
 }

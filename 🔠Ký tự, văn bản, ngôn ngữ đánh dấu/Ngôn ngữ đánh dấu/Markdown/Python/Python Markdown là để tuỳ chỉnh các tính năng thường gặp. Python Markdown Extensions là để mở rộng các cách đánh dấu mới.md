@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2024-11-30T13:54
+updated: 2026-07-06T21:41
 ---
 [Python-Markdown — Python-Markdown 3.7 documentation](https://python-markdown.github.io/ "Python-Markdown — Python-Markdown 3.7 documentation")
 

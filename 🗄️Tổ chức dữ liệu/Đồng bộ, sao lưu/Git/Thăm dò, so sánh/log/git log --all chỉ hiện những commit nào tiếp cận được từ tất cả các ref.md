@@ -1,9 +1,9 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2025-05-02T17:07
+updated: 2026-07-07T14:54
 ---
-[[Ref là hệ thống đặt tên các object]]. Để biết có ref nào đang đính vào commit nào, dùng 
+[[Ref là hệ thống đặt tên các vật thể git]]. Để biết có ref nào đang đính vào commit nào, dùng 
 ```
 git log --oneline --all --source
 ```

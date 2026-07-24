@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2024-12-04T15:44
+updated: 2026-07-06T21:40
 ---
 Nếu chỉ cần state để tạo UI thì là client-side render. Nếu chỉ cần data thì là server-side render
 

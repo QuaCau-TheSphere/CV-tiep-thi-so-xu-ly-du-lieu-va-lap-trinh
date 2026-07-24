@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2025-08-05T22:04
+updated: 2026-07-06T21:40
 ---
 Handlers in Fresh are part of the routing mechanism. They are called before the component function is called. Typically they are used to pull data from a database or another API. They can be thought of as a middleware to the current route.
 

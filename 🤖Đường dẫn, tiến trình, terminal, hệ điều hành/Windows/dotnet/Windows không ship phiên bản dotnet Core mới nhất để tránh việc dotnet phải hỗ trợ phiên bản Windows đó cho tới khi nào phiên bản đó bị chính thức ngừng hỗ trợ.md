@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2025-10-02T14:01
+updated: 2026-07-06T21:41
 ---
 Nói cách khác là để tách biệt vòng đời của 2 sản phẩm
 

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2025-08-05T22:04
+updated: 2026-07-06T21:40
 ---
 Passing props to islands is supported, but only if the props are serializable. Fresh can serialize the following types of values:
 

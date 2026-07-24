@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-19T20:37
-updated: 2024-09-01T17:43
+updated: 2026-07-06T21:40
 ---
 ```django
 {% extends "base.html" %}

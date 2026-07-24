@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2025-10-12T13:17
+updated: 2026-07-06T21:40
 ---
 
 App chỉ đọc đc những event của page (mà app đó quản lý hoặc có quyền quản lý) th.

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2025-10-02T14:58
+updated: 2026-07-06T21:41
 ---
 Giả sử ta cần nâng một cái tủ nặng. Nâng cấp RAM, CPU giống như phát triển cơ bắp cho bản thân để tự mình vác được nó. Chạy cùng lúc nhiều máy giống như có thêm nhiều người cùng vác nó.
 

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2025-10-13T09:05
+updated: 2026-07-06T21:40
 ---
 Có vẻ như toàn bộ script sẽ được bọc trong một hàm. `return` của hàm này sẽ cho thông báo
 Nguồn:: [What is the JS version? - API & Programming - Fibery Community](https://community.fibery.io/t/what-is-the-js-version/4837/9?u=ooker)

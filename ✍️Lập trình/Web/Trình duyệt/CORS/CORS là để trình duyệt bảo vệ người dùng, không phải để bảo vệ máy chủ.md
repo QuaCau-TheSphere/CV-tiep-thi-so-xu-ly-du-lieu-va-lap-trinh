@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2026-04-21T20:14
+updated: 2026-07-06T21:40
 alias: same-origin policy là để trình duyệt bảo vệ người dùng, không phải để bảo vệ máy chủ
 ---
 You are at work and you're connected to your company's intranet. Only people in your company's network can see this special website containing secret documents.

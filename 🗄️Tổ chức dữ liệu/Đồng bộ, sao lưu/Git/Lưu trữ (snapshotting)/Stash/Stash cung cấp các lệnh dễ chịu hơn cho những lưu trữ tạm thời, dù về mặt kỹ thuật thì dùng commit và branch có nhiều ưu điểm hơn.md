@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2025-05-03T00:20
+updated: 2026-07-06T21:41
 ---
 Bởi vì [[Stash là một commit, có cha là commit HEAD và mẹ là commit từ index|stash cũng chỉ là commit]], mà việc apply dễ bị lộn xộn, nhất là khi muốn áp vào một nhánh khác chứ không phải nhánh được stash, nên dùng thẳng commit sẽ hợp lý hơn trong nhiều trường hợp. 
 

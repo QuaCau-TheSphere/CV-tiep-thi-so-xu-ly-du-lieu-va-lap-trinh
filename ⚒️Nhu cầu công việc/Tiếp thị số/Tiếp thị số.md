@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-26T13:45
-updated: 2025-10-02T15:35
+updated: 2026-07-06T21:40
 ---
 [GitHub - oscarotero/awesome-design: A collection of open resources for web designers](https://github.com/oscarotero/awesome-design)
 

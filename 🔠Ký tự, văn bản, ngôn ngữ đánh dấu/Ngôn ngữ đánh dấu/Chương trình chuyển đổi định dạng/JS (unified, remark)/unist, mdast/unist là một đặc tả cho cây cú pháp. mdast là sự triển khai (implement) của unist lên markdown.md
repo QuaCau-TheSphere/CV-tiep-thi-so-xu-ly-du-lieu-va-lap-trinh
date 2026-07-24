@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2025-03-03T18:48
+updated: 2026-07-06T21:41
 ---
 unist is not intended to be self-sufficient. Instead, it is expected that other specifications implement unist and extend it to express language specific nodes. For example, see projects such as **[hast](https://github.com/syntax-tree/hast)** (for HTML), **[nlcst](https://github.com/syntax-tree/nlcst)** (for natural language), **[mdast](https://github.com/syntax-tree/mdast)** (for Markdown), and **[xast](https://github.com/syntax-tree/xast)** (for XML).
 

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2025-10-02T14:49
+updated: 2026-07-06T21:41
 ---
 [List of types of XML schemas - Wikipedia](https://en.wikipedia.org/wiki/List_of_types_of_XML_schemas)
 [List of XML markup languages - Wikipedia](https://en.wikipedia.org/wiki/List_of_XML_markup_languages#H)

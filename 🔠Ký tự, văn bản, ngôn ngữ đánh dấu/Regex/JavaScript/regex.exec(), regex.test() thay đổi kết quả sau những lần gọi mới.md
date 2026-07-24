@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-08-25T14:20
-updated: 2025-08-01T07:38
+updated: 2026-07-06T21:41
 ---
 Nguồn:: [[MDN]], [RegExp.prototype.test() - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp/test)
 

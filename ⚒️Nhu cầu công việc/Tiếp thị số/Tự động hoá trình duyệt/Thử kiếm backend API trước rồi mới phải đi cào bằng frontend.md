@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2025-06-18T11:27
+updated: 2026-07-06T21:40
 ---
 Nguồn:: 
 ![The Biggest Mistake Beginners Make When Web Scraping - YouTube](https://youtu.be/G7s0eGOaRPE?si=ANRwjI3g9xinqAil)

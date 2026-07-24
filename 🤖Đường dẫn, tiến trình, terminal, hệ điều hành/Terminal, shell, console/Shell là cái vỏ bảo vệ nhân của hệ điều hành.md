@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-24T18:26
-updated: 2025-05-08T22:58
+updated: 2026-07-06T21:41
 ---
 Để giao tiếp với nhân của hệ điều hành cần phải dùng tới shell. [[Terminal là cái chương trình để làm việc với shell]] 
 ![](https://srinisbookcom.files.wordpress.com/2020/11/bb6fa-kernel_shell.jpg) 

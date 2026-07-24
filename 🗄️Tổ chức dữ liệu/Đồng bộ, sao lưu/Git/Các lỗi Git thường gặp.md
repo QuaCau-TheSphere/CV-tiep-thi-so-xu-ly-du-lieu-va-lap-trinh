@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-19T17:01
-updated: 2026-01-04T16:56
+updated: 2026-07-06T21:41
 ---
 [[git reflog là phao cứu sinh cho những lỗi lầm khi dùng Git]]
 ## Quên add
@@ -9,7 +9,7 @@ updated: 2026-01-04T16:56
 ## Không thấy folder mình tạo được add
 Lý do:: [[Git không biết gì về folder]]
 
-## Thêm file vào  .gitignore rồi mà vẫn không thấy file bị ignore
+## Thêm file vào .gitignore rồi mà vẫn không thấy file bị ignore
 
 ## Lỡ commit file nặng
 ```

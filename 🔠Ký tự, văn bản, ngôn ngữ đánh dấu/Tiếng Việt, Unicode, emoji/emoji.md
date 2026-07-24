@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2026-02-05T17:08
+updated: 2026-07-06T21:41
 ---
 Khái niệm:: 
 ![Accidental Emoji Expert: Tom Scott at An Evening of Unnecessary Detail - YouTube](https://youtu.be/5OPkGQoPeHk?si=1qjWTUkMGiZeuuuM)

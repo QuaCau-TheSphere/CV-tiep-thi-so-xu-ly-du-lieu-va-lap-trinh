@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2024-11-30T13:54
+updated: 2026-07-06T21:41
 ---
 HTML tự động điền tag đóng vì ngày xưa cần tiết kiệm dung lượng ổ đĩa càng nhiều càng tốt. Tuy nhiên bây giờ thì việc tiết kiệm này không còn cần thiết, mà còn tạo thêm nhiều rắc rối. HTML dựa trên XML (viết tắt là XHTML) sẽ giải quyết được việc này.
 

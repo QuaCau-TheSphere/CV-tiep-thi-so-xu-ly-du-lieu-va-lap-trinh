@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2025-10-13T10:26
+updated: 2026-07-06T21:41
 ---
 Convenience command output is subject to change as conventional wisdom and workflows change; core command behavior will not change in any backward-incompatible way.
 

@@ -1,9 +1,10 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2026-04-21T20:05
+updated: 2026-07-07T14:53
 ---
 [[PowerShell là một ngôn ngữ shell]]. [[Shell là cái vỏ bảo vệ nhân của hệ điều hành]]
+[[Các ký tự đặc biệt trong các ngôn ngữ khác nhau]]
 
 ## Xem lịch sử
 | Lệnh                        | Cách dùng                          |
@@ -20,7 +21,6 @@ Nguồn:: [about History - PowerShell | Microsoft Learn](https://learn.microsoft
 | Markmode              | <kbd>Ctrl+Shift+M</kbd>                        |
 | Tạo pane mới          | <kbd>Alt+Shift+-</kbd>, <kbd>Alt+Shift++</kbd> |
 | Thay đổi kích cỡ pane | <kbd>Alt+Shift+↑</kbd>, <kbd>Alt+Shift+↓</kbd> |
-
 ## Tạo nhiều thư mục
 ```PowerShell
 $list=(ls -name -directory).substring(1)

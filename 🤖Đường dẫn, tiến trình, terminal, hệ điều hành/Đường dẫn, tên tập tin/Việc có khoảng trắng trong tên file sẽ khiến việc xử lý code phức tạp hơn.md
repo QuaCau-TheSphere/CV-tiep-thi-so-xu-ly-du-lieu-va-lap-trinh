@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-12T13:33
-updated: 2025-10-02T14:01
+updated: 2026-07-06T21:41
 ---
 Điều này dễ thấy nhất khi tên file có ở trong biến. Ví dụ, thay vì có thể viết `foo $filename`, ta phải viết `foo "$filename"`. Vì nhỡ `$filename` có khoảng trắng thì 
 

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2025-10-12T13:17
+updated: 2026-07-06T21:41
 ---
 WinMerge includes most of the familiar shortcut keys commonly used in other Windows applications.
 

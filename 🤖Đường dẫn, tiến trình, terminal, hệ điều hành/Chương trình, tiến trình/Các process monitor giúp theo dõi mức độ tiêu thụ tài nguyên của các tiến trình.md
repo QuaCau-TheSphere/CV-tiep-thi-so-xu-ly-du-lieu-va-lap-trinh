@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2025-05-09T23:36
+updated: 2026-07-06T21:41
 ---
 ![Introduction to the Windows Performance Analyzer - YouTube](https://youtu.be/Cw4d3pyZwX4?si=8QXCKmM6OL5EhWCY)
 Bên phải đường thẳng xanh là những thông tin sẽ hiển thị trên tooltip

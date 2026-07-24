@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-20T20:33
-updated: 2025-05-02T14:08
+updated: 2026-07-06T21:41
 ---
 Nguồn:: [Git - git-gc Documentation](https://git-scm.com/docs/git-gc)
 

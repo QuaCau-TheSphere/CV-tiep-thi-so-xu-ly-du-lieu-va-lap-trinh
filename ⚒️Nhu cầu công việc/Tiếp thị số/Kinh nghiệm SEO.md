@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2025-06-10T11:16
+updated: 2026-07-06T21:40
 ---
 ![SEO for Developers in 100 Seconds - YouTube](https://youtu.be/-B58GgsehKQ?si=b_NUJJvEDwUDlwfe)
 

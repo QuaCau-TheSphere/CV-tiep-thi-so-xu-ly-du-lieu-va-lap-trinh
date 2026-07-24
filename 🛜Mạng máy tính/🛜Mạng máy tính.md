@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-08-25T14:38
-updated: 2025-10-02T15:40
+updated: 2026-07-06T21:41
 ---
 ![Điều gì xảy ra khi bạn vào một trang web | Cách hoạt động của Browser | TechMely - YouTube](https://youtu.be/II36vixCITs)
 [Networking comic](https://jvns.ca/networking-zine.pdf) 

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2025-03-03T18:48
+updated: 2026-07-06T21:40
 ---
 Data layer là một mảng JavaScript chứa các thông tin mà mình muốn Google Analytics và các công cụ tương tự sử dụng.
 

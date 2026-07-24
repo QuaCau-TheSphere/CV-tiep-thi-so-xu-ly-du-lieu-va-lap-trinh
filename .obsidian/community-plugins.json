@@ -1,7 +1,6 @@
 [
   "advanced-toolbar",
   "table-editor-obsidian",
-  "alx-folder-note",
   "obsidian-another-quick-switcher",
   "obsidian-auto-link-title",
   "better-inline-fields",
@@ -18,7 +17,6 @@
   "mrj-jump-to-link",
   "copy-url-in-preview",
   "language-translator",
-  "multi-column-markdown",
   "nldates-obsidian",
   "note-refactor-obsidian",
   "obsidian-plugin-groups",
@@ -34,5 +32,5 @@
   "darlal-switcher-plus",
   "hot-reload",
   "open-vscode",
-  "obsidian-excalidraw-plugin"
+  "open-with"
 ]

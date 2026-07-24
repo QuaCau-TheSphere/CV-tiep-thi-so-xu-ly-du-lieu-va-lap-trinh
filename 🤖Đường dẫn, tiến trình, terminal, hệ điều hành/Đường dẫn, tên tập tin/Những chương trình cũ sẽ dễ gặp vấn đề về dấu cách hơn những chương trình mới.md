@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2025-03-03T18:48
+updated: 2026-07-06T21:41
 ---
 Chương trình mới thì dấu cách có thể chỉ hơi phiền. Nhưng những chương trình cũ thì có thể sẽ gặp lỗi. Hoặc có thể chương trình đó không cũ, nhưng nó phải được phục vụ cho cho những chương trình cũ. VD: Docker, Git
 

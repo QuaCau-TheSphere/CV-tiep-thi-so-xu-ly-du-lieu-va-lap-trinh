@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2025-05-01T16:34
+updated: 2026-07-06T21:41
 ---
 By not creating a branch and putting the PR in to the default branch (`main`, `master` or whatever), you run the risk that it will be very difficult to add later commits to your fork, or get new changes from the parent repo.
 

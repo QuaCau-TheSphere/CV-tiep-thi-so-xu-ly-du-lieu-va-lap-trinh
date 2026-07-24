@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2024-09-01T17:43
+updated: 2026-07-06T21:40
 ---
 ![How to choose your static site generator - YouTube](https://www.youtube.com/watch?v=c9g4UkHkzLs)
 ![Lume, the static site generator for Deno – Static Feedback #12 - YouTube](https://www.youtube.com/watch?v=5lj0kCmC7L8)

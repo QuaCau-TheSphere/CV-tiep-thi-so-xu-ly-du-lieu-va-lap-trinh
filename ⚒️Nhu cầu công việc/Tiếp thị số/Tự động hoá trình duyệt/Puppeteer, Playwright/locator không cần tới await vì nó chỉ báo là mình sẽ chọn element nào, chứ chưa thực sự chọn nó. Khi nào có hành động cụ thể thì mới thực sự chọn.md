@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2024-11-30T13:45
+updated: 2026-07-06T21:40
 ---
 Khi nào có việc gì phải dùng tới element thì mới chọn nó luôn. Điều này sẽ tiện nếu lúc báo element chưa xuất hiện
 

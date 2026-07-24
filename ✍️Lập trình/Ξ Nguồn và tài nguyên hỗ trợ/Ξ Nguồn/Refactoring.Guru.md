@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-24T18:26
-updated: 2024-08-18T15:05
+updated: 2026-07-06T21:40
 ---
 **Refactoring.Guru** makes it easy for you to discover everything you need to know about refactoring, design patterns, SOLID principles, and other smart programming topics.
 

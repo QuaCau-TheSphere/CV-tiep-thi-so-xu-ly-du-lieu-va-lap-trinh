@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2025-10-13T09:06
+updated: 2026-07-06T21:40
 ---
 I suppose because there has to be a limit drawn somewhere as to what gets returned when you query an entity, to avoid the query taking too long
 

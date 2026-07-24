@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2024-11-30T13:44
+updated: 2026-07-08T22:35
 ---
 [[Remote Control được sinh ra để giải quyết vấn đề Same-Origin Policy]] 
 
@@ -12,3 +12,4 @@ updated: 2024-11-30T13:44
 - Selenium 3 là sản phẩm được dự đoán nhiều nhất trong bộ Selenium nhưng chưa được đưa ra thị trường. Selenium 3 được khuyến khích dùng trong kiểm thử mobile.
 
 Nguồn:: [[Viblo]], [Selenium Tutorials - 31+ Bài hướng dẫn học Selenium](https://viblo.asia/p/selenium-tutorials-31-bai-huong-dan-hoc-selenium-eW65Gx8PKDO)
+[[Sự khác biệt giữa IDE và trình soạn thảo văn bản nằm ở việc compile code. Nên chính xác mà nói thì không có IDE để viết JS cho máy khách]]

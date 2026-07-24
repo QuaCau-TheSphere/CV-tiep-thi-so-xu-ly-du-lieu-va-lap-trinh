@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2025-11-17T12:36
+updated: 2026-07-06T21:41
 ---
 Có thể trong `div` thì không được, nhưng trong `span` thì được. Nếu là CommonMark thì phải có xuống dòng chứ không được để sát:
 ```html

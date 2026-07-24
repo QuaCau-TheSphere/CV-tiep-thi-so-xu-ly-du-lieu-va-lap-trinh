@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-21T20:49
-updated: 2025-03-03T18:48
+updated: 2026-07-06T21:40
 ---
 Nguồn:: [Create access credentials  |  Google Workspace  |  Google for Developers](https://developers.google.com/workspace/guides/create-credentials)
 

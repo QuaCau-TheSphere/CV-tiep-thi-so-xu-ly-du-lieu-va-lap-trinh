@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2025-08-05T22:03
+updated: 2026-07-06T21:40
 ---
 I suggest reading the caveats [in the documentation](https://react.dev/reference/react/useState#usestate). An unconditional state setter call in a component function is always a bad idea, whether with a string or something else, and it isn't _always_ guaranteed React won't call the component function again as a result, even when you call it with the same value, though it usually won't.
 ```js

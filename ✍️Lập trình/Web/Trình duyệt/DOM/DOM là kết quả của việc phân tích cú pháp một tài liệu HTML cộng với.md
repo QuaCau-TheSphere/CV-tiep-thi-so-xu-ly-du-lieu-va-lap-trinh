@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2024-11-30T14:14
+updated: 2026-07-06T21:40
 ---
 [[Cây cú pháp trừu tượng (AST) là kết quả của việc phân tích cú pháp một tài liệu có đánh dấu]]
 

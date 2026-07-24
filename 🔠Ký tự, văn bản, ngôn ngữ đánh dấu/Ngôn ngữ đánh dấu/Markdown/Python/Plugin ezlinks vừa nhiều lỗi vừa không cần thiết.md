@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-19T23:29
-updated: 2024-11-30T13:54
+updated: 2026-07-06T21:41
 ---
 Ezlink là plugin cho Mkdocs để chuyển từ dạng `[[wikilink]]` sang dạng `[MDlink]()`. Nó được để mặc định trong GitHub Publisher. Nó có nhiều lỗi. Ví dụ, với `mkdocs.yml`:
 ```yaml

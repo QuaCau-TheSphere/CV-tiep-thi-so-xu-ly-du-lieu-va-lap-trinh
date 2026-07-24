@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2026-04-21T20:15
+updated: 2026-07-06T21:40
 alias: CORS ngăn chặn việc script ở tab này điều khiển tab kia
 ---
 ## What is Same Origin Policy?

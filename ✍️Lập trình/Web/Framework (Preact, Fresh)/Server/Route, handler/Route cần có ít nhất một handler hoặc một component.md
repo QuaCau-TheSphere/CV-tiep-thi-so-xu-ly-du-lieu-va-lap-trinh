@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2025-08-05T22:04
+updated: 2026-07-06T21:40
 ---
 [[Khi có một yêu cầu tới một route, handler được gọi trước, sau đó tới component]]
 Nếu không có handler nào thì Fresh sẽ tự động thêm một cái mặc định này:

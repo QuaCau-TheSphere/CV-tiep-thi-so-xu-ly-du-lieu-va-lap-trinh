@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2026-02-04T13:06
+updated: 2026-07-06T21:41
 alias:
   - markdown, URL, domain xử lý
 ---

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2026-04-21T20:16
+updated: 2026-07-06T21:40
 ---
 Khái niệm:: 
 This is a CORS error and you don't need to worry about it. The error occurs because Obsidian's web view (app://obsidian.md) is trying to fetch resources from external domains that don't include the `Access-Control-Allow-Origin` header in their responses.

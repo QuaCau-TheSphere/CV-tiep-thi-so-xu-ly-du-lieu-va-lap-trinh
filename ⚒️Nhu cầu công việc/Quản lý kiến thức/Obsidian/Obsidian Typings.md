@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2025-10-12T13:17
+updated: 2026-07-06T21:40
 ---
 Maybe I'm not using the right terms, but I indeed mean "official" as "external and documented". This is the functions and classes that the Obsidian's team decided to make stable so plugin developers can use them without the fear of breaking changes every update.  
 On the opposite, "internal" API is the functions and classes a developer chooses to use without knowing if the code will change. To get the internal API, you have to investigate the code by yourself, with a lot of code breaks (stopping the execution of the code to inspect what's going on), reading the minified code app.js, and console logs. The package obsidian-typings is basically a collection of the knowledge that was aquired like that. So it only contains types, yes. But because we need typings from PixiJS to be able to define types of classes using PixiJS (such as the [GraphNode](https://github.com/Fevol/obsidian-typings/blob/release/obsidian-catalyst/1.9.9/src/obsidian/internals/InternalPlugins/Graph/GraphNode.d.ts)), PixiJS is a dependance of obsidian-typings, and therefore imported when you import obsidian-typings.  

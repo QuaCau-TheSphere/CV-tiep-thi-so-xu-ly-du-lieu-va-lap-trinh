@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2024-11-30T13:41
+updated: 2026-07-06T21:41
 ---
 HTTPS = HTTP + SSL/TLS
 [[HTTP là ngôn ngữ để trình duyệt và webserver nói chuyện với nhau]]. [[Request và respond HTTP chỉ là một tệp văn bản]]

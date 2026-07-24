@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "39eee47cdbfec8c5",
+            "id": "781a9e1aa1b24db5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "✍️Lập trình/Ngôn ngữ/Ngôn ngữ lập trình/Ngôn ngữ kiểu động/Khác biệt giữa JS và Python.md",
+                "file": "✍️Lập trình/Ngôn ngữ lập trình/Ý đồ thiết kế/Ngôn ngữ kiểu tĩnh/Rust/Viết chương trình bằng Rust giống như sống trong mối quan hệ bạo hành.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Khác biệt giữa JS và Python"
+              "title": "Viết chương trình bằng Rust giống như sống trong mối quan hệ bạo hành"
             }
           },
           {
-            "id": "c4b4c3f1f10025ba",
+            "id": "b517f5e56bc2dd83",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "✍️Lập trình/Ngôn ngữ/Ngôn ngữ lập trình/ASM.md",
+                "file": "✍️Lập trình/Ngôn ngữ lập trình/ASM.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -54,33 +54,9 @@
               "icon": "lucide-file",
               "title": "ASM"
             }
-          },
-          {
-            "id": "ad4372b372ef192a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "⚒️Nhu cầu công việc/Phân tích dữ liệu/Numpy và Pandas.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Numpy và Pandas"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -100,7 +76,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -137,8 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "5d04946789dd017a",
@@ -154,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🔠Ký tự, văn bản. Quản lý, viết và xuất bản nội dung/Đồng bộ, sao lưu/Git/Git được sinh ra để giải quyết nhu cầu của Linus, một người viết nhân hệ điều hành.md",
+                "file": "🔐Bảo mật/Quân đội Mỹ từng bị tấn công bằng SQL injection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +139,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Git được sinh ra để giải quyết nhu cầu của Linus, một người viết nhân hệ điều hành"
+              "title": "Backlinks for Quân đội Mỹ từng bị tấn công bằng SQL injection"
             }
           },
           {
@@ -230,48 +205,47 @@
       "templater-obsidian:Templater": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
-      "open-vscode:VSCode": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "open-vscode:VS Code": false
     }
   },
-  "active": "ad4372b372ef192a",
+  "active": "b517f5e56bc2dd83",
   "lastOpenFiles": [
-    "🔐Bảo mật/Gần như mọi tấn công vào mật mã là vào cách chúng được sử dụng, chứ không phải là cách chúng hoạt động.md",
-    "⚒️Nhu cầu công việc/Phân tích dữ liệu/Python và R.md",
-    "⚒️Nhu cầu công việc/Phân tích dữ liệu/Numpy và Pandas.md",
-    "⚒️Nhu cầu công việc/Phân tích dữ liệu",
-    "⚒️Nhu cầu công việc/New folder",
-    "⚒️Nhu cầu công việc/Phân tích dữ liệu/Chỉnh link distance nhỏ nhất và link force lớn nhất để thấy rõ từng cụm nút.md",
-    "⚒️Nhu cầu công việc/Python và R.md",
-    "⚒️Nhu cầu công việc/Numpy và Pandas.md",
-    "🔐Bảo mật/Mật mã/Véc tơ khởi tạo (iv) dùng để đảm bảo những bản rõ giống nhau không tạo ra bản mã giống nhau.md",
-    "🔐Bảo mật/Mật mã/Nếu một thuật toán có điểm yếu, thì kể cả khi điểm yếu đó khó khai thác được trên thực tế, thì thuật toán đó vẫn bị xem là yếu.md",
-    "🔐Bảo mật/Mật mã/Việc tạo ra hỗn loạn và khuếch tán giúp giảm khả năng bị dò ra khoá trong trường hợp một bản rõ đã bị lộ.md",
-    "⚒️Nhu cầu công việc/Sắp chữ, thiết kế/Sắp chữ/TeX/Động cơ (TeX, pdfTeX, LuaTeX, XeTeX)/pdfTeX, pdfLaTeX không hỗ trợ Unicode tốt bằng LuaTex, LuaLaTex, XeTex, XeLaTex.md",
-    "🔠Ký tự, văn bản, ngôn ngữ đánh dấu/Tiếng Việt, Unicode, emoji/Lý thuyết Unicode/Lý thuyết Unicode.md",
-    "🔐Bảo mật/Xác thực, cấp phép/Việc kiểm tra xem người dùng được phép truy cập dữ liệu ở mức độ nào được gọi là cấp phép (authorization).md",
-    "🔐Bảo mật/Tấn công chuỗi cung ứng.md",
-    "🔐Bảo mật/Xác thực, cấp phép/Mật khẩu là thứ chỉ được xử lý chứ không được lưu vĩnh viễn trên máy. Thuật toán thì có.md",
-    "🔐Bảo mật/Xác thực, cấp phép/Passkey/Password dễ bị fish, và khó bắt mọi người dùng password manager.md",
-    "⚒️Nhu cầu công việc/Dịch thuật ngữ/Dịch thuật ngữ.md",
-    "🔐Bảo mật/Web/Web.md",
-    "🔐Bảo mật/Mật mã/Bởi vì AES đã trở thành tiêu chuẩn rộng rãi, nên các CPU đã được thiết kế cho riêng nó để giảm thiểu việc chạy lỗi cũng như bị tấn công.md",
-    "🔐Bảo mật/Web.md",
-    "🔐Bảo mật/Web/Trước đây các trình duyệt có tạo API Crypto. Sau này được chuẩn hoá thì dùng SubtleCrypto.md",
-    "🔐Bảo mật/Trước đây các trình duyệt có tạo API Crypto. Sau này được chuẩn hoá thì dùng SubtleCrypto.md",
-    "🔐Bảo mật/Web",
-    "🔐Bảo mật/New folder",
-    "🔐Bảo mật/Xác thực, cấp phép/Máy dịch vụ không cung cấp lại mật khẩu cũ được mà chỉ có thể cho phép mình đổi mật khẩu mới, vì chính nó cũng không biết.md",
-    "🔐Bảo mật/Bất kỳ thiết kế phần mềm nào không giả sử rằng kẻ địch không nắm được mã nguồn đều không đáng tin.md",
-    "✍️Lập trình/Ngôn ngữ/Ngôn ngữ lập trình/ASM.md",
-    "🤖Đường dẫn, tiến trình, terminal, hệ điều hành/Terminal, shell, console/PowerShell/Các lệnh PowerShell thường dùng.md",
-    "⚒️Nhu cầu công việc/Quản lý kiến thức/Obsidian/Ưu tiên dùng API của Obsidian hơn là của Node.md",
-    "✍️Lập trình/Ngôn ngữ/Ngôn ngữ lập trình/Ngôn ngữ kiểu động/JavaScript/Cú pháp/Chuỗi/URI",
-    "✍️Lập trình/Ngôn ngữ/Ngôn ngữ lập trình/Ngôn ngữ kiểu động/JavaScript/Cú pháp/Chuỗi/ỦRU",
-    "✍️Lập trình/Ngôn ngữ/Ngôn ngữ lập trình/Ngôn ngữ kiểu động/JavaScript/Cú pháp/Chuỗi/New folder",
-    "⚒️Nhu cầu công việc/Xử lý tín hiệu",
-    "🔐Bảo mật/Xác thực, cấp phép/Passkey",
-    "🛜Mạng máy tính/Giao thức/Các giao thức phi tập trung",
+    "✍️Lập trình/Ngôn ngữ lập trình/Ngôn ngữ bậc cao/Ngôn ngữ kiểu tĩnh/Haskell dùng versioning khác semver.md",
+    "✍️Lập trình/Ngôn ngữ lập trình/Ngôn ngữ bậc thấp/malloc là allocator phổ biến trong C, dùng cho heap, và được xây trực tiếp trên bộ nhớ page.md",
+    "✍️Lập trình/Ngôn ngữ lập trình/ASM.md",
+    "✍️Lập trình/Ngôn ngữ lập trình/Ngôn ngữ bậc cao/Ngôn ngữ kiểu tĩnh/Gleam/Gleam.md",
+    "✍️Lập trình/Ngôn ngữ lập trình/Ngôn ngữ bậc cao/Ngôn ngữ kiểu tĩnh/Go/Go.md",
+    "✍️Lập trình/Ngôn ngữ lập trình/Ngôn ngữ bậc cao/Ngôn ngữ kiểu động/JavaScript/Cú pháp/Sự kiện/Sự kiện.md",
+    "✍️Lập trình/Ngôn ngữ lập trình/Ngôn ngữ bậc cao/Ngôn ngữ kiểu động/JavaScript/Cú pháp/Bất đồng bộ/Promise/Promise.md",
+    "✍️Lập trình/Ngôn ngữ lập trình/Ngôn ngữ bậc cao/Ngôn ngữ kiểu động/JavaScript/TypeScript/TypeScript.md",
+    "✍️Lập trình/Ngôn ngữ lập trình/Ngôn ngữ bậc cao/Ngôn ngữ kiểu động/Python/Python.md",
+    "✍️Lập trình/Ngôn ngữ lập trình/Ngôn ngữ bậc cao/Ngôn ngữ kiểu động/Python/Đường dẫn, phiên bản/Conda/Anaconda giống như một fork Python có bổ sung thêm nhiều công cụ cho khoa học dữ liệu.md",
+    "✍️Lập trình/✍️Lập trình.md",
+    "✍️Lập trình/Ngôn ngữ lập trình/Các ký tự đặc biệt trong các ngôn ngữ khác nhau.md",
+    "✍️Lập trình/Ngôn ngữ lập trình/Ngôn ngữ bậc cao/Ngôn ngữ kiểu động/Python/Đường dẫn, phiên bản/Conda/Với những người chỉ cần dùng Python để làm dữ liệu chứ không lập trình, chỉ cần cài Anaconda là đủ. Không cần và không nên cài Python riêng.md",
+    "✍️Lập trình/Ngôn ngữ lập trình/Ngôn ngữ bậc cao/Ngôn ngữ kiểu động/Python/Đường dẫn, phiên bản/Conda/venv chỉ tạo môi trường ảo cho phiên bản hiện tại. Miniconda tạo môi trường ảo cho nhiều phiên bản.md",
+    "✍️Lập trình/Ngôn ngữ lập trình/Ngôn ngữ bậc cao/Ngôn ngữ kiểu động/Python/Đường dẫn, phiên bản/Conda/Conda là trình quản lý thư viện, không chỉ của Python mà còn của các ngôn ngữ khác.md",
+    "✍️Lập trình/Ngôn ngữ lập trình/Ngôn ngữ bậc cao/Ngôn ngữ kiểu động/Python/Đường dẫn, phiên bản/Việc cài phiên bản mới không xoá phiên bản cũ đi khiến cho người mới hay bị lẫn lộn phiên bản.md",
+    "✍️Lập trình/Ngôn ngữ lập trình/Ngôn ngữ bậc cao/Ngôn ngữ kiểu động/Python/Đường dẫn, phiên bản/venv tạo môi trường ảo để tránh trường hợp chồng chéo các gói và xung đột phiên bản giữa các thư viện.md",
+    "✍️Lập trình/Ngôn ngữ lập trình/Ngôn ngữ bậc cao/Ngôn ngữ kiểu động/Python/Đường dẫn, phiên bản/Tên mô đun Python sẽ được dùng làm identifier. Identifier không được có dấu cách.md",
+    "✍️Lập trình/Ngôn ngữ lập trình/Ngôn ngữ bậc cao/Ngôn ngữ kiểu động/Python/Đường dẫn, phiên bản/py là chương trình hỗ trợ việc quản lý phiên bản trên Windows.md",
+    "✍️Lập trình/Ngôn ngữ lập trình/Ngôn ngữ bậc cao/Ngôn ngữ kiểu động/Python/Đường dẫn, phiên bản/pip là chương trình quản lý package của Python.md",
+    "✍️Lập trình/Ngôn ngữ lập trình/Ngôn ngữ bậc cao/Ngôn ngữ kiểu động/Python/Đường dẫn, phiên bản/Nên cài Python bằng bộ cài tải từ website nếu muốn lập trình.md",
+    "✍️Lập trình/Ngôn ngữ lập trình/Ngôn ngữ bậc cao/Ngôn ngữ kiểu động/Python/Đường dẫn, phiên bản/Khi chạy Python trong VS Code, thư mục được chạy không phải là thư mục chứa script.md",
+    "✍️Lập trình/Ngôn ngữ lập trình/Ngôn ngữ bậc cao/Ngôn ngữ kiểu động/Python/Đường dẫn, phiên bản/Conda",
+    "✍️Lập trình/Ngôn ngữ lập trình/Ngôn ngữ bậc cao/Ngôn ngữ kiểu động/Python/Đường dẫn, phiên bản",
+    "✍️Lập trình/Ngôn ngữ lập trình/Ngôn ngữ bậc cao/Ngôn ngữ kiểu động/Python/Đường dẫn, env, phiên bản/Conda/Với những người chỉ cần dùng Python để làm dữ liệu chứ không lập trình, chỉ cần cài Anaconda là đủ. Không cần và không nên cài Python riêng.md",
+    "✍️Lập trình/Ngôn ngữ lập trình/Ngôn ngữ bậc cao/Ngôn ngữ kiểu động/Python/Đường dẫn, env, phiên bản/Conda/venv chỉ tạo môi trường ảo cho phiên bản hiện tại. Miniconda tạo môi trường ảo cho nhiều phiên bản.md",
+    "✍️Lập trình/Ngôn ngữ lập trình/Ngôn ngữ bậc cao/Ngôn ngữ kiểu động/Python/Đường dẫn, env, phiên bản/Conda/Conda là trình quản lý thư viện, không chỉ của Python mà còn của các ngôn ngữ khác.md",
+    "✍️Lập trình/Ngôn ngữ lập trình/Ngôn ngữ bậc cao/Ngôn ngữ kiểu động/Python/Đường dẫn, env, phiên bản/Conda/Anaconda giống như một fork Python có bổ sung thêm nhiều công cụ cho khoa học dữ liệu.md",
+    "✍️Lập trình/Ngôn ngữ lập trình/Ngôn ngữ bậc cao/Ngôn ngữ kiểu động/Python/Đường dẫn, env, phiên bản/Conda",
+    "✍️Lập trình/Ngôn ngữ lập trình/Ngôn ngữ bậc cao/Ngôn ngữ kiểu động/Python/Đường dẫn, env, phiên bản",
+    "✍️Lập trình/Ngôn ngữ lập trình/Ngôn ngữ bậc cao/Ngôn ngữ kiểu động/Python/Lớp",
+    "✍️Lập trình/Ngôn ngữ lập trình/Ngôn ngữ bậc cao/Ngôn ngữ kiểu động/JavaScript/Cú pháp/Bất đồng bộ/Promise/Vật thể promise, then, catch",
+    "✍️Lập trình/Ngôn ngữ lập trình/Ngôn ngữ bậc cao/Ngôn ngữ kiểu động/JavaScript/Cú pháp/Bất đồng bộ/Promise/Lớp Promise, resolve, reject",
+    "✍️Lập trình/Ngôn ngữ lập trình/Ngôn ngữ bậc cao/Ngôn ngữ kiểu động/JavaScript/Cú pháp/Số, chuỗi, URI/URI",
+    "✍️Lập trình/Ngôn ngữ lập trình/Ngôn ngữ bậc cao/Ngôn ngữ kiểu động/JavaScript/Cú pháp/Số, chuỗi, URI/Số",
+    "✍️Lập trình/Ngôn ngữ lập trình/Ngôn ngữ bậc cao/Ngôn ngữ kiểu động/JavaScript/Cú pháp/Bất đồng bộ/Promise",
     "Ξ Thiết lập/Ảnh/origin.png"
   ]
 }

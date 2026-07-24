@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "path:\"⚡Hiểu biết sâu\" -path:\"⚡Hiểu biết sâu/Ξ Nguồn\"  ",
+  "search": "path:\"✍️Lập trình/Khái niệm cơ bản. Công cụ và môi trường/Kiểu và việc thực thi/\"  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -8,14 +8,14 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:\"⚡Hiểu biết sâu/Nghĩ về việc nghĩ\"  ",
+      "query": "path:\"✍️Lập trình/Ngôn ngữ/Ngôn ngữ lập trình/Ngôn ngữ kiểu động/JavaScript\"  ",
       "color": {
         "a": 1,
         "rgb": 14048348
       }
     },
     {
-      "query": "path:\"⚡Hiểu biết sâu/Quản lý dự án, phát triển sản phẩm, xây dựng tổ chức\"  ",
+      "query": "path:\"✍️Lập trình/Web\"  ",
       "color": {
         "a": 1,
         "rgb": 14069084
@@ -25,13 +25,13 @@
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0.2,
-  "nodeSizeMultiplier": 1.10753318925594,
-  "lineSizeMultiplier": 0.44913258983891,
-  "collapse-forces": false,
+  "nodeSizeMultiplier": 2.72827404479578,
+  "lineSizeMultiplier": 1.47694334650856,
+  "collapse-forces": true,
   "centerStrength": 0.608706390861377,
   "repelStrength": 12.1741278172275,
   "linkStrength": 1,
   "linkDistance": 141,
-  "scale": 0.16348370567220524,
+  "scale": 1.3508788775551308,
   "close": false
 }

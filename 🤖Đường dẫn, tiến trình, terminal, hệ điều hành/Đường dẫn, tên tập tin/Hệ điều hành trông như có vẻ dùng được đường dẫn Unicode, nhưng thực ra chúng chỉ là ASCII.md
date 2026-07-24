@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-24T18:26
-updated: 2025-04-22T14:18
+updated: 2026-07-06T21:41
 ---
 > Once upon a time, you could **only** use ascii, even in typing or viewing urls. Then unicode was invented and, as time went on, various user/machine translation layers were built. It takes effort to make such a translation layer. VS Code doesn't have such a translation layer and probably won't. What it does have is a powerful extension interface.
 

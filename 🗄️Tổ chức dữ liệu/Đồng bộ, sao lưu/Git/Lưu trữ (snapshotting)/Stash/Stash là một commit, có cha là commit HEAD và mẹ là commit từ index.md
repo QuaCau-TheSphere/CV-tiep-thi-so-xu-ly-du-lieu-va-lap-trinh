@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2025-05-02T12:48
+updated: 2026-07-06T21:41
 ---
 > A stash entry is represented as a commit whose tree records the state of the working directory, and its first parent is the commit at HEAD when the entry was created. The tree of the second parent records the state of the index when the entry is made, and it is made a child of the HEAD commit. The ancestry graph looks like this:
 > 

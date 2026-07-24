@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2025-05-02T17:23
+updated: 2026-07-06T21:41
 ---
 ![](https://i.sstatic.net/GhE7a.png)
 Mặc định điểm cuối là working tree. Để thay đổi điểm cuối thì dùng --cache

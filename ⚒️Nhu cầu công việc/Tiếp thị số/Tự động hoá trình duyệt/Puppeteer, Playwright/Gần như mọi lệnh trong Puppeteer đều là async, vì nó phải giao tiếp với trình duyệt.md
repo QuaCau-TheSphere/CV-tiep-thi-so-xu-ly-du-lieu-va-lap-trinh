@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2026-03-21T23:40
+updated: 2026-07-06T21:40
 ---
 Auto-waiting or not is irrelevant to whether you need to use `await`. `await` is used whenever there's a network call, a system call, or inter-process communication that needs to talk to another process or the operating system. Node is single-threaded, so for it to operate efficiently, it uses asynchronous code constructs like promises to allow it to perform other tasks while the network call is in flight.
 

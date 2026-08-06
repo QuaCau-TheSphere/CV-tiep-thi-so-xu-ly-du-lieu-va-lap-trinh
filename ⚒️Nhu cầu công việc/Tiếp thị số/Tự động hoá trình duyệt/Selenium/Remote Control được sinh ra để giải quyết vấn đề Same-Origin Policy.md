@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2026-07-06T21:40
+updated: 2026-08-06T15:36
 ---
 [[Same-origin policy ngăn chặn việc script ở tab này điều khiển tab kia]]
 [[CORS là để trình duyệt bảo vệ người dùng, không phải để bảo vệ máy chủ]]

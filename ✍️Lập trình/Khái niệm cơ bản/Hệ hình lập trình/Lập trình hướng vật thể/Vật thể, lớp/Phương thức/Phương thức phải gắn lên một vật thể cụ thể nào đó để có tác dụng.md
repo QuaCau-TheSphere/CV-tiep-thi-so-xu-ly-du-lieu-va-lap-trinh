@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-24T18:26
-updated: 2026-07-19T22:34
+updated: 2026-08-06T15:36
 ---
 Hàm giúp ta làm một công việc nào đó. Công việc đó có thể liên quan tới một vật thể hoặc không. Còn phương thức chắc chắn phải làm những công việc liên quan tới một vật thể cụ thể. [[Phương thức cho ta biết mình có thể làm gì với vật thể]]. 
 

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2025-03-03T18:48
+updated: 2026-08-06T15:36
 ---
 TCP/IP, bộ tiêu chuẩn từ những năm 1960. TCP/IP ổn định đến mức cả thế giới vẫn dùng, nhưng có hai hạn chế lớn:
 

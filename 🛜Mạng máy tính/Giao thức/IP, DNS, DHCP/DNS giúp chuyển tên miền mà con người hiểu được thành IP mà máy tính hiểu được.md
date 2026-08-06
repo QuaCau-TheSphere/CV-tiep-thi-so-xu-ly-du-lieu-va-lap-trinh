@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-24T18:26
-updated: 2026-07-06T21:41
+updated: 2026-08-06T15:36
 ---
 ![What is DNS? How a DNS Server (Domain Name System) works? Learn about How DNS Works with our video! - YouTube](https://youtu.be/3eqEl6scOvw)
 [How DNS works. What is DNS? Learn how step by step.](https://howdns.works/)

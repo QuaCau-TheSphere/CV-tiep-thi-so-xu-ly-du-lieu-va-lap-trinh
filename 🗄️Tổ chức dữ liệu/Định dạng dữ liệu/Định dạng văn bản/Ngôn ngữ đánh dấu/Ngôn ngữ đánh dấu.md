@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-01-14T15:32
-updated: 2026-07-06T21:41
+updated: 2026-08-06T15:36
 ---
 
 | Tối ưu cho... →<br>Ngôn ngữ đánh dấu ↓ | ...cho con người đọc và viết | ...cho việc khai báo metadata | ...cho việc viết tập tin cấu hình | ...cho việc truyền dữ liệu |

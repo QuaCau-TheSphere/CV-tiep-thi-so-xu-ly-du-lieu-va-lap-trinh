@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2026-07-08T22:39
+updated: 2026-08-06T15:36
 ---
 Một _package_ là một hoặc nhiều crates cung cấp một loạt các chức năng. Một package chứa một file _Cargo.toml_ mô tả cách build các crate của package đó.
 

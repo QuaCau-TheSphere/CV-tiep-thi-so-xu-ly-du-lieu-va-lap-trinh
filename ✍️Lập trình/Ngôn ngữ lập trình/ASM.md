@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2026-07-24T21:55
+updated: 2026-08-06T15:36
 ---
 Khái niệm:: 
 ![The End of JS - YouTube](https://www.youtube.com/watch?v=ceH0IT-OBCw)

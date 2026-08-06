@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-11-27T15:04
-updated: 2026-07-24T21:47
+updated: 2026-08-06T15:36
 ---
 [[Kết quả của promise chỉ có thể được lấy ở trong then, và phải ở dạng hàm]]
 [[resolve, reject là hai hàm được JS cung cấp sẵn để làm đối số cho hàm thực thi]].

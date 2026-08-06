@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2026-07-24T21:47
+updated: 2026-08-06T15:36
 title: Khi dùng `||` cho `0`, `''`, `NaN`  thì kết quả sẽ là `false`. Với `??`, chúng sẽ trả về `true`
 alias: nullish coalescing operator
 ---

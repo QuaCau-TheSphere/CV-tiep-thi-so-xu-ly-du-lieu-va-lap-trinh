@@ -1,6 +1,6 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2026-07-06T21:40
+updated: 2026-08-06T15:36
 ---
 Nguồn:: [javascript - Page.locator() is the recommended way to select and interact with elements. Why does it offer less functionalities than Page.$()? - Stack Overflow](https://stackoverflow.com/q/79210004/3416774)

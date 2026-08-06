@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2026-07-06T21:40
+updated: 2026-08-06T15:36
 ---
 Khái niệm:: 
 Security isn’t about making all operations difficult; it’s about restricting access to operations with undesirable effects. Usability isn’t about making all operations easy, either; it’s about improving access to operations with desirable effects.

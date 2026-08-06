@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-08-25T14:20
-updated: 2026-07-24T21:47
+updated: 2026-08-06T15:36
 ---
 - Mọi thứ trong Python hoặc JavaScript đều là đối tượng
 - [[Việc hiển thị nội dung dữ liệu như thế nào là do công cụ quyết định, không phải ngôn ngữ quyết định]].

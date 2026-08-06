@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-24T18:26
-updated: 2026-07-06T21:40
+updated: 2026-08-06T15:36
 ---
 Can I know for what typescript is used for with a realtime example in which it is being used
 

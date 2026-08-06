@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-09T14:46
-updated: 2026-07-07T14:54
+updated: 2026-08-06T15:36
 ---
 [[Có thể hiểu blob là hash của một tệp, tree là hash của một thư mục, còn commit thực ra chỉ là hash của cả thư mục tổng]] 
 

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2026-07-06T21:40
+updated: 2026-08-06T15:36
 title: Các vấn đề về dịch thuật ngữ
 alias: dịch tiếng Anh
 ---
@@ -9,11 +9,14 @@ alias: dịch tiếng Anh
 - [[Server nên được dịch là máy phục vụ hơn là máy chủ]]
 - [[Chưa rõ lý do vì sao lại dịch object ra thành đối tượng chứ không phải vật thể]]
 
-| Từ tiếng Anh          | Cách dịch            |
-| --------------------- | -------------------- |
-| Separation of concern | Tách biệt sự bận tâm |
-| Plain text            | Văn bản trơn         |
-| Template              | Mẫu tạo              |
+| Từ tiếng Anh             | Cách dịch                        |
+| ------------------------ | -------------------------------- |
+| Separation of concern    | Tách biệt sự bận tâm             |
+| Plain text               | Bản thuần ký tự                         |
+| Template                 | Mẫu tạo                          |
+| Kernel space, user space | Khu vực nhân, khu vực người dùng |
+
+Việc tìm cách dịch giúp cho người mới dễ hiểu, làm cho tiếng Việt phong phú hơn, và giúp chính bản thân hiểu được khái niệm sâu sắc hơn.
 
 ## Những lúc thấy để nguyên tiếng Anh thì tiện hơn
 ### Xuất hiện dày đặc ở giao diện chứ không phải chỉ là khái niệm
@@ -111,11 +114,13 @@ Ví dụ:
 - `file`, `folder`
 - `test`
 
+### Tiếng Anh dùng bình thường nhưng tiếng Việt dịch ra hơi tiêu cực
+- `manipulation`: thao túng
+
+## Những lúc thấy để tiếng Việt hay hơn tiếng Anh
 ### Người dùng Tiếng Anh phải chịu đựng sự mơ hồ do đa nghĩa. Tiếng Việt tội gì phải thế?
 - `comment`: comment là phần chữ được bỏ qua trong code và thường được dùng để giải thích, hay là đưa ra đánh giá, bình luận nói chung?
-
-### Tiếng Anh dùng bình thường nhưng tiếng Việt dịch ra hơi tệ
-- `manipulation`: thao túng
+- `server`, `client`: [[Trong những bối cảnh khác nhau thì server và client có những nghĩa khác nhau]]
 
 ## Dịch được
 - `raw`: thô

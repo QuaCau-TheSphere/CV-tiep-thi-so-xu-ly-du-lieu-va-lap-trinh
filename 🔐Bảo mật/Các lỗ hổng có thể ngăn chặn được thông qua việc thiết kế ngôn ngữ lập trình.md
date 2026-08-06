@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2026-07-22T02:42
+updated: 2026-08-06T15:36
 ---
 Khái niệm:: 
 - Heartbleed would not have happened if the language used could guard against a [Buffer Over-Read](http://cwe.mitre.org/data/definitions/126.html).    

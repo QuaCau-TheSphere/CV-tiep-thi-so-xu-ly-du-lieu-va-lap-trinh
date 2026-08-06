@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-24T18:26
-updated: 2026-07-24T21:47
+updated: 2026-08-06T15:36
 ---
 [[JavaScript cố gắng đoán ý định của người viết chứ không báo lỗi]]
 === là == mà không đổi kiểu (type conversion).

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2026-07-24T21:47
+updated: 2026-08-06T15:36
 ---
 Lý do:: Hàm nào gọi hàm chạy tốn thời gian thì cũng tốn thời gian chạy
 ![](https://miro.medium.com/v2/resize:fit:1400/0*-sXUj7txIyw9LX_F) 

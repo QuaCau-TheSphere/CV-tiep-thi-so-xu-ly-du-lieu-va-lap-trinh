@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2026-07-08T22:24
+updated: 2026-08-06T15:36
 ---
 Programming in Rust is like being in an emotionally abusive relationship. Rust screams at you all day, every day, often about things that you would have considered perfectly normal in another life. Eventually, you get used to the tantrums. They become routine. You learn to walk the tightrope to avoid triggering the compiler’s temper. And just like in real life, those behavior changes stick with you forever.
 

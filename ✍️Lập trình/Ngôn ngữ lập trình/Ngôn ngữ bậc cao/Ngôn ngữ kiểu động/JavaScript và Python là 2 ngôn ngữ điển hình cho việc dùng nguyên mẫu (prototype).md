@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2026-07-24T21:47
+updated: 2026-08-06T15:36
 ---
 Có 2 cách (hoặc tác giả chưa biết thêm cách thứ 3 vì kiến thức hạn hẹp) để **implement** một ngôn ngữ hỗ trợ hướng đối tượng (OO supported). Đó là **class-base** & **prototype-base**. **Class-base** là cách **implement** (cài đặt) ngôn ngữ lập trình hướng đối tượng chặt chẽ, thể hiện được khía cạnh mạnh mẽ của **O**bject **O**riented (hướng đối tượng), các ngôn ngữ bậc trung như **C++**, **Java**, **C#**,... được cài đặt theo cách này. Tuy nhiên điểm yếu là khi bắt đầu code với các ngôn ngữ này thì nền tảng về lập trình, cũng như hiểu biết về hướng đối tượng, kỹ thuật lập trình là thứ không thể thiếu. Cài đặt dài dòng rườm ra mất thời gian của coder nhưng thứ tốt hơn được nhận lấy là code dễ quản lý, tìm lỗi, bảo trì. Nôm na là sẽ đánh đổi công sức của coder lấy về một source code tốt (hoặc ít nhất thì đó là mục tiêu lý tưởng).
 

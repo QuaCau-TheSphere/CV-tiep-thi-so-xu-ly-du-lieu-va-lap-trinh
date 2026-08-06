@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-22T21:50
-updated: 2026-07-06T21:40
+updated: 2026-08-06T15:36
 ---
 Qua các nội dung của bài này và bài học trước đó ([list trong Python](https://tuhocict.com/kieu-danh-sach-list-trong-python/)) bạn có thể thấy có rất nhiều điểm tương tự giữa tuple và list. Tuy nhiên, tuple và list có những điểm phân biệt rất rõ ràng. Sự khác biệt này quyết định giá trị sử dụng của từng kiểu dữ liệu.
 

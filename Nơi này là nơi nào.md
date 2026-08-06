@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-08-25T15:39
-updated: 2026-07-06T21:41
+updated: 2026-08-06T15:36
 filename: index
 alias:
   - Homepage

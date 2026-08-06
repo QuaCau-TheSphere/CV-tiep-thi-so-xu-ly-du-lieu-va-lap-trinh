@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-24T18:26
-updated: 2026-07-24T21:47
+updated: 2026-08-06T15:36
 ---
 The issue itself is that Chromium uses a lot of memory. And electron basically just runs Chromium. Except that since each Electron-based app ships its own very isolated copy of Chromium, the following problems occur:
 

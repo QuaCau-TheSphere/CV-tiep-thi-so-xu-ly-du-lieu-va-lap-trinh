@@ -1,10 +1,11 @@
 ---
 share: true
 created: 2025-02-28T19:28
-updated: 2026-07-06T21:40
+updated: 2026-08-06T15:36
 ---
 ## `core`
 ## `kernel`
+[[Linux là nhân hệ điều hành. GNU Linux mới là hệ điều hành]]
 ## `engine`
 Lúc thì như một thứ độc lập (JS engine, Lua engine, PDF engine, game engine, [Docker engine](https://docs.docker.com/engine/), TeX engine), lúc thì là một phần quan trọng nhưng không hay được nói như là một thứ độc lập (rendering engine, search engine, physics engine)
 

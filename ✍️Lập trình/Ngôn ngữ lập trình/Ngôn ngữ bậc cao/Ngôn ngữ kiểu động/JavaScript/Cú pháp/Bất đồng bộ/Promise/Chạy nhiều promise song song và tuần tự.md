@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-07-24T21:47
+updated: 2026-08-06T15:36
 created: 2024-11-27T21:18
 ---
 - If you want to run than in parallel, then we use `.map()` to kick everything off, then `Promise.all()` to gather them back up again.

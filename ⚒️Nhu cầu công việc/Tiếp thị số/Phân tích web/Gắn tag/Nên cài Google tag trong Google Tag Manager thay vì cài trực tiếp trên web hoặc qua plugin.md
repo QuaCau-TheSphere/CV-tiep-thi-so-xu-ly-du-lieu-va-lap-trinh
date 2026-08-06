@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-24T18:26
-updated: 2026-07-06T21:40
+updated: 2026-08-06T15:36
 ---
 
 [[Google tag, global site tag, gtag là những cái tên khác nhau cho đoạn script theo dõi người dùng của Google Analytics]], còn [[Google Tag Manager là một trình quản lý các mã JavaScript được gắn vào web]]. Ngoài Google tag ra còn có Facebook tag, LinkedIn tag, v.v.

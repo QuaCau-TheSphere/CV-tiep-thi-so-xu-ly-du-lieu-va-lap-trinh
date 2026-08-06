@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2026-07-06T21:40
+updated: 2026-08-06T15:36
 ---
 
 Nguồn:: ![The Original Sin of Computing...that no one can fix - YouTube](https://youtu.be/Fu3laL5VYdM?si=yronuOTzXq34flar)

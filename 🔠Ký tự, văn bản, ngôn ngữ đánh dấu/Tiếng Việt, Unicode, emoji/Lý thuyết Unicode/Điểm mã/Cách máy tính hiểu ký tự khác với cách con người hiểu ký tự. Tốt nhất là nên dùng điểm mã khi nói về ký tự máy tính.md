@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-22T21:08
-updated: 2026-07-06T21:41
+updated: 2026-08-06T15:36
 ---
 Nguồn:: ![Why You Can Tweet More In Japanese: What Counts As A Character? - YouTube](https://www.youtube.com/watch?v=qOcxwRc2Epg)
 

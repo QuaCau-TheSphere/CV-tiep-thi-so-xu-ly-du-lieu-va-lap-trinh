@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-08-25T14:20
-updated: 2026-07-06T21:40
+updated: 2026-08-06T15:37
 ---
 [[JavaScript vốn được sinh ra để chạy trên trình duyệt và không được dùng để làm việc với lượng code lớn]]
 Nguồn:: [Is it correct that Python does not encourage us to read objects's content?](https://langdev.stackexchange.com/q/2966/223)

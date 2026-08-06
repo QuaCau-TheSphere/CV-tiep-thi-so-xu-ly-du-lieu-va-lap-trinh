@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-24T18:26
-updated: 2026-07-16T22:29
+updated: 2026-08-06T15:36
 ---
 Function Nesting Use Cases _(mostly functional idioms, almost certainly incomplete since it's off the top of my head)_:
 

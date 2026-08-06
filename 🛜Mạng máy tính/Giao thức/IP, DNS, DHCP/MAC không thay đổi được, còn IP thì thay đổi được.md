@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2024-08-18T15:05
+updated: 2026-08-06T15:36
 ---
 Nguồn:: ![MAC vs IP Addresses - the difference between MAC and IP Addresses, a short animation. - YouTube](https://www.youtube.com/watch?v=szwqC6iI_sE&feature=youtu.be)
 

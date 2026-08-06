@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-24T18:26
-updated: 2026-07-06T21:40
+updated: 2026-08-06T15:36
 ---
 Một cách đại khái, [interface](https://tuhocict.com/lesson/cai-tien-data-acceess-su-dung-interface/) là một giao kèo giữa bên sử dụng và bên thực thi class. Cụ thể hơn, [interface](https://tuhocict.com/giai-phap-winforms-3-interface-loose-coupling/) chứa các mô tả về phương thức và thuộc tính mà bên thực thi class phải xây dựng. Bên sử dụng thì không cần quan tâm đến cách thức xây dựng này.
 
@@ -16,3 +16,5 @@ Nguồn:: [[tuhocict]], [Bộ nguyên lý SOLID - lập trình viên tương lai
 [[Giao diện là cái khuôn của phương thức]]
 [[API là giao diện của một chương trình]] 
 [[Việc đóng gói (encapsulation) giúp ta không cần quan tâm vật thể lưu dữ liệu thế nào, mà chỉ cần quan tâm tới thuộc tính và phương thức của nó]]
+
+[[Giao diện nhấn mạnh vào mô hình dữ liệu, còn giao thức nhấn mạnh vào các quy tắc và thủ tục trong quá trình truyền và trao đổi dữ liệu|Giao diện và giao thức đều là những thứ các bên cần tuân thủ để sự giao tiếp được diễn ra, nhưng giao diện nhấn mạnh vào mô hình dữ liệu, còn giao thức nhấn mạnh vào các quy tắc và thủ tục trong quá trình truyền và trao đổi dữ liệu]]

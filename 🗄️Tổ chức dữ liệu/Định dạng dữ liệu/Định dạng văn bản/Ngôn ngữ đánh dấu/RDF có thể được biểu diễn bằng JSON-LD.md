@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2025-10-02T14:49
+updated: 2026-08-06T15:36
 ---
 key-value. Triple store là key-predicate-value
 It's more conducive to real work to convert triples like:

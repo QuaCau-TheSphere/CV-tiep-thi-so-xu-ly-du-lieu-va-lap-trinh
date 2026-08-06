@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2026-07-07T14:55
+updated: 2026-08-06T15:36
 ---
 Cơ bản ref là branch và tag
 [[Blob, tree, commit và annotated tag là các vật thể chính]]

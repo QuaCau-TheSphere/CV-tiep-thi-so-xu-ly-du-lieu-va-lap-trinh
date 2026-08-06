@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-07-20T14:37
+updated: 2026-08-06T15:36
 created: 2026-07-19T22:39
 ---
 Khái niệm:: [[Hồi quy]], [[Vòng lặp]]

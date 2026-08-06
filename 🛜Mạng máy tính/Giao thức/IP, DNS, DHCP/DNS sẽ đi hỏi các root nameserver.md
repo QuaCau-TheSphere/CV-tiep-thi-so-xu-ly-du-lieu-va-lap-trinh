@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-24T18:26
-updated: 2024-08-18T15:05
+updated: 2026-08-06T15:36
 ---
 ![](https://wizardzines.com/images/uploads/root-nameservers.png) 
 ![](https://i.imgur.com/ZMClF9q.png)

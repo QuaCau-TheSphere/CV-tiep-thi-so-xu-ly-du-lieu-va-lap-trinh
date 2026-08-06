@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2026-07-19T22:34
+updated: 2026-08-06T15:36
 ---
 [[Thời điểm xét kiểu quyết định độ động tĩnh của nó. Cách kiểu được xét quyết định độ mạnh yếu của nó]]
 [[Sự xuất hiện của language server giúp ta có thể bắt kiểu trước cả lúc biên dịch cho những ngôn ngữ chỉ bắt kiểu lúc chạy]]

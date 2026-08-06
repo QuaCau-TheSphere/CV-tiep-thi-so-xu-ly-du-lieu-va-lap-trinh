@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2026-07-06T21:41
+updated: 2026-08-06T15:36
 ---
 Nguồn:: [Parsing và phân tích cú pháp](https://nkthanh.dev/posts/parsing-va-phan-tich-cu-phap)
 [[Chữ ML trong HTML, XML, YAML, TOML là viết tắt của markup language]]

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-24T18:26
-updated: 2026-07-24T21:47
+updated: 2026-08-06T15:36
 ---
 Thứ được `return` trong hàm làm đối số của `then()` sẽ được truyền tiếp vào `then()` tiếp theo:
 ```js

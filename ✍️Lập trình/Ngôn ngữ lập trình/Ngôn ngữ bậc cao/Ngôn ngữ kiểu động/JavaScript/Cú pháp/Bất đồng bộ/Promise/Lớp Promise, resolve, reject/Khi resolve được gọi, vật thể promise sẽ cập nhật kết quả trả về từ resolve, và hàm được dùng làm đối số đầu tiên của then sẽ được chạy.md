@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2026-07-24T21:47
+updated: 2026-08-06T15:36
 ---
 Lúc tạo vật thể promise thì [[Đối số của Promise là một hàm. Nó được gọi là hàm thực thi (executor)|đối số được dùng cho lớp Promise là một hàm được gọi là hàm thực thi]]:
 ```ts

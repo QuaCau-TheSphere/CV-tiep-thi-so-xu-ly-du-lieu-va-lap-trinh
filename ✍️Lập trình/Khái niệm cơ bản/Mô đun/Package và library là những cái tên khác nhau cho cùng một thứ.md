@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-08-25T14:20
-updated: 2026-07-06T21:40
+updated: 2026-08-06T15:36
 alias: mô đun, module, thư viện, gói, framework
 ---
 - Mô đun (module): các tập tin `.py`, `.js`, là một phần của một cho chương trình, do chính tác giả tự viết

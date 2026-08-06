@@ -2,7 +2,7 @@
 share: true
 alias: thuộc tính, attribute, property
 created: 2023-08-25T14:20
-updated: 2026-07-19T22:34
+updated: 2026-08-06T15:36
 ---
 
 Nếu mà nói một khái niệm làm mình hiểu được cách một lập trình viên sẽ nhìn thế giới như thế nào thì đó là lúc mình hiểu được thế nào là "vật thể" (object). Mọi người hay dịch là đối tượng nhưng mình chưa thấy có lý do nào để gọi như vậy

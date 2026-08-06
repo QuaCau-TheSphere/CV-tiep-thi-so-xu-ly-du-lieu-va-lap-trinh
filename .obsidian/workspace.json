@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e1b81b12527e2ce8",
+        "id": "0b68b9f6e80afd27",
         "type": "tabs",
         "children": [
           {
-            "id": "781a9e1aa1b24db5",
+            "id": "42d08ee446b25142",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "✍️Lập trình/Ngôn ngữ lập trình/Ý đồ thiết kế/Ngôn ngữ kiểu tĩnh/Rust/Viết chương trình bằng Rust giống như sống trong mối quan hệ bạo hành.md",
+                "file": "✍️Lập trình/Cloud, webhook, API/API của từng dịch vụ/Google/Build service object.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,16 +28,40 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Viết chương trình bằng Rust giống như sống trong mối quan hệ bạo hành"
+              "title": "Build service object"
             }
           },
           {
-            "id": "b517f5e56bc2dd83",
+            "id": "f357e2a34a32a8ba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "✍️Lập trình/Ngôn ngữ lập trình/ASM.md",
+                "file": "✍️Lập trình/CICD/Dịch vụ đám mây/Cloud bản chất là đi thuê local của người khác.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Cloud bản chất là đi thuê local của người khác"
+            }
+          },
+          {
+            "id": "6572c9c7ff5cd29e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "✍️Lập trình/Công cụ/CICD/Script vòng đời là những script dùng để chạy những sự kiện.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -52,11 +76,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ASM"
+              "title": "Script vòng đời là những script dùng để chạy những sự kiện"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -76,7 +100,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -88,7 +114,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"-rm\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -208,44 +234,45 @@
       "open-vscode:VS Code": false
     }
   },
-  "active": "b517f5e56bc2dd83",
+  "active": "6572c9c7ff5cd29e",
   "lastOpenFiles": [
-    "✍️Lập trình/Ngôn ngữ lập trình/Ngôn ngữ bậc cao/Ngôn ngữ kiểu tĩnh/Haskell dùng versioning khác semver.md",
-    "✍️Lập trình/Ngôn ngữ lập trình/Ngôn ngữ bậc thấp/malloc là allocator phổ biến trong C, dùng cho heap, và được xây trực tiếp trên bộ nhớ page.md",
-    "✍️Lập trình/Ngôn ngữ lập trình/ASM.md",
-    "✍️Lập trình/Ngôn ngữ lập trình/Ngôn ngữ bậc cao/Ngôn ngữ kiểu tĩnh/Gleam/Gleam.md",
-    "✍️Lập trình/Ngôn ngữ lập trình/Ngôn ngữ bậc cao/Ngôn ngữ kiểu tĩnh/Go/Go.md",
-    "✍️Lập trình/Ngôn ngữ lập trình/Ngôn ngữ bậc cao/Ngôn ngữ kiểu động/JavaScript/Cú pháp/Sự kiện/Sự kiện.md",
-    "✍️Lập trình/Ngôn ngữ lập trình/Ngôn ngữ bậc cao/Ngôn ngữ kiểu động/JavaScript/Cú pháp/Bất đồng bộ/Promise/Promise.md",
-    "✍️Lập trình/Ngôn ngữ lập trình/Ngôn ngữ bậc cao/Ngôn ngữ kiểu động/JavaScript/TypeScript/TypeScript.md",
-    "✍️Lập trình/Ngôn ngữ lập trình/Ngôn ngữ bậc cao/Ngôn ngữ kiểu động/Python/Python.md",
-    "✍️Lập trình/Ngôn ngữ lập trình/Ngôn ngữ bậc cao/Ngôn ngữ kiểu động/Python/Đường dẫn, phiên bản/Conda/Anaconda giống như một fork Python có bổ sung thêm nhiều công cụ cho khoa học dữ liệu.md",
-    "✍️Lập trình/✍️Lập trình.md",
-    "✍️Lập trình/Ngôn ngữ lập trình/Các ký tự đặc biệt trong các ngôn ngữ khác nhau.md",
-    "✍️Lập trình/Ngôn ngữ lập trình/Ngôn ngữ bậc cao/Ngôn ngữ kiểu động/Python/Đường dẫn, phiên bản/Conda/Với những người chỉ cần dùng Python để làm dữ liệu chứ không lập trình, chỉ cần cài Anaconda là đủ. Không cần và không nên cài Python riêng.md",
-    "✍️Lập trình/Ngôn ngữ lập trình/Ngôn ngữ bậc cao/Ngôn ngữ kiểu động/Python/Đường dẫn, phiên bản/Conda/venv chỉ tạo môi trường ảo cho phiên bản hiện tại. Miniconda tạo môi trường ảo cho nhiều phiên bản.md",
-    "✍️Lập trình/Ngôn ngữ lập trình/Ngôn ngữ bậc cao/Ngôn ngữ kiểu động/Python/Đường dẫn, phiên bản/Conda/Conda là trình quản lý thư viện, không chỉ của Python mà còn của các ngôn ngữ khác.md",
-    "✍️Lập trình/Ngôn ngữ lập trình/Ngôn ngữ bậc cao/Ngôn ngữ kiểu động/Python/Đường dẫn, phiên bản/Việc cài phiên bản mới không xoá phiên bản cũ đi khiến cho người mới hay bị lẫn lộn phiên bản.md",
-    "✍️Lập trình/Ngôn ngữ lập trình/Ngôn ngữ bậc cao/Ngôn ngữ kiểu động/Python/Đường dẫn, phiên bản/venv tạo môi trường ảo để tránh trường hợp chồng chéo các gói và xung đột phiên bản giữa các thư viện.md",
-    "✍️Lập trình/Ngôn ngữ lập trình/Ngôn ngữ bậc cao/Ngôn ngữ kiểu động/Python/Đường dẫn, phiên bản/Tên mô đun Python sẽ được dùng làm identifier. Identifier không được có dấu cách.md",
-    "✍️Lập trình/Ngôn ngữ lập trình/Ngôn ngữ bậc cao/Ngôn ngữ kiểu động/Python/Đường dẫn, phiên bản/py là chương trình hỗ trợ việc quản lý phiên bản trên Windows.md",
-    "✍️Lập trình/Ngôn ngữ lập trình/Ngôn ngữ bậc cao/Ngôn ngữ kiểu động/Python/Đường dẫn, phiên bản/pip là chương trình quản lý package của Python.md",
-    "✍️Lập trình/Ngôn ngữ lập trình/Ngôn ngữ bậc cao/Ngôn ngữ kiểu động/Python/Đường dẫn, phiên bản/Nên cài Python bằng bộ cài tải từ website nếu muốn lập trình.md",
-    "✍️Lập trình/Ngôn ngữ lập trình/Ngôn ngữ bậc cao/Ngôn ngữ kiểu động/Python/Đường dẫn, phiên bản/Khi chạy Python trong VS Code, thư mục được chạy không phải là thư mục chứa script.md",
-    "✍️Lập trình/Ngôn ngữ lập trình/Ngôn ngữ bậc cao/Ngôn ngữ kiểu động/Python/Đường dẫn, phiên bản/Conda",
-    "✍️Lập trình/Ngôn ngữ lập trình/Ngôn ngữ bậc cao/Ngôn ngữ kiểu động/Python/Đường dẫn, phiên bản",
-    "✍️Lập trình/Ngôn ngữ lập trình/Ngôn ngữ bậc cao/Ngôn ngữ kiểu động/Python/Đường dẫn, env, phiên bản/Conda/Với những người chỉ cần dùng Python để làm dữ liệu chứ không lập trình, chỉ cần cài Anaconda là đủ. Không cần và không nên cài Python riêng.md",
-    "✍️Lập trình/Ngôn ngữ lập trình/Ngôn ngữ bậc cao/Ngôn ngữ kiểu động/Python/Đường dẫn, env, phiên bản/Conda/venv chỉ tạo môi trường ảo cho phiên bản hiện tại. Miniconda tạo môi trường ảo cho nhiều phiên bản.md",
-    "✍️Lập trình/Ngôn ngữ lập trình/Ngôn ngữ bậc cao/Ngôn ngữ kiểu động/Python/Đường dẫn, env, phiên bản/Conda/Conda là trình quản lý thư viện, không chỉ của Python mà còn của các ngôn ngữ khác.md",
-    "✍️Lập trình/Ngôn ngữ lập trình/Ngôn ngữ bậc cao/Ngôn ngữ kiểu động/Python/Đường dẫn, env, phiên bản/Conda/Anaconda giống như một fork Python có bổ sung thêm nhiều công cụ cho khoa học dữ liệu.md",
-    "✍️Lập trình/Ngôn ngữ lập trình/Ngôn ngữ bậc cao/Ngôn ngữ kiểu động/Python/Đường dẫn, env, phiên bản/Conda",
-    "✍️Lập trình/Ngôn ngữ lập trình/Ngôn ngữ bậc cao/Ngôn ngữ kiểu động/Python/Đường dẫn, env, phiên bản",
-    "✍️Lập trình/Ngôn ngữ lập trình/Ngôn ngữ bậc cao/Ngôn ngữ kiểu động/Python/Lớp",
-    "✍️Lập trình/Ngôn ngữ lập trình/Ngôn ngữ bậc cao/Ngôn ngữ kiểu động/JavaScript/Cú pháp/Bất đồng bộ/Promise/Vật thể promise, then, catch",
-    "✍️Lập trình/Ngôn ngữ lập trình/Ngôn ngữ bậc cao/Ngôn ngữ kiểu động/JavaScript/Cú pháp/Bất đồng bộ/Promise/Lớp Promise, resolve, reject",
-    "✍️Lập trình/Ngôn ngữ lập trình/Ngôn ngữ bậc cao/Ngôn ngữ kiểu động/JavaScript/Cú pháp/Số, chuỗi, URI/URI",
-    "✍️Lập trình/Ngôn ngữ lập trình/Ngôn ngữ bậc cao/Ngôn ngữ kiểu động/JavaScript/Cú pháp/Số, chuỗi, URI/Số",
-    "✍️Lập trình/Ngôn ngữ lập trình/Ngôn ngữ bậc cao/Ngôn ngữ kiểu động/JavaScript/Cú pháp/Bất đồng bộ/Promise",
+    "✍️Lập trình/Thứ được lập trình/Android/Android.md",
+    "✍️Lập trình/Công cụ/IDE/Language server là thứ khiến cho IDE hỗ trợ tốt hơn việc lập trình.md",
+    "✍️Lập trình/Khái niệm cơ bản/Việc thực thi/Lỗi runtime là lỗi logic, khi chạy mới thấy. Lỗi compile time là lỗi cú pháp, khi biên dịch là thấy ngay.md",
+    "✍️Lập trình/Công cụ/IDE/Vì lỗi compile time là lỗi cú pháp, và vì language server giúp bắt lỗi cú pháp, nên nó khiến cho code editor trở thành IDE mà không cần có compiler.md",
+    "✍️Lập trình/Công cụ/IDE/Sự khác biệt giữa IDE và trình soạn thảo văn bản nằm ở việc compile code. Nên chính xác mà nói thì không có IDE để viết JS cho máy khách.md",
+    "✍️Lập trình/Khái niệm cơ bản/Việc thực thi/Compile time là lúc chuyển từ ngôn ngữ lập trình mà người hiểu sang ngôn ngữ máy chỉ có máy mới hiểu. Runtime là lúc máy chạy mã máy.md",
+    "✍️Lập trình/Thứ được lập trình/Web/Web.md",
+    "✍️Lập trình/Thứ được lập trình/Web/Framework (Preact, Fresh)/Render, quản lý state/Signal/effect khác computed ở chỗ một cái có return, một cái không có return.md",
+    "✍️Lập trình/Thứ được lập trình/Web/Framework (Preact, Fresh)/Lịch sử, so sánh giữa các khung làm việc (framework)/Lịch sử phát triển khung làm việc (framework) JavaScript.md",
+    "✍️Lập trình/Thứ được lập trình/Web/Trình duyệt/CORS/Same-origin policy ngăn chặn việc script ở tab này điều khiển tab kia.md",
+    "✍️Lập trình/Thứ được lập trình/Web/Trình duyệt/CORS/Nếu tạo CORS proxy thì chỉ trả về đúng HTML thôi, đừng xử lý gì trên đó hết.md",
+    "✍️Lập trình/Thứ được lập trình/Web/Trình duyệt/CORS/CORS là để trình duyệt bảo vệ người dùng, không phải để bảo vệ máy chủ.md",
+    "✍️Lập trình/Kỹ thuật xử lý/Kỹ thuật xử lý.md",
+    "✍️Lập trình/Khái niệm cơ bản/Mô đun/API là giao diện của một chương trình.md",
+    "✍️Lập trình/Khái niệm cơ bản/Việc hiển thị nội dung dữ liệu như thế nào là do công cụ quyết định, không phải ngôn ngữ quyết định.md",
+    "✍️Lập trình/Thứ được lập trình/Web/Trước đây các trình duyệt có tạo API Crypto. Sau này được chuẩn hoá thì dùng SubtleCrypto.md",
+    "✍️Lập trình/Thứ được lập trình/Web/Lập trình web có rào cản gia nhập thấp nhất trong các loại lập trình.md",
+    "✍️Lập trình/Thứ được lập trình/Webhook, API/Tất cả web service là API, nhưng nó khác với web API của JS.md",
+    "✍️Lập trình/Thứ được lập trình/Webhook, API/GraphQL/Node với edge được gọi chung là endpoint.md",
+    "✍️Lập trình/Thứ được lập trình",
+    "✍️Lập trình/Thứ được lập trình/Webhook, API/GraphQL/GraphQL phù hợp cho app điện thoại, gRPC phù hợp khi cần tốc độ cao với ít tài nguyên.md",
+    "✍️Lập trình/Thứ được lập trình/Webhook, API/GraphQL/Endpoint.md",
+    "✍️Lập trình/Thứ được lập trình/Webhook, API/API đưa thông tin là thụ động. Webhook đưa thông tin chủ động.md",
+    "✍️Lập trình/Công cụ/CICD/Script vòng đời là những script dùng để chạy những sự kiện.md",
+    "✍️Lập trình/Công cụ/CICD/Dịch vụ đám mây/Oracle/Tenancy namespace là chuỗi object storage namespace trong trang Tenancy Information.md",
+    "✍️Lập trình/Công cụ/IDE/IDE.md",
+    "✍️Lập trình/Công cụ/IDE/VS Code/Debugger/Launch vs attach.md",
+    "✍️Lập trình/Công cụ",
+    "✍️Lập trình/Công cụ/CICD/Dịch vụ đám mây/Oracle",
+    "✍️Lập trình/Công cụ/CICD/Dịch vụ đám mây",
+    "Ξ Thiết lập/Ảnh/Người dùng, giao diện, chương trình ứng dụng, hệ quản trị cơ sở dữ liệu, cơ sở dữ liệu.png",
+    "🗄️Tổ chức dữ liệu/Định dạng dữ liệu/Định dạng bảng",
+    "🤖Đường dẫn, tiến trình, terminal, hệ điều hành/Chương trình, tiến trình/init",
+    "🤖Đường dẫn, tiến trình, terminal, hệ điều hành/Nhân",
+    "✍️Lập trình/Công cụ/CICD/Container (Docker)/Ảnh",
+    "💽Phần cứng/Kiến trúc",
+    "✍️Lập trình/Công cụ/CICD/Container (Docker)/Container",
     "Ξ Thiết lập/Ảnh/origin.png"
   ]
 }

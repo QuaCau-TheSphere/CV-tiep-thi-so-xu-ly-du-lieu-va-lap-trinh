@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-08-25T14:20
-updated: 2026-07-06T21:41
+updated: 2026-08-06T15:36
 title: Không dùng \b ngay sau ký tự unicode được
 ---
 [Why does /đ\b/ not match đ? (duplicate)](https://stackoverflow.com/q/76627655/3416774)

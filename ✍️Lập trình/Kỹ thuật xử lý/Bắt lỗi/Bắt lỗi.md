@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-07-23T23:04
+updated: 2026-08-06T15:36
 created: 2024-08-18T15:05
 ---
 [Error handling - YouTube](https://www.youtube.com/playlist?list=PLTSGjY2jqrUXPn1NtZbaqOGX66Zb5ax2N)

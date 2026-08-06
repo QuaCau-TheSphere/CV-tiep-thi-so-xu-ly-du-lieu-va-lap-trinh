@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2026-07-06T21:41
+updated: 2026-08-06T15:36
 ---
 [[git merge B nên được hiểu là git merge A with B. git rebase A nên được hiểu là git rebase B to A]]
 Giả sử ta có 2 branch `A` và `B`. Ta đang ở A:

@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-07-24T21:46
+updated: 2026-08-06T15:36
 created: 2026-07-22T21:47
 title: Variant của enum bị lọt ra toàn cục là vì code Gleam sau đó sẽ được dịch ra Erlang hoặc JavaScript, đều là ngôn ngữ không có ký hiệu kiểu, nên những code về kiểu sẽ bị gọt bỏ hết
 ---

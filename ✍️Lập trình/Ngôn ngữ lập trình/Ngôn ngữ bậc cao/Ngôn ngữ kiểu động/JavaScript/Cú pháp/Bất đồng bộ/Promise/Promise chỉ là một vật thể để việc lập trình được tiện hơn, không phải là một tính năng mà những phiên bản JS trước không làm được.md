@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-24T18:26
-updated: 2026-07-24T21:47
+updated: 2026-08-06T15:36
 ---
 [[Lớp là một cái khuôn để tạo các vật thể cho nhanh]]. Thông thường để tạo một vật thể mới qua một lớp ta dùng thế này:
 ```js

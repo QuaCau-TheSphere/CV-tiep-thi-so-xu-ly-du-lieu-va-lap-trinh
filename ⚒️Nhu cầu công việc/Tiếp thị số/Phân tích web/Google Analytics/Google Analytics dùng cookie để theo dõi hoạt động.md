@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-14T11:01
-updated: 2026-07-06T21:40
+updated: 2026-08-06T15:36
 ---
 [[Cookie là các tệp nhỏ được lưu trong trình duyệt]]
 Một Google Analytics Cookies thì có phần đầu của nó được gọi là phiên bản GA với dãy ký tự là GA1.1, hoặc GA1.2. Nó phụ thuộc vào mã đo lường Google Analytics mà bạn đang sử dụng là gì.

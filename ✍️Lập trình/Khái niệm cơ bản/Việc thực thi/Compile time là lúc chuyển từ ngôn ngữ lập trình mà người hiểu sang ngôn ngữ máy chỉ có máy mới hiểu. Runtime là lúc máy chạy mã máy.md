@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2026-07-16T22:33
+updated: 2026-08-06T16:16
 ---
 ![Compile Time vs. Runtime - YouTube](https://www.youtube.com/watch?v=AxgXCUxPIf8)
 ![](https://www.monkeyuser.com/2017/compile-vs-runtime-error/70-runtime-vs-compile-time-errors.png)

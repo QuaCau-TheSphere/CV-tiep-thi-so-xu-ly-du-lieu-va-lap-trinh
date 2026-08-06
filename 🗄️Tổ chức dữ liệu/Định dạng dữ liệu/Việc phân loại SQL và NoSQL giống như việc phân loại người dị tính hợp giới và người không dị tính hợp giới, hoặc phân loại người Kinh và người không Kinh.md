@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2026-07-06T21:41
+updated: 2026-08-06T15:36
 ---
 Các loại cơ sở dữ liệu đều là để đạt được mục đích nào đó. Các mục đích này tương đương với nhau. Nhưng việc cơ sở dữ liệu dạng bảng phổ biến rộng rãi làm cho tất cả những dạng còn lại bị gom chung vào một cái tên, dù 
 

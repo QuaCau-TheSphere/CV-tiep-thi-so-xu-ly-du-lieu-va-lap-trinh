@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2026-07-08T22:26
+updated: 2026-08-06T15:36
 ---
 Nguồn:: ![Why is the JavaScript ecosystem switching to Rust? - YouTube](https://youtu.be/dZQMoEWe5uY?si=Rmr4RCwH5fSeQO2Z&t=1171)
 [[Compile time là lúc chuyển từ ngôn ngữ lập trình mà người hiểu sang ngôn ngữ máy chỉ có máy mới hiểu. Runtime là lúc máy chạy mã máy]]

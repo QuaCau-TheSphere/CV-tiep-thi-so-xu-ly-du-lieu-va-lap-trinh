@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2025-03-03T18:48
+updated: 2026-08-06T15:36
 ---
 Để giải quyết, Google thiết kế giao thức mới QUIC. Mục tiêu: giảm thời gian chờ. QUIC dựa trên UDP, viết lại cả TLS. Chỉ Google mới đủ sức làm, với đội kỹ sư cực mạnh, luôn tràn trề tinh thần “làm được”, cùng sân chơi đủ lớn để thử nghiệm với Chrome ở phía client và Gmail hay Search ở phía máy chủ.
 

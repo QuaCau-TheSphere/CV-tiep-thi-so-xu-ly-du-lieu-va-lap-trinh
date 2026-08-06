@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2026-07-08T22:24
+updated: 2026-08-06T15:36
 ---
 Rust’s rich type system is a blessing and a curse. Thinking in Rust types is a dream. Managing Rust’s types can be a nightmare. Your data and function signatures can have generic types, generic lifetimes, and trait constraints. Those constraints can have their own generic types and lifetimes. [Sometimes, you’ll have more type constraints than actual code](https://github.com/rxRust/rxRust/blob/master/src/observable.rs#L1134-L1142).
 

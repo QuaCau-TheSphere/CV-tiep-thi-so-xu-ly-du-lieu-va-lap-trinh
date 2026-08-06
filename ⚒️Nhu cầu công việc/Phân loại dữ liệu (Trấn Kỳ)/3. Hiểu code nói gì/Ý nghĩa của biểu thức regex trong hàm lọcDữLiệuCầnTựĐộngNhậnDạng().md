@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-19T23:42
-updated: 2026-07-06T21:40
+updated: 2026-08-06T15:36
 ---
 Biểu thức regex chỉ nhận những từ phía trước không có ký tự nào. Như vậy thì người dùng ghi `cát` thì script sẽ không tưởng lầm là có `cá`, ghi `đáo` thì sẽ không tưởng lầm là có `áo`.
  

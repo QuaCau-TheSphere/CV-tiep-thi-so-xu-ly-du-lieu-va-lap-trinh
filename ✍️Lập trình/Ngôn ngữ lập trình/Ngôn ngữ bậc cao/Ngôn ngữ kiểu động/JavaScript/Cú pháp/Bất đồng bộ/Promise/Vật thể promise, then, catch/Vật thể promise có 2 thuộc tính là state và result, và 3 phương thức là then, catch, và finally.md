@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2026-07-24T21:47
+updated: 2026-08-06T15:36
 ---
 [[Để lấy được giá trị state và result của promise, cần dùng các phương thức then và catch]]
 [[Vật thể promise có 2 thuộc tính là state và result, và 3 phương thức là then, catch, và finally]]

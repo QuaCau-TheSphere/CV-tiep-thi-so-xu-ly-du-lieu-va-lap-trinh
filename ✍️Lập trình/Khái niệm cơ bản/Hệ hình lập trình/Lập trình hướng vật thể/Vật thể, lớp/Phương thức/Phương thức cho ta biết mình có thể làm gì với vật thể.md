@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-24T18:26
-updated: 2026-07-19T22:34
+updated: 2026-08-06T15:36
 ---
 Ví dụ, bạn có một rổ trái cây:
 ![|300](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/A_basket_of_fruits.jpg/600px-A_basket_of_fruits.jpg)

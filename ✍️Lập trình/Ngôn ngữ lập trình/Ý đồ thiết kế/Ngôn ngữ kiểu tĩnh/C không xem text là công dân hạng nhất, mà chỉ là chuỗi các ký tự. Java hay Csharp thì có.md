@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2026-07-08T22:24
+updated: 2026-08-06T15:36
 title: C không xem text là first-class, mà chỉ là chuỗi các ký tự. Java hay C# thì có
 ---
 Khái niệm:: 

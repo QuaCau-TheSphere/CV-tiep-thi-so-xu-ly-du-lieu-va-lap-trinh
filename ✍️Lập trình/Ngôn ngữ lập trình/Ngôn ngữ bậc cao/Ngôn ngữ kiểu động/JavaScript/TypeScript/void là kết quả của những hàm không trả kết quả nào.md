@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2026-07-24T21:47
+updated: 2026-08-06T15:36
 ---
 Khi hàm không dùng từ khoá `return` thì tức là hàm đó chỉ dùng để gom nhiều hàm khác lại làm một thôi chứ không có chạy gì cả. Đồng nghĩa với việc nó dùng `return void`.
 

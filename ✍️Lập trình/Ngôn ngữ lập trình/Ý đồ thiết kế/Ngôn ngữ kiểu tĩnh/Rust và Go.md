@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2026-07-15T14:42
+updated: 2026-08-06T15:36
 ---
 Khái niệm:: 
 ![Rust vs Go in 2025: Systems Programming Reimagined - YouTube](https://www.youtube.com/watch?v=0j8D6-OWYLw)

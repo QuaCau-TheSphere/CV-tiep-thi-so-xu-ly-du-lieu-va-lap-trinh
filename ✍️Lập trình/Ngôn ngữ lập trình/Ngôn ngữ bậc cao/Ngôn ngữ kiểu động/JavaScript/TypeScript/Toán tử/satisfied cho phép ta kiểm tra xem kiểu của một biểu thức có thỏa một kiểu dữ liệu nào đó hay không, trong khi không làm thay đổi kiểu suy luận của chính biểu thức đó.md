@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2026-07-24T21:47
+updated: 2026-08-06T15:36
 ---
 Các lập trình viên TypeScript thường gặp một tình huống khó xử: họ muốn đảm bảo rằng một biểu thức *phù hợp với một kiểu dữ liệu* nào đó, nhưng đồng thời cũng muốn *giữ lại kiểu cụ thể nhất của biểu thức đó* để phục vụ cho quá trình suy luận kiểu (type inference).
 

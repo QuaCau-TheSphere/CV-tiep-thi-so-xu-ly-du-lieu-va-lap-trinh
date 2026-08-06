@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2026-07-07T14:56
+updated: 2026-08-06T15:36
 ---
 [[HEAD là commit hiện tại]]. Khi dùng `git status` và nó ghi `On branch main`nghĩa là tệp `.git/HEAD` đang ghi `ref: refs/heads/main`. Nếu nội dung `.git/HEAD` chỉ ghi commit chứ không phải ref nhánh thì đó là trạng thái mất đầu.
 

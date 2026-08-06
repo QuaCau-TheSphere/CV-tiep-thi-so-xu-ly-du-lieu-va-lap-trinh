@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2026-07-07T14:54
+updated: 2026-08-06T15:36
 ---
 [[Ref là hệ thống đặt tên các vật thể git]]. Để biết có ref nào đang đính vào commit nào, dùng 
 ```

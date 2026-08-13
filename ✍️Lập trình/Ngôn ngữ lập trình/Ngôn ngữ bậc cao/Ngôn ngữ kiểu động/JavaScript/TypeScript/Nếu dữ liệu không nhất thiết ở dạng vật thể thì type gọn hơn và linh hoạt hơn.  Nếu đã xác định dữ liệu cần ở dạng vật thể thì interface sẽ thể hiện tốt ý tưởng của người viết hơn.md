@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2026-08-06T15:36
+updated: 2026-08-13T22:12
 ---
 Trong TypeScript, nếu ta muốn khai báo kiểu cho vật thể, ta có thể dùng từ khoá  `type` hoặc `interface`. `type` làm được gì thì `interface` cũng làm được như thế. Vậy thì khi nào nên dùng `type` và khi nào nên dùng `interface`?
 
@@ -33,3 +33,4 @@ Nguồn:: ![Why use Type and not Interface in TypeScript - YouTube](https://www.
 Nguồn:: [TypeScript: Documentation - TypeScript for JavaScript Programmers](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
 
 [[Dùng lớp khi ta có logic nghiệp vụ thực sự cần được thực thi. Dùng giao diện để tạo ràng buộc kiểu cho biến]]
+[[Việc chồng giao diện hữu ích khi cần mở rộng giao diện của thư viện]]

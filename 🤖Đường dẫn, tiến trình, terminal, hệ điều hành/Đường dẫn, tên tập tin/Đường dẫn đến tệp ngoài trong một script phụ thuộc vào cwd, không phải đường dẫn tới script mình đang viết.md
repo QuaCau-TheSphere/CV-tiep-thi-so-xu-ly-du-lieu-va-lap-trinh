@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2026-07-06T21:41
+updated: 2026-08-07T21:51
 ---
 [[Đường dẫn trong launch.json là cwd]] 
 Ví dụ `script.ts` này gọi đến `file.txt`:

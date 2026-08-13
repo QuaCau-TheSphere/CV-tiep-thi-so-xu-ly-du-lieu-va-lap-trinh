@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "42d08ee446b25142",
+            "id": "ddb09e71542bc6d1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "✍️Lập trình/Cloud, webhook, API/API của từng dịch vụ/Google/Build service object.md",
+                "file": "✍️Lập trình/Công cụ/Dịch vụ đám mây/Fly/Fly Volumes and Fly Machines are meant to be paired together, but they are not always found in pairs.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,16 +28,88 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Build service object"
+              "title": "Fly Volumes and Fly Machines are meant to be paired together, but they are not always found in pairs"
             }
           },
           {
-            "id": "f357e2a34a32a8ba",
+            "id": "0097b27924b037e7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "✍️Lập trình/CICD/Dịch vụ đám mây/Cloud bản chất là đi thuê local của người khác.md",
+                "file": "🤖Đường dẫn, tiến trình, terminal, hệ điều hành/Biến môi trường (env)/Biến môi trường người dùng (user env) được ưu tiên hơn biến môi trường hệ thống (system env). Nhưng với biến PATH thì ngược lại.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Biến môi trường người dùng (user env) được ưu tiên hơn biến môi trường hệ thống (system env). Nhưng với biến PATH thì ngược lại"
+            }
+          },
+          {
+            "id": "2882414b7ba25f4c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🤖Đường dẫn, tiến trình, terminal, hệ điều hành/Biến môi trường (env)/Viết một biến vào tệp .env không có nghĩa là biến đó đã trở thành biến môi trường. Phải có thêm một chương trình nạp nó vào môi trường.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Viết một biến vào tệp .env không có nghĩa là biến đó đã trở thành biến môi trường. Phải có thêm một chương trình nạp nó vào môi trường"
+            }
+          },
+          {
+            "id": "5a91aa59e2cba372",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "✍️Lập trình/Ngôn ngữ lập trình/Ngôn ngữ bậc cao/Ngôn ngữ kiểu tĩnh/Haskell dùng versioning khác semver.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Haskell dùng versioning khác semver"
+            }
+          },
+          {
+            "id": "2519bdd3dbe203e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "✍️Lập trình/Công cụ/Dịch vụ đám mây/Fly/App là một nhóm các máy.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -52,16 +124,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Cloud bản chất là đi thuê local của người khác"
+              "title": "App là một nhóm các máy"
             }
           },
           {
-            "id": "6572c9c7ff5cd29e",
+            "id": "3b5d7e192ef667fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "✍️Lập trình/Công cụ/CICD/Script vòng đời là những script dùng để chạy những sự kiện.md",
+                "file": "✍️Lập trình/Công cụ/Dịch vụ đám mây/Fly/Volume/Fly Volumes and Fly Machines are meant to be paired together, but they are not always found in pairs.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -76,11 +148,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Script vòng đời là những script dùng để chạy những sự kiện"
+              "title": "Fly Volumes and Fly Machines are meant to be paired together, but they are not always found in pairs"
+            }
+          },
+          {
+            "id": "6f3b1c628e209bc3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "✍️Lập trình/Công cụ/Git/Git.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Git"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -114,7 +210,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"-rm\"",
+                "query": "installHook",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -234,45 +330,45 @@
       "open-vscode:VS Code": false
     }
   },
-  "active": "6572c9c7ff5cd29e",
+  "active": "6f3b1c628e209bc3",
   "lastOpenFiles": [
-    "✍️Lập trình/Thứ được lập trình/Android/Android.md",
-    "✍️Lập trình/Công cụ/IDE/Language server là thứ khiến cho IDE hỗ trợ tốt hơn việc lập trình.md",
-    "✍️Lập trình/Khái niệm cơ bản/Việc thực thi/Lỗi runtime là lỗi logic, khi chạy mới thấy. Lỗi compile time là lỗi cú pháp, khi biên dịch là thấy ngay.md",
-    "✍️Lập trình/Công cụ/IDE/Vì lỗi compile time là lỗi cú pháp, và vì language server giúp bắt lỗi cú pháp, nên nó khiến cho code editor trở thành IDE mà không cần có compiler.md",
-    "✍️Lập trình/Công cụ/IDE/Sự khác biệt giữa IDE và trình soạn thảo văn bản nằm ở việc compile code. Nên chính xác mà nói thì không có IDE để viết JS cho máy khách.md",
-    "✍️Lập trình/Khái niệm cơ bản/Việc thực thi/Compile time là lúc chuyển từ ngôn ngữ lập trình mà người hiểu sang ngôn ngữ máy chỉ có máy mới hiểu. Runtime là lúc máy chạy mã máy.md",
-    "✍️Lập trình/Thứ được lập trình/Web/Web.md",
-    "✍️Lập trình/Thứ được lập trình/Web/Framework (Preact, Fresh)/Render, quản lý state/Signal/effect khác computed ở chỗ một cái có return, một cái không có return.md",
-    "✍️Lập trình/Thứ được lập trình/Web/Framework (Preact, Fresh)/Lịch sử, so sánh giữa các khung làm việc (framework)/Lịch sử phát triển khung làm việc (framework) JavaScript.md",
-    "✍️Lập trình/Thứ được lập trình/Web/Trình duyệt/CORS/Same-origin policy ngăn chặn việc script ở tab này điều khiển tab kia.md",
-    "✍️Lập trình/Thứ được lập trình/Web/Trình duyệt/CORS/Nếu tạo CORS proxy thì chỉ trả về đúng HTML thôi, đừng xử lý gì trên đó hết.md",
-    "✍️Lập trình/Thứ được lập trình/Web/Trình duyệt/CORS/CORS là để trình duyệt bảo vệ người dùng, không phải để bảo vệ máy chủ.md",
-    "✍️Lập trình/Kỹ thuật xử lý/Kỹ thuật xử lý.md",
-    "✍️Lập trình/Khái niệm cơ bản/Mô đun/API là giao diện của một chương trình.md",
-    "✍️Lập trình/Khái niệm cơ bản/Việc hiển thị nội dung dữ liệu như thế nào là do công cụ quyết định, không phải ngôn ngữ quyết định.md",
-    "✍️Lập trình/Thứ được lập trình/Web/Trước đây các trình duyệt có tạo API Crypto. Sau này được chuẩn hoá thì dùng SubtleCrypto.md",
-    "✍️Lập trình/Thứ được lập trình/Web/Lập trình web có rào cản gia nhập thấp nhất trong các loại lập trình.md",
-    "✍️Lập trình/Thứ được lập trình/Webhook, API/Tất cả web service là API, nhưng nó khác với web API của JS.md",
-    "✍️Lập trình/Thứ được lập trình/Webhook, API/GraphQL/Node với edge được gọi chung là endpoint.md",
-    "✍️Lập trình/Thứ được lập trình",
-    "✍️Lập trình/Thứ được lập trình/Webhook, API/GraphQL/GraphQL phù hợp cho app điện thoại, gRPC phù hợp khi cần tốc độ cao với ít tài nguyên.md",
-    "✍️Lập trình/Thứ được lập trình/Webhook, API/GraphQL/Endpoint.md",
-    "✍️Lập trình/Thứ được lập trình/Webhook, API/API đưa thông tin là thụ động. Webhook đưa thông tin chủ động.md",
-    "✍️Lập trình/Công cụ/CICD/Script vòng đời là những script dùng để chạy những sự kiện.md",
-    "✍️Lập trình/Công cụ/CICD/Dịch vụ đám mây/Oracle/Tenancy namespace là chuỗi object storage namespace trong trang Tenancy Information.md",
-    "✍️Lập trình/Công cụ/IDE/IDE.md",
-    "✍️Lập trình/Công cụ/IDE/VS Code/Debugger/Launch vs attach.md",
-    "✍️Lập trình/Công cụ",
-    "✍️Lập trình/Công cụ/CICD/Dịch vụ đám mây/Oracle",
-    "✍️Lập trình/Công cụ/CICD/Dịch vụ đám mây",
+    "✍️Lập trình/Công cụ/Dịch vụ đám mây/Webhook, web service/Webhook, web service.md",
+    "🛜Mạng máy tính/Máy phục vụ (server)/Proxy, CDN/Cloudflare đóng vai trò là một proxy và CDN.md",
+    "✍️Lập trình/Công cụ/Dịch vụ đám mây/Dịch vụ máy phục vụ/Đám mây bản chất là đi thuê local của người khác.md",
+    "✍️Lập trình/Khái niệm cơ bản/Việc thực thi/JIT.md",
+    "✍️Lập trình/Công cụ/Dịch vụ đám mây/Cloud bản chất là đi thuê local của người khác.md",
+    "✍️Lập trình/Công cụ/Dịch vụ đám mây/Dịch vụ máy phục vụ/Làm quen Deno Deploy cho người mới.md",
+    "✍️Lập trình/Công cụ/Dịch vụ đám mây/Dịch vụ máy phục vụ/Oracle/Tenancy namespace là chuỗi object storage namespace trong trang Tenancy Information.md",
+    "✍️Lập trình/Công cụ/Dịch vụ đám mây/Dịch vụ máy phục vụ/Oracle",
+    "✍️Lập trình/Công cụ/Dịch vụ đám mây/Dịch vụ máy phục vụ/Google/Tài khoản thanh toán.md",
+    "✍️Lập trình/Công cụ/Dịch vụ đám mây/Dịch vụ máy phục vụ/Google/GCP nhiều khi chặn IP Việt Nam.md",
+    "✍️Lập trình/Công cụ/Dịch vụ đám mây/Dịch vụ máy phục vụ/Google/Build service object.md",
+    "✍️Lập trình/Công cụ/Dịch vụ đám mây/Dịch vụ máy phục vụ/Google",
+    "✍️Lập trình/Công cụ/Dịch vụ đám mây/Dịch vụ máy phục vụ/GitHub/Website GitHub giống như là để teamview máy tính của GitHub.md",
+    "✍️Lập trình/Công cụ/Dịch vụ đám mây/Dịch vụ máy phục vụ/GitHub/Tạo nhánh mới khi tạo PR sẽ dễ quản lý hơn.md",
+    "✍️Lập trình/Công cụ/Dịch vụ đám mây/Dịch vụ máy phục vụ/GitHub/Template và fork.md",
+    "✍️Lập trình/Công cụ/Dịch vụ đám mây/Dịch vụ máy phục vụ/GitHub/GitHub Page không nhận ra các thư mục có dash phía trước, chỉ đọc được trong docs.md",
+    "✍️Lập trình/Công cụ/Dịch vụ đám mây/Dịch vụ máy phục vụ/GitHub/GitHub Action phải clone về trước.md",
+    "✍️Lập trình/Công cụ/Dịch vụ đám mây/Dịch vụ máy phục vụ/GitHub",
+    "✍️Lập trình/Công cụ/Dịch vụ đám mây/Dịch vụ máy phục vụ/Fly/Volume/Volume thuộc về một app, tồn tại trên một server, chỉ gắn với một máy.md",
+    "✍️Lập trình/Công cụ/Dịch vụ đám mây/Dịch vụ máy phục vụ/Fly/Volume/Fly Volumes and Fly Machines are meant to be paired together, but they are not always found in pairs.md",
+    "✍️Lập trình/Công cụ/Dịch vụ đám mây/Dịch vụ máy phục vụ/Fly/Volume/Các máy không chia sẻ cùng volume.md",
+    "✍️Lập trình/Công cụ/Dịch vụ đám mây/Dịch vụ máy phục vụ/Fly/Volume",
+    "✍️Lập trình/Công cụ/Dịch vụ đám mây/Dịch vụ máy phục vụ/Fly/Nếu để qua thời gian thử nghiệm mà không làm gì rồi xin lại thì sẽ được cấp $20.md",
+    "✍️Lập trình/Công cụ/Dịch vụ đám mây/Dịch vụ máy phục vụ/Fly/Nếu tạo một máy mới bằng fly machine run mà không chỉ định rõ app nào, thì sẽ tự động có một app mới.md",
+    "✍️Lập trình/Công cụ/Dịch vụ đám mây/Dịch vụ máy phục vụ/Fly/flyd chạy trên máy vật lý, tạo ra các máy ảo bằng Firecracker. Pilot là PID 1 của máy ảo đó, dùng để quản lý các container.md",
+    "✍️Lập trình/Công cụ/Dịch vụ đám mây/Dịch vụ máy phục vụ/Fly/Các máy đều có cùng IP, dù chúng ở những vùng cách xa nhau.md",
+    "✍️Lập trình/Công cụ/Dịch vụ đám mây/Dịch vụ máy phục vụ/Fly/Autostop, autostart chỉ chạy ở máy đang có, và không bao giờ tạo ra hay hủy máy.md",
+    "✍️Lập trình/Công cụ/Dịch vụ đám mây/Dịch vụ máy phục vụ/Fly/App là một nhóm các máy.md",
+    "✍️Lập trình/Công cụ/Dịch vụ đám mây/Dịch vụ máy phục vụ/Fly",
+    "✍️Lập trình/Công cụ/Dịch vụ đám mây/Dịch vụ máy phục vụ",
+    "✍️Lập trình/Ngôn ngữ lập trình/Ý đồ thiết kế/Ngôn ngữ kiểu tĩnh/C/C, Pascal đã hơn 50 tuổi.md",
+    "✍️Lập trình/Ngôn ngữ lập trình/Ý đồ thiết kế/Ngôn ngữ kiểu tĩnh/C/C khai báo kiểu trước biến. Các ngôn ngữ sau này khai báo kiểu sau biến.md",
+    "✍️Lập trình/Ngôn ngữ lập trình/Ý đồ thiết kế/Ngôn ngữ kiểu tĩnh/C",
+    "🛜Mạng máy tính/Thiết bị",
+    "✍️Lập trình/Công cụ/Dịch vụ đám mây/Fly/Volume",
+    "✍️Lập trình/Ngôn ngữ lập trình/Ý đồ thiết kế/Ngôn ngữ kiểu tĩnh/Gleam",
     "Ξ Thiết lập/Ảnh/Người dùng, giao diện, chương trình ứng dụng, hệ quản trị cơ sở dữ liệu, cơ sở dữ liệu.png",
-    "🗄️Tổ chức dữ liệu/Định dạng dữ liệu/Định dạng bảng",
-    "🤖Đường dẫn, tiến trình, terminal, hệ điều hành/Chương trình, tiến trình/init",
-    "🤖Đường dẫn, tiến trình, terminal, hệ điều hành/Nhân",
-    "✍️Lập trình/Công cụ/CICD/Container (Docker)/Ảnh",
-    "💽Phần cứng/Kiến trúc",
-    "✍️Lập trình/Công cụ/CICD/Container (Docker)/Container",
     "Ξ Thiết lập/Ảnh/origin.png"
   ]
 }

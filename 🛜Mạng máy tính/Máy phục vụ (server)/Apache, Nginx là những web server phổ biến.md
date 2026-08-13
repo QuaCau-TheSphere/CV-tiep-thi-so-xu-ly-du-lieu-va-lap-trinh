@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2026-08-06T15:36
+updated: 2026-08-09T14:57
 ---
 Nguồn:: 
-[[Server là chương trình cung cấp dữ liệu cho chương trình khác. Client là chương trình yêu cầu chương trình khác cung cấp dữ liệu cho mình]]
+[[Server là bên cung cấp dữ liệu cho bên khác. Client là bên yêu cầu bên khác cung cấp dữ liệu cho mình]]

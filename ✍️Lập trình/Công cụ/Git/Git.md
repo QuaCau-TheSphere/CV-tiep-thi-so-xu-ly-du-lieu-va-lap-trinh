@@ -1,7 +1,8 @@
 ---
 share: true
 created: 2024-01-27T13:38
-updated: 2026-08-14T00:21
+updated: 2026-08-18T15:44
+description: Các trò chơi giúp học Git. Kinh nghiệm tra cứu. Một số hiểu biết hữu ích. Các ghi chú khác.
 ---
 # Học Git
 Git thật hữu dụng, nhưng với những người mới tập làm quen với Git thì sẽ thấy ngộp nếu phải nhảy ngay vào giao diện dòng lệnh. Các client cung cấp giao diện đồ hoạ cho Git như [Sourcetree](https://www.sourcetreeapp.com/) hoặc [GitKraken](https://www.gitkraken.com/git-client) tuy đã làm tăng sự thân thiện và trực quan lên rất nhiều, nhưng vẫn chưa thể làm bạn hết bối rối vì chúng vẫn phải trưng ra nhiều nút bấm. Dù sao thì chúng được sinh ra để bạn dùng Git, chứ không phải để dạy bạn dùng Git. 
@@ -53,4 +54,6 @@ GROUP BY split(file.folder, "/")[3]
 
 [GitHub - GitAlias/gitalias: Git alias commands for faster easier version control](https://github.com/GitAlias/gitalias)
 ![15 Lazygit Features In Under 15 Minutes - YouTube](https://www.youtube.com/watch?v=CPLdltN7wgE)
+
+
 

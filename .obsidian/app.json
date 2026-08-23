@@ -37,5 +37,6 @@
     "downscalePercent": 100
   },
   "useTab": false,
-  "trashOption": "local"
+  "trashOption": "local",
+  "settingsPopoutWindow": false
 }

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-05T16:30
-updated: 2026-08-06T15:36
+updated: 2026-09-07T01:55
 ---
 Để hỗ trợ cho quản lý và thực hiện các yêu cầu khác, người ta đã và đang sử dụng một số phương pháp tổ chức dữ liệu khác nhau. Phần trình bày tiếp theo sau giới thiệu 3 phương pháp chính.
 

@@ -59,14 +59,76 @@
             "id": "c2454412b4838750",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "✍️Lập trình/Kỹ thuật xử lý/Local-first/Máy người dùng xem thay đổi trên máy họ không khác gì với thay đổi trên máy người khác.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Máy người dùng xem thay đổi trên máy họ không khác gì với thay đổi trên máy người khác"
+            }
+          },
+          {
+            "id": "a9e3fe0053826fb4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗄️Tổ chức dữ liệu/Local-first/Máy người dùng xem thay đổi trên máy họ không khác gì với thay đổi trên máy người khác.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Máy người dùng xem thay đổi trên máy họ không khác gì với thay đổi trên máy người khác"
+            }
+          },
+          {
+            "id": "16e9d5556edc7e67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📎Nhu cầu công nghệ/📎Nhu cầu công nghệ.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "📎Nhu cầu công nghệ"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -100,7 +162,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "installHook",
+                "query": "vault repo project",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -220,44 +282,44 @@
       "open-vscode:VS Code": false
     }
   },
-  "active": "c2454412b4838750",
+  "active": "16e9d5556edc7e67",
   "lastOpenFiles": [
+    "📎Nhu cầu công nghệ/Lấy thông báo từ các chương trình.md",
+    "📎Nhu cầu công nghệ/📎Nhu cầu công nghệ.md",
+    "🗄️Tổ chức dữ liệu/🗄️Tổ chức dữ liệu.md",
+    "🗄️Tổ chức dữ liệu/Local-first/Local-first chỉ là trường hợp đặc biệt của distributed state.md",
+    "🗄️Tổ chức dữ liệu/Local-first/Máy người dùng xem thay đổi trên máy họ không khác gì với thay đổi trên máy người khác.md",
+    "🗄️Tổ chức dữ liệu/Đồng bộ, sao lưu/CRDT giải quyết xung đột, không phải đồng bộ.md",
+    "🗄️Tổ chức dữ liệu/Đồng bộ, sao lưu/Agent chỉ là trạng thái trong cơ sở dữ liệu.md",
+    "🗄️Tổ chức dữ liệu/Đồng bộ, sao lưu/Syncthing/Hướng dẫn đồng bộ dữ liệu với Android.md",
+    "🗄️Tổ chức dữ liệu/Đồng bộ, sao lưu/Syncthing dành cho đồng bộ dữ liệu giữa các thiết bị của cùng một người. Git chuyên cho việc hợp tác làm việc giữa nhiều người.md",
+    "🗄️Tổ chức dữ liệu/Hệ quản trị dữ liệu/Các chương trình ứng dụng không giao tiếp trực tiếp với CSDL mà qua một trung gian gọi là hệ quản trị cơ sở dữ liệu.md",
+    "🛜Mạng máy tính/Lịch sử phát triển internet.md",
+    "🛜Mạng máy tính/VPN.md",
+    "🛜Mạng máy tính/Server là cái máy. Host là cái dịch vụ cung cấp cái máy đó và những thứ liên quan tới nó.md",
+    "🗄️Tổ chức dữ liệu/Local-first/Động cơ đồng bộ sẽ lo hết, không cần phải viết code cho server.md",
+    "📎Nhu cầu công nghệ/Xử lý tín hiệu/JPEG hướng tới nén ảnh sao cho mắt không thấy quá khác biệt. TIFF hướng tới lưu giữ tất cả mọi thông tin khi thao tác. SVG dùng toán học để dựng nên. HEIC thừa nhận là camera bây giờ rất tốt.md",
+    "📎Nhu cầu công nghệ/PTA Graphviz.md",
+    "📎Nhu cầu công nghệ/Dịch thuật ngữ/Dịch thuật ngữ.md",
+    "🗄️Tổ chức dữ liệu/Local-first",
+    "✍️Lập trình/Công cụ/Dịch vụ đám mây/Đám mây bản chất là đi thuê local của người khác.md",
+    "🛜Mạng máy tính/Tên miền, URI/Tên miền có thể có dấu hoặc emoji được.md",
+    "✍️Lập trình/Ngôn ngữ lập trình/Ý đồ thiết kế/Ngôn ngữ kiểu tĩnh/Gleam/Gleam tập trung vào việc cải thiện trải nghiệm của lập trình viên hơn là tính năng.md",
+    "✍️Lập trình/Ngôn ngữ lập trình/Ý đồ thiết kế/Ngôn ngữ kiểu tĩnh/Gleam/tên.md",
+    "📎Nhu cầu công nghệ/Dịch thuật ngữ/Chưa rõ lý do vì sao lại dịch object ra thành đối tượng chứ không phải vật thể.md",
+    "✍️Lập trình/Khái niệm cơ bản/Hệ hình lập trình/Hệ hình lập trình.md",
+    "✍️Lập trình/Ngôn ngữ lập trình/Ý đồ thiết kế/Ý đồ thiết kế.md",
     "🤖Đường dẫn, tiến trình, terminal, hệ điều hành/Nguyên lý chung/Đường dẫn, tên tập tin/pwd là thư mục mà tiến trình sẽ chạy. cwd là thư mục mà mình đang ở đó.md",
     "🤖Đường dẫn, tiến trình, terminal, hệ điều hành/Nguyên lý chung/Đường dẫn, tên tập tin/Cách các đường dẫn ở những nơi khác nhau xử lý dấu cách và ký tự phi ASCII.md",
-    "🤖Đường dẫn, tiến trình, terminal, hệ điều hành/Nguyên lý chung/Đường dẫn, tên tập tin/Đường dẫn đến tệp ngoài trong một script phụ thuộc vào cwd, không phải đường dẫn tới script mình đang viết.md",
-    "🤖Đường dẫn, tiến trình, terminal, hệ điều hành/Nguyên lý chung/Đường dẫn, tên tập tin/Việc có khoảng trắng trong tên file sẽ khiến việc xử lý code phức tạp hơn.md",
-    "🤖Đường dẫn, tiến trình, terminal, hệ điều hành/Nguyên lý chung/Đường dẫn, tên tập tin/Sự khác biệt giữa Windows và Android, Mac trong tên file.md",
-    "🤖Đường dẫn, tiến trình, terminal, hệ điều hành/Nguyên lý chung/Đường dẫn, tên tập tin/Những chương trình cũ sẽ dễ gặp vấn đề về dấu cách hơn những chương trình mới.md",
-    "🤖Đường dẫn, tiến trình, terminal, hệ điều hành/Nguyên lý chung/Đường dẫn, tên tập tin/Hệ điều hành trông như có vẻ dùng được đường dẫn Unicode, nhưng thực ra chúng chỉ là ASCII.md",
-    "🤖Đường dẫn, tiến trình, terminal, hệ điều hành/Nguyên lý chung/Đường dẫn, tên tập tin/Dùng absolute path cho lành.md",
     "🤖Đường dẫn, tiến trình, terminal, hệ điều hành/Nguyên lý chung/Đường dẫn, tên tập tin",
-    "🤖Đường dẫn, tiến trình, terminal, hệ điều hành/Hệ điều hành cụ thể/PTA Graphviz.md",
-    "⚒️Nhu cầu công việc/PTA Graphviz.md",
-    "🤖Đường dẫn, tiến trình, terminal, hệ điều hành/Nguyên lý chung/Ở tệp, quyền thực thi nghĩa là tệp này có thể chạy như một chương trình. Ở thư mục, quyền thực thi có nghĩa là ta có thể truy cập được vào nó.md",
-    "🤖Đường dẫn, tiến trình, terminal, hệ điều hành/Ở tệp, quyền thực thi nghĩa là tệp này có thể chạy như một chương trình. Ở thư mục, quyền thực thi có nghĩa là ta có thể truy cập được vào nó.md",
-    "🤖Đường dẫn, tiến trình, terminal, hệ điều hành/Nguyên lý chung/Hệ điều hành.md",
-    "🤖Đường dẫn, tiến trình, terminal, hệ điều hành/PTA Graphviz.md",
-    "🤖Đường dẫn, tiến trình, terminal, hệ điều hành/Hệ điều hành cụ thể/Hệ điều hành.md",
-    "🤖Đường dẫn, tiến trình, terminal, hệ điều hành/Hệ điều hành cụ thể/Unix, Linux/Android/Termux.md",
-    "🤖Đường dẫn, tiến trình, terminal, hệ điều hành/Hệ điều hành cụ thể/Unix, Linux/Android/Magisk.md",
-    "🤖Đường dẫn, tiến trình, terminal, hệ điều hành/Hệ điều hành cụ thể/Unix, Linux/Ý nghĩa tên các thư mục.md",
-    "🤖Đường dẫn, tiến trình, terminal, hệ điều hành/Hệ điều hành cụ thể/Unix, Linux/Nên cài Linux hay dùng WSL.md",
-    "🤖Đường dẫn, tiến trình, terminal, hệ điều hành/Hệ điều hành cụ thể/Unix, Linux/nobody là một người dùng hệ thống không có đường dẫn home và có quyền tối thiểu (UID 65534).md",
-    "🤖Đường dẫn, tiến trình, terminal, hệ điều hành/Hệ điều hành cụ thể/Unix, Linux/Linux là nhân hệ điều hành. GNU Linux mới là hệ điều hành.md",
-    "🤖Đường dẫn, tiến trình, terminal, hệ điều hành/Hệ điều hành cụ thể/Unix, Linux/Dùng chương trình Linux cho người không biết gì về nó.md",
-    "🤖Đường dẫn, tiến trình, terminal, hệ điều hành/Hệ điều hành cụ thể/Unix, Linux/Các chương trình trên Linux hướng đến việc làm tốt đúng một nhiệm vụ duy nhất, và làm tốt việc làm cùng nhau.md",
-    "🤖Đường dẫn, tiến trình, terminal, hệ điều hành/Hệ điều hành cụ thể/Unix, Linux/chmod dùng để thay đổi quyền đọc, ghi, thực thi của tệp hoặc thư mục.md",
     "🤖Đường dẫn, tiến trình, terminal, hệ điều hành/Hệ điều hành cụ thể/Unix, Linux/Android",
     "🤖Đường dẫn, tiến trình, terminal, hệ điều hành/Hệ điều hành cụ thể/Unix, Linux",
-    "🤖Đường dẫn, tiến trình, terminal, hệ điều hành/Hệ điều hành cụ thể/Windows/dotnet/Windows không ship phiên bản dotnet Core mới nhất để tránh việc dotnet phải hỗ trợ phiên bản Windows đó cho tới khi nào phiên bản đó bị chính thức ngừng hỗ trợ.md",
-    "🤖Đường dẫn, tiến trình, terminal, hệ điều hành/Hệ điều hành cụ thể/Windows/Windows rất lằng nhằng trong việc thiết lập cấu hình.md",
     "🤖Đường dẫn, tiến trình, terminal, hệ điều hành/Hệ điều hành cụ thể/Windows/dotnet",
     "🤖Đường dẫn, tiến trình, terminal, hệ điều hành/Hệ điều hành cụ thể/Windows",
     "🤖Đường dẫn, tiến trình, terminal, hệ điều hành/Hệ điều hành cụ thể",
     "🤖Đường dẫn, tiến trình, terminal, hệ điều hành/Nguyên lý chung/Terminal, shell, console/PowerShell",
     "🤖Đường dẫn, tiến trình, terminal, hệ điều hành/Nguyên lý chung/Terminal, shell, console",
     "🤖Đường dẫn, tiến trình, terminal, hệ điều hành/Nguyên lý chung/Nhân",
-    "🤖Đường dẫn, tiến trình, terminal, hệ điều hành/Nguyên lý chung/Chương trình, tiến trình/init",
     "Ξ Thiết lập/Ảnh/Người dùng, giao diện, chương trình ứng dụng, hệ quản trị cơ sở dữ liệu, cơ sở dữ liệu.png",
     "Ξ Thiết lập/Ảnh/origin.png"
   ]
